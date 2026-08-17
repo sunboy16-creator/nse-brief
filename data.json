@@ -1,5 +1,5 @@
 {
- "generated": "17-Aug-2026 14:06",
+ "generated": "17-Aug-2026 14:21",
  "market_date": "2026-08-14",
  "stocks": [
   {
@@ -556,6 +556,20 @@
    "p": 1216.8
   }
  ],
+ "mf": [
+  {
+   "who": "KB",
+   "overall": 58.78,
+   "day": -0.16,
+   "funds": 10
+  },
+  {
+   "who": "PT",
+   "overall": 56.46,
+   "day": -0.2,
+   "funds": 8
+  }
+ ],
  "digests": [
   {
    "s": "GAIL",
@@ -808,7 +822,7 @@
    }
   ]
  },
- "flows": [
+ "fiidii": [
   {
    "cat": "DII",
    "date": "14-Aug-2026",
@@ -822,6 +836,208 @@
    "net": "508.12",
    "buy": "12854.44",
    "sell": "12346.32"
+  }
+ ],
+ "flows": [
+  {
+   "s": "MOREPENLAB",
+   "kind": "bulk",
+   "who": "HRTI PRIVATE LIMITED",
+   "bs": "SELL",
+   "qty": 3711184,
+   "px": 82.51,
+   "val": 30.62,
+   "mine": true
+  },
+  {
+   "s": "MOREPENLAB",
+   "kind": "bulk",
+   "who": "HRTI PRIVATE LIMITED",
+   "bs": "BUY",
+   "qty": 2963079,
+   "px": 82.31,
+   "val": 24.39,
+   "mine": true
+  },
+  {
+   "s": "LEAPIND",
+   "kind": "bulk",
+   "who": "SMALLCAP WORLD FUND INC",
+   "bs": "BUY",
+   "qty": 8856143,
+   "px": 161.22,
+   "val": 142.78,
+   "mine": false
+  },
+  {
+   "s": "SUDARSCHEM",
+   "kind": "bulk",
+   "who": "PRADEEP RAMWILAS RATHI",
+   "bs": "SELL",
+   "qty": 926000,
+   "px": 1015.43,
+   "val": 94.03,
+   "mine": false
+  },
+  {
+   "s": "LEAPIND",
+   "kind": "bulk",
+   "who": "THE PRUDENTIAL ASSURANCE COMPANY LIMIT",
+   "bs": "BUY",
+   "qty": 5550198,
+   "px": 154.16,
+   "val": 85.56,
+   "mine": false
+  },
+  {
+   "s": "LEAPIND",
+   "kind": "bulk",
+   "who": "HABROK INDIA MASTER LP",
+   "bs": "BUY",
+   "qty": 4700000,
+   "px": 165.26,
+   "val": 77.67,
+   "mine": false
+  },
+  {
+   "s": "MOTISONS",
+   "kind": "bulk",
+   "who": "ARIHANT CAPITAL MARKETS LIMITED",
+   "bs": "BUY",
+   "qty": 46612570,
+   "px": 16.02,
+   "val": 74.67,
+   "mine": false
+  },
+  {
+   "s": "MOTISONS",
+   "kind": "bulk",
+   "who": "ARIHANT CAPITAL MARKETS LIMITED",
+   "bs": "SELL",
+   "qty": 45933469,
+   "px": 16.25,
+   "val": 74.64,
+   "mine": false
+  },
+  {
+   "s": "RATNAVEER",
+   "kind": "bulk",
+   "who": "ARIHANT CAPITAL MARKETS LIMITED",
+   "bs": "SELL",
+   "qty": 3039738,
+   "px": 224.54,
+   "val": 68.25,
+   "mine": false
+  },
+  {
+   "s": "INDIGOPNTS",
+   "kind": "bulk",
+   "who": "HDFC MUTUAL FUND",
+   "bs": "BUY",
+   "qty": 580947,
+   "px": 1173.26,
+   "val": 68.16,
+   "mine": false
+  },
+  {
+   "s": "RATNAVEER",
+   "kind": "bulk",
+   "who": "ARIHANT CAPITAL MARKETS LIMITED",
+   "bs": "BUY",
+   "qty": 3040083,
+   "px": 223.66,
+   "val": 67.99,
+   "mine": false
+  },
+  {
+   "s": "MANORAMA",
+   "kind": "bulk",
+   "who": "MICROCURVES TRADING PRIVATE LIMITED",
+   "bs": "SELL",
+   "qty": 354011,
+   "px": 1780.85,
+   "val": 63.04,
+   "mine": false
+  },
+  {
+   "s": "MANORAMA",
+   "kind": "bulk",
+   "who": "MICROCURVES TRADING PRIVATE LIMITED",
+   "bs": "BUY",
+   "qty": 354011,
+   "px": 1779.63,
+   "val": 63.0,
+   "mine": false
+  },
+  {
+   "s": "SUDARSCHEM",
+   "kind": "bulk",
+   "who": "RAHUL PRADEEP RATHI",
+   "bs": "SELL",
+   "qty": 526000,
+   "px": 1030.43,
+   "val": 54.2,
+   "mine": false
+  },
+  {
+   "s": "ZEEL",
+   "kind": "bulk",
+   "who": "QE SECURITIES LLP",
+   "bs": "SELL",
+   "qty": 5092545,
+   "px": 102.04,
+   "val": 51.96,
+   "mine": false
+  },
+  {
+   "s": "ZEEL",
+   "kind": "bulk",
+   "who": "QE SECURITIES LLP",
+   "bs": "BUY",
+   "qty": 4884905,
+   "px": 102.5,
+   "val": 50.07,
+   "mine": false
+  },
+  {
+   "s": "LEAPIND",
+   "kind": "bulk",
+   "who": "GDN INVESTMENTS PRIVATE LIMITED",
+   "bs": "BUY",
+   "qty": 3000000,
+   "px": 165.9,
+   "val": 49.77,
+   "mine": false
+  },
+  {
+   "s": "LEAPIND",
+   "kind": "bulk",
+   "who": "AAGAM INVESTMENTS",
+   "bs": "BUY",
+   "qty": 3060000,
+   "px": 157.27,
+   "val": 48.12,
+   "mine": false
+  },
+  {
+   "s": "TECHNOCRAF",
+   "kind": "bulk",
+   "who": "NK SECURITIES RESEARCH PRIVATE LIMITED",
+   "bs": "SELL",
+   "qty": 1346080,
+   "px": 308.85,
+   "val": 41.57,
+   "mine": false
+  },
+  {
+   "s": "TECHNOCRAF",
+   "kind": "bulk",
+   "who": "NK SECURITIES RESEARCH PRIVATE LIMITED",
+   "bs": "BUY",
+   "qty": 1346080,
+   "px": 308.67,
+   "val": 41.55,
+   "mine": false
   }
  ]
 }

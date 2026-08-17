@@ -6,11 +6,11 @@
 <title>Market Brief</title>
 <style>
   :root{--bg:#0d1117;--card:#161b22;--bdr:#30363d;--t1:#e6edf3;--t2:#9aa4b2;--t3:#6e7681;
-        --grn:#3fb950;--red:#f85149;--blu:#58a6ff;--pur:#bc8cff;}
+        --grn:#3fb950;--red:#f85149;--blu:#58a6ff;}
   *{box-sizing:border-box;-webkit-tap-highlight-color:transparent}
-  body{margin:0;background:var(--bg);color:var(--t1);
+  body{margin:0 auto;background:var(--bg);color:var(--t1);
        font:15px/1.5 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;
-       padding:0 12px 40px;max-width:760px;margin:0 auto}
+       padding:0 12px 40px;max-width:760px}
   header{position:sticky;top:0;background:linear-gradient(180deg,var(--bg) 70%,transparent);
          padding:14px 0 10px;z-index:5}
   h1{font-size:20px;margin:0;font-weight:800}
@@ -28,29 +28,35 @@
   .nm{font-size:11px;color:var(--t3);display:block;margin-top:1px}
   .pct{font-weight:700;font-size:14px;white-space:nowrap}
   .up{color:var(--grn)} .dn{color:var(--red)} .flat{color:var(--t2)}
-  .meta{font-size:11px;color:var(--t3);white-space:nowrap}
+  .mf{display:flex;justify-content:space-between;align-items:center;
+      padding:11px 0;border-top:1px solid var(--bdr)}
+  .who{font-weight:700;font-size:15px}
+  .mfb{text-align:right}
+  .mfl{font-size:10px;color:var(--t3);text-transform:uppercase;letter-spacing:.4px}
   .dcard{border-top:1px solid var(--bdr);padding:11px 0}
   .dhead{display:flex;justify-content:space-between;gap:8px;align-items:baseline}
   .pill{font-size:10px;font-weight:700;text-transform:uppercase;border-radius:8px;
         padding:2px 7px;color:#fff}
   .p-pos{background:#1a7f37}.p-neg{background:#b62324}.p-neu{background:#31547f}
   .dtxt{font-size:13px;color:var(--t2);margin-top:6px;white-space:pre-wrap}
-  .clip{max-height:78px;overflow:hidden;position:relative}
+  .clip{max-height:78px;overflow:hidden}
   .more{font-size:12px;color:var(--blu);background:none;border:none;padding:6px 0;cursor:pointer}
   .toggle{width:100%;margin-top:8px;background:#21262d;border:1px solid var(--bdr);
           color:var(--t1);border-radius:8px;padding:9px;font-size:13px;cursor:pointer}
-  .flow{display:flex;justify-content:space-between;padding:9px 0;border-top:1px solid var(--bdr);font-size:13px}
+  .flow{padding:9px 0;border-top:1px solid var(--bdr)}
+  .tag{font-size:9px;text-transform:uppercase;letter-spacing:.4px;color:var(--t3);
+       border:1px solid var(--bdr);border-radius:5px;padding:1px 5px;margin-left:5px}
   .empty{color:var(--t3);font-size:13px;padding:10px 0}
   footer{text-align:center;color:var(--t3);font-size:11px;margin-top:20px}
 </style></head><body>
 <header><h1>Market Brief</h1><div class="sub" id="stamp">loading...</div></header>
 <div id="app"></div>
-<footer>Generated on the NSE Dashboard &middot; personal use &middot; not investment advice</footer>
+<footer>Percentages only &middot; no portfolio values published<br>Generated on the NSE Dashboard &middot; not investment advice</footer>
 <script>
 var D=null;
 function esc(s){return (s==null?'':String(s)).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');}
 function cls(v){return v>0?'up':(v<0?'dn':'flat');}
-function sign(v){return (v>0?'+':'')+v.toFixed(2)+'%';}
+function sign(v){return (v>0?'+':'')+Number(v).toFixed(2)+'%';}
 function rowHTML(x){
   return '<div class="row"><div><span class="sym">'+esc(x.s)+'</span>'+
     '<span class="nm">'+esc(x.n)+'</span></div>'+
@@ -60,6 +66,25 @@ function rowHTML(x){
 function sec(title,count,inner,open){
   return '<details'+(open?' open':'')+'><summary>'+title+
     '<span class="cnt">'+count+'</span></summary><div class="body">'+inner+'</div></details>';
+}
+function mfHTML(m){
+  return '<div class="mf"><span class="who">'+esc(m.who)+
+    '<span class="nm">'+m.funds+' funds</span></span>'+
+    '<div style="display:flex;gap:18px">'+
+    '<div class="mfb"><div class="mfl">today</div>'+
+    '<div class="pct '+cls(m.day)+'">'+sign(m.day)+'</div></div>'+
+    '<div class="mfb"><div class="mfl">overall</div>'+
+    '<div class="pct '+cls(m.overall)+'">'+sign(m.overall)+'</div></div></div></div>';
+}
+function flowHTML(x){
+  var buy=x.bs==='BUY';
+  return '<div class="flow"><div style="display:flex;justify-content:space-between;align-items:baseline">'+
+    '<span><span class="sym">'+esc(x.s)+'</span>'+
+    '<span class="tag">'+esc(x.kind)+'</span>'+(x.mine?'<span class="tag">mine</span>':'')+'</span>'+
+    '<span class="pct '+(buy?'up':'dn')+'">'+esc(x.bs)+'</span></div>'+
+    '<div class="nm">'+esc(x.who)+'</div>'+
+    '<div class="nm">'+(x.qty?x.qty.toLocaleString('en-IN'):'')+' @ \u20b9'+x.px+
+    (x.val?('  \u00b7  \u20b9'+x.val+' Cr'):'')+'</div></div>';
 }
 function digestHTML(d,i){
   var p=d.sent==='positive'?'p-pos':(d.sent==='negative'?'p-neg':'p-neu');
@@ -75,27 +100,32 @@ function render(){
   document.getElementById('stamp').textContent =
     'Data '+(D.market_date||'-')+'  \u00b7  published '+D.generated;
   var h='';
-  var dg=D.digests||[];
-  h+=sec('\u2728 AI-Digest',dg.length+' filings',
-    dg.length?dg.map(digestHTML).join(''):'<div class="empty">No analysed filings in the last 2 days.</div>',true);
   var st=D.stocks||[];
   var up=st.filter(function(x){return x.c>0;}).slice(0,10);
   var dn=st.filter(function(x){return x.c<0;}).sort(function(a,b){return a.c-b.c;}).slice(0,10);
-  var movers=up.concat(dn);
   h+=sec('\u{1F4CA} My Stocks',st.length+' tracked',
-    (movers.length?movers.map(rowHTML).join(''):'<div class="empty">No data.</div>')+
+    (up.concat(dn).length?up.concat(dn).map(rowHTML).join(''):'<div class="empty">No data.</div>')+
     '<button class="toggle" onclick="showAll(this)">Show all '+st.length+'</button>'+
     '<div id="allst" style="display:none">'+st.map(rowHTML).join('')+'</div>',true);
+  var mf=D.mf||[];
+  h+=sec('\u{1F4B9} Mutual Funds',mf.length?'% only':'-',
+    mf.length?mf.map(mfHTML).join(''):'<div class="empty">No MF data.</div>',true);
   var m=D.movers||{};
   h+=sec('\u25b2 Top Gainers',(m.gainers||[]).length,(m.gainers||[]).map(rowHTML).join(''));
   h+=sec('\u25bc Top Losers',(m.losers||[]).length,(m.losers||[]).map(rowHTML).join(''));
   h+=sec('\u{1F4E6} Delivery Leaders',(m.delivery||[]).length,(m.delivery||[]).map(rowHTML).join(''));
-  var f=D.flows||[];
+  var f=D.fiidii||[];
   h+=sec('\u{1F4B0} FII / DII',f.length?f[0].date:'-',
     f.length?f.map(function(x){
       var n=parseFloat(x.net||0);
-      return '<div class="flow"><span>'+esc(x.cat)+'</span><span class="'+cls(n)+'">'+
+      return '<div class="row"><span>'+esc(x.cat)+'</span><span class="pct '+cls(n)+'">'+
         (n>0?'+':'')+n.toFixed(2)+' Cr</span></div>';}).join(''):'<div class="empty">No data.</div>');
+  var fl=D.flows||[];
+  h+=sec('\u{1F501} Market Flows',fl.length+' deals',
+    fl.length?fl.map(flowHTML).join(''):'<div class="empty">No bulk/block deals.</div>');
+  var dg=D.digests||[];
+  h+=sec('\u2728 AI-Digest',dg.length+' filings',
+    dg.length?dg.map(digestHTML).join(''):'<div class="empty">No analysed filings in the last 2 days.</div>',true);
   document.getElementById('app').innerHTML=h;
 }
 function showAll(btn){
