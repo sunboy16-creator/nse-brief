@@ -1,0 +1,827 @@
+{
+ "generated": "17-Aug-2026 14:06",
+ "market_date": "2026-08-14",
+ "stocks": [
+  {
+   "s": "BUILDPRO",
+   "n": "Shankara Buildpro Limited",
+   "c": 13.55,
+   "d": 35.5,
+   "p": 1200.3
+  },
+  {
+   "s": "SWIGGY",
+   "n": "Swiggy Limited",
+   "c": 7.47,
+   "d": 41.8,
+   "p": 280.95
+  },
+  {
+   "s": "MARKSANS",
+   "n": "Marksans Pharma Limited",
+   "c": 5.26,
+   "d": 39.8,
+   "p": 277.3
+  },
+  {
+   "s": "DIXON",
+   "n": "Dixon Technologies (India) Limited",
+   "c": 4.2,
+   "d": 26.0,
+   "p": 13477.0
+  },
+  {
+   "s": "CAMS",
+   "n": "Computer Age Management Services Limited",
+   "c": 3.45,
+   "d": 49.5,
+   "p": 775.7
+  },
+  {
+   "s": "BHARTIHEXA",
+   "n": "Bharti Hexacom Limited",
+   "c": 3.39,
+   "d": 43.2,
+   "p": 1571.5
+  },
+  {
+   "s": "MOREPENLAB",
+   "n": "Morepen Laboratories Limited",
+   "c": 3.39,
+   "d": 34.6,
+   "p": 60.96
+  },
+  {
+   "s": "DEEPAKNTR",
+   "n": "Deepak Nitrite Limited",
+   "c": 3.18,
+   "d": 52.4,
+   "p": 1621.2
+  },
+  {
+   "s": "MOSCHIP",
+   "n": "Moschip Technologies Limited",
+   "c": 3.17,
+   "d": 27.7,
+   "p": 238.62
+  },
+  {
+   "s": "CDSL",
+   "n": "Central Depository Services (India) Limi",
+   "c": 2.68,
+   "d": 39.0,
+   "p": 1346.5
+  },
+  {
+   "s": "SUNPHARMA",
+   "n": "Sun Pharmaceutical Industries Limited",
+   "c": 2.67,
+   "d": 54.5,
+   "p": 1938.7
+  },
+  {
+   "s": "ITCHOTELS",
+   "n": "ITC Hotels Limited",
+   "c": 2.63,
+   "d": 47.0,
+   "p": 182.31
+  },
+  {
+   "s": "LICI",
+   "n": "Life Insurance Corporation Of India",
+   "c": 2.47,
+   "d": 50.9,
+   "p": 438.45
+  },
+  {
+   "s": "PNB",
+   "n": "Punjab National Bank",
+   "c": 2.47,
+   "d": 37.6,
+   "p": 103.44
+  },
+  {
+   "s": "AARTIPHARM",
+   "n": "Aarti Pharmalabs Limited",
+   "c": 2.43,
+   "d": 51.6,
+   "p": 702.95
+  },
+  {
+   "s": "IDFCFIRSTB",
+   "n": "IDFC First Bank Limited",
+   "c": 2.11,
+   "d": 44.2,
+   "p": 79.46
+  },
+  {
+   "s": "ETERNAL",
+   "n": "ETERNAL LIMITED",
+   "c": 2.01,
+   "d": 47.7,
+   "p": 292.45
+  },
+  {
+   "s": "NYKAA",
+   "n": "FSN E-Commerce Ventures Limited",
+   "c": 1.92,
+   "d": 61.6,
+   "p": 324.05
+  },
+  {
+   "s": "BAJAJHFL",
+   "n": "Bajaj Housing Finance Limited",
+   "c": 1.86,
+   "d": 49.1,
+   "p": 87.59
+  },
+  {
+   "s": "SBILIFE",
+   "n": "SBI Life Insurance Company Limited",
+   "c": 1.83,
+   "d": 55.3,
+   "p": 1821.7
+  },
+  {
+   "s": "BSE",
+   "n": "BSE Limited",
+   "c": 1.78,
+   "d": 27.7,
+   "p": 3805.7
+  },
+  {
+   "s": "COFORGE",
+   "n": "Coforge Limited",
+   "c": 1.57,
+   "d": 27.5,
+   "p": 1468.6
+  },
+  {
+   "s": "TATACONSUM",
+   "n": "TATA CONSUMER PRODUCTS LIMITED",
+   "c": 1.55,
+   "d": 50.3,
+   "p": 1106.7
+  },
+  {
+   "s": "JIOFIN",
+   "n": "Jio Financial Services Limited",
+   "c": 1.47,
+   "d": 32.8,
+   "p": 233.37
+  },
+  {
+   "s": "VBL",
+   "n": "Varun Beverages Limited",
+   "c": 1.44,
+   "d": 59.9,
+   "p": 481.4
+  },
+  {
+   "s": "PIDILITIND",
+   "n": "Pidilite Industries Limited",
+   "c": 1.27,
+   "d": 44.3,
+   "p": 1590.4
+  },
+  {
+   "s": "TATATECH",
+   "n": "Tata Technologies Limited",
+   "c": 1.22,
+   "d": 32.8,
+   "p": 711.6
+  },
+  {
+   "s": "ADANIENT",
+   "n": "Adani Enterprises Limited",
+   "c": 1.2,
+   "d": 41.9,
+   "p": 3083.6
+  },
+  {
+   "s": "LGEINDIA",
+   "n": "LG Electronics India Limited",
+   "c": 1.2,
+   "d": 68.1,
+   "p": 1563.8
+  },
+  {
+   "s": "IGIL",
+   "n": "International Gemological Institute Limi",
+   "c": 1.18,
+   "d": 45.9,
+   "p": 341.75
+  },
+  {
+   "s": "SHAKTIPUMP",
+   "n": "Shakti Pumps (India) Limited",
+   "c": 1.11,
+   "d": 29.6,
+   "p": 572.95
+  },
+  {
+   "s": "HDBFS",
+   "n": "HDB Financial Services Limited",
+   "c": 1.1,
+   "d": 48.0,
+   "p": 734.9
+  },
+  {
+   "s": "ICICIAMC",
+   "n": "ICICI Prudential Asset Management Compan",
+   "c": 1.01,
+   "d": 64.4,
+   "p": 3181.1
+  },
+  {
+   "s": "HDFCBANK",
+   "n": "HDFC Bank Limited",
+   "c": 0.89,
+   "d": 54.9,
+   "p": 817.55
+  },
+  {
+   "s": "IEX",
+   "n": "Indian Energy Exchange Limited",
+   "c": 0.89,
+   "d": 53.0,
+   "p": 117.85
+  },
+  {
+   "s": "ROUTE",
+   "n": "ROUTE MOBILE LIMITED",
+   "c": 0.82,
+   "d": 49.9,
+   "p": 537.9
+  },
+  {
+   "s": "IDEA",
+   "n": "Vodafone Idea Limited",
+   "c": 0.79,
+   "d": 29.0,
+   "p": 14.04
+  },
+  {
+   "s": "TMCV",
+   "n": "Tata Motors Limited",
+   "c": 0.74,
+   "d": 45.6,
+   "p": 419.85
+  },
+  {
+   "s": "PATANJALI",
+   "n": "Patanjali Foods Limited",
+   "c": 0.72,
+   "d": 21.0,
+   "p": 412.25
+  },
+  {
+   "s": "IRFC",
+   "n": "Indian Railway Finance Corporation Limit",
+   "c": 0.71,
+   "d": 40.3,
+   "p": 88.12
+  },
+  {
+   "s": "IOLCP",
+   "n": "IOL Chemicals and Pharmaceuticals Limite",
+   "c": 0.62,
+   "d": 24.4,
+   "p": 168.15
+  },
+  {
+   "s": "POWERGRID",
+   "n": "Power Grid Corporation of India Limited",
+   "c": 0.59,
+   "d": 56.9,
+   "p": 281.35
+  },
+  {
+   "s": "GAIL",
+   "n": "GAIL (India) Limited",
+   "c": 0.57,
+   "d": 54.5,
+   "p": 170.2
+  },
+  {
+   "s": "AARTIIND",
+   "n": "Aarti Industries Limited",
+   "c": 0.53,
+   "d": 51.3,
+   "p": 467.95
+  },
+  {
+   "s": "INDIASHLTR",
+   "n": "India Shelter Finance Corporation Limite",
+   "c": 0.53,
+   "d": 65.5,
+   "p": 779.9
+  },
+  {
+   "s": "IREDA",
+   "n": "Indian Renewable Energy Development Agen",
+   "c": 0.53,
+   "d": 33.5,
+   "p": 121.81
+  },
+  {
+   "s": "SBIN",
+   "n": "State Bank of India",
+   "c": 0.51,
+   "d": 26.3,
+   "p": 1022.1
+  },
+  {
+   "s": "ITC",
+   "n": "ITC Limited",
+   "c": 0.5,
+   "d": 56.7,
+   "p": 282.05
+  },
+  {
+   "s": "ADANIPORTS",
+   "n": "Adani Ports and Special Economic Zone Li",
+   "c": 0.47,
+   "d": 41.2,
+   "p": 1800.1
+  },
+  {
+   "s": "ANTHEM",
+   "n": "Anthem Biosciences Limited",
+   "c": 0.47,
+   "d": 50.6,
+   "p": 752.0
+  },
+  {
+   "s": "IOC",
+   "n": "Indian Oil Corporation Limited",
+   "c": 0.46,
+   "d": 52.8,
+   "p": 138.26
+  },
+  {
+   "s": "HINDUNILVR",
+   "n": "Hindustan Unilever Limited",
+   "c": 0.41,
+   "d": 56.3,
+   "p": 2144.5
+  },
+  {
+   "s": "RELIANCE",
+   "n": "Reliance Industries Limited",
+   "c": 0.31,
+   "d": 35.4,
+   "p": 1279.8
+  },
+  {
+   "s": "ASIANPAINT",
+   "n": "Asian Paints Limited",
+   "c": 0.3,
+   "d": 58.6,
+   "p": 2673.8
+  },
+  {
+   "s": "COALINDIA",
+   "n": "Coal India Limited",
+   "c": 0.2,
+   "d": 38.6,
+   "p": 429.9
+  },
+  {
+   "s": "HEROMOTOCO",
+   "n": "Hero MotoCorp Limited",
+   "c": 0.12,
+   "d": 57.5,
+   "p": 4898.5
+  },
+  {
+   "s": "EMCURE",
+   "n": "Emcure Pharmaceuticals Limited",
+   "c": 0.01,
+   "d": 48.9,
+   "p": 1809.5
+  },
+  {
+   "s": "ICICIBANK",
+   "n": "ICICI Bank Limited",
+   "c": 0.01,
+   "d": 48.9,
+   "p": 1380.7
+  },
+  {
+   "s": "IDEAFORGE",
+   "n": "Ideaforge Technology Limited",
+   "c": 0.0,
+   "d": null,
+   "p": 0.0
+  },
+  {
+   "s": "HFCL",
+   "n": "HFCL Limited",
+   "c": -0.03,
+   "d": 26.8,
+   "p": 214.68
+  },
+  {
+   "s": "ADANIPOWER",
+   "n": "Adani Power Limited",
+   "c": -0.07,
+   "d": 31.7,
+   "p": 216.32
+  },
+  {
+   "s": "LT",
+   "n": "Larsen & Toubro Limited",
+   "c": -0.16,
+   "d": 71.1,
+   "p": 3886.0
+  },
+  {
+   "s": "TECHM",
+   "n": "Tech Mahindra Limited",
+   "c": -0.17,
+   "d": 48.8,
+   "p": 1426.3
+  },
+  {
+   "s": "TMPV",
+   "n": "Tata Motors Passenger Vehicles Limited",
+   "c": -0.17,
+   "d": 61.5,
+   "p": 331.5
+  },
+  {
+   "s": "ZENTEC",
+   "n": "Zen Technologies Limited",
+   "c": -0.31,
+   "d": 33.6,
+   "p": 1813.0
+  },
+  {
+   "s": "BEL",
+   "n": "Bharat Electronics Limited",
+   "c": -0.34,
+   "d": 47.2,
+   "p": 406.2
+  },
+  {
+   "s": "HINDZINC",
+   "n": "Hindustan Zinc Limited",
+   "c": -0.34,
+   "d": 34.8,
+   "p": 528.5
+  },
+  {
+   "s": "TCS",
+   "n": "Tata Consultancy Services Limited",
+   "c": -0.39,
+   "d": 31.2,
+   "p": 2049.5
+  },
+  {
+   "s": "IRCTC",
+   "n": "Indian Railway Catering And Tourism Corp",
+   "c": -0.4,
+   "d": 60.0,
+   "p": 496.5
+  },
+  {
+   "s": "BAJFINANCE",
+   "n": "Bajaj Finance Limited",
+   "c": -0.65,
+   "d": 67.0,
+   "p": 1003.8
+  },
+  {
+   "s": "TITAN",
+   "n": "Titan Company Limited",
+   "c": -0.67,
+   "d": 58.8,
+   "p": 4555.8
+  },
+  {
+   "s": "TRENT",
+   "n": "Trent Limited",
+   "c": -0.68,
+   "d": 44.7,
+   "p": 2904.1
+  },
+  {
+   "s": "BDL",
+   "n": "Bharat Dynamics Limited",
+   "c": -0.83,
+   "d": 28.8,
+   "p": 1326.3
+  },
+  {
+   "s": "ABDL",
+   "n": "Allied Blenders and Distillers Limited",
+   "c": -1.22,
+   "d": 46.3,
+   "p": 666.6
+  },
+  {
+   "s": "NTPC",
+   "n": "NTPC Limited",
+   "c": -1.43,
+   "d": 66.6,
+   "p": 343.7
+  },
+  {
+   "s": "MARUTI",
+   "n": "Maruti Suzuki India Limited",
+   "c": -1.6,
+   "d": 53.7,
+   "p": 13728.0
+  },
+  {
+   "s": "INFY",
+   "n": "Infosys Limited",
+   "c": -1.73,
+   "d": 37.2,
+   "p": 1050.8
+  },
+  {
+   "s": "MAZDOCK",
+   "n": "Mazagon Dock Shipbuilders Limited",
+   "c": -3.18,
+   "d": 46.8,
+   "p": 2372.8
+  },
+  {
+   "s": "PARAS",
+   "n": "Paras Defence and Space Technologies Lim",
+   "c": -4.67,
+   "d": 31.0,
+   "p": 1216.8
+  }
+ ],
+ "digests": [
+  {
+   "s": "GAIL",
+   "n": "GAIL (India) Limited",
+   "cat": "Change in Management",
+   "when": "2026-08-15 18:16",
+   "sent": "neutral",
+   "txt": "Here is the summary of the regulatory filing:\n\n1. **Single Most Important Fact:** Shri Lalit Bhatt, ex-ED (BIS) and Senior Management Personnel (one level below Board of Directors), has been relieved from the services of GAIL effective 14.08.2026 (as stated in the document) following voluntary retirement.\n2. **Key Numbers:** None provided in the document.\n3. **Management Guidance/Outlook:** None stated.\n4. **What a Shareholder Should Watch or Act On:** No action required; this is a routine statutory disclosure for a change in Senior Management Personnel (one level below the Board).\n5. **One-Line Net Read:** **Neutral** \u2014 Routine voluntary retirement of a non-board senior executive with no operational disruption or financial impact reported."
+  },
+  {
+   "s": "HINDZINC",
+   "n": "Hindustan Zinc Limited",
+   "cat": "Change in Director(s)",
+   "when": "2026-08-15 15:00",
+   "sent": "neutral",
+   "txt": "Here is the equity research summary of the filing:\n\n### 1. Most Important Fact\nThe Board of Directors of Hindustan Zinc Limited approved the appointment of **Dr. Yogesh Attray (DIN: 07654847)** as an Additional Director designated as **Non-Executive Independent Director** for a 3-year term effective **August 14, 2026** (or until further orders), pursuant to an order from the Ministry of Mines, Government of India.\n\n### 2. Key Numbers\n* No financial metrics, revenues, profits, or transaction values are stated in this document.\n\n### 3. Management Guidance / Forward-Looking Statements\n* None present in the document.\n\n### 4. What a Shareholder Should Watch or Act On\n* Routine corporate governance filing; no immediate shareholder action required. The appointment will be subject to regular statutory/shareholder approvals as per applicable SEBI and Companies Act regulations.\n\n### 5. Net Read\n* **Neutral**: Routine appointment of a government-nominated Non-Executive Independent Director to the Board with no impact on operations or financials."
+  },
+  {
+   "s": "HINDZINC",
+   "n": "Hindustan Zinc Limited",
+   "cat": "Outcome of Board Meeting",
+   "when": "2026-08-15 14:56",
+   "sent": "neutral",
+   "txt": "### 1. Most Important Fact\nThe Board of Directors of Hindustan Zinc Limited approved the appointment of **Dr. Yogesh Attray** (DIN: 07654847) as an Additional Director designated as **Non-Executive Independent Director** (non-official part-time Director nominated by the Ministry of Mines, Government of India) for a term of **3 years**, effective **August 14, 2026** (or until further orders).\n\n---\n\n### 2. Key Numbers\n*No financial numbers or operational metrics are mentioned in this filing.*\n- **Tenure of Appointment:** 3 years (commencing August 14, 2026).\n\n---\n\n### 3. Management Guidance / Forward-Looking Statements\n- None stated in the document.\n\n---\n\n### 4. What a Shareholder Should Watch or Act On\n- **No action required.** This is a routine governance update reflecting the Government of India's (Ministry of Mines) board representation/nomination under applicable regulations.\n\n---\n\n### 5. Net Read\n**Neutral** \u2014 Routine statutory disclosure of a non-executive independent board appointment with no direct operational or financial impact."
+  },
+  {
+   "s": "IOC",
+   "n": "Indian Oil Corporation Limited",
+   "cat": "Change in Director(s)",
+   "when": "2026-08-15 14:28",
+   "sent": "neutral",
+   "txt": "**1. Most Important Fact**\nIndian Oil Corporation Limited has appointed **Dr. Alka Mundra** (DIN: 01581040) as an **Independent Director** on its Board, effective August 15, 2026, pursuant to the Ministry of Petroleum & Natural Gas (MOP&NG) letter dated August 12, 2026.\n\n---\n\n**2. Key Numbers**\n* **Financial Figures:** None reported in this filing (corporate governance filing).\n* **Director Age:** Dr. Alka Mundra is 52 years old.\n\n---\n\n**3. Management Guidance / Outlook**\n* None provided in the document.\n\n---\n\n**4. What a Shareholder Should Watch or Act On**\n* **Action:** No immediate action required.\n* **Watch:** Standard board governance compliance; Dr. Mundra is confirmed to have no relationship with other directors and is not debarred by SEBI or any other authority.\n\n---\n\n**5. One-Line Net Read**\n* **Neutral** \u2014 Routine appointment of an Independent Director in compliance with regulatory and governance norms, with no direct impact on financials or operations."
+  }
+ ],
+ "movers": {
+  "gainers": [
+   {
+    "s": "KALYANKJIL",
+    "n": "Kalyan Jewellers India Limited",
+    "c": 18.4,
+    "d": 13.1,
+    "p": 443.0
+   },
+   {
+    "s": "MASTERTR",
+    "n": "Master Trust Limited",
+    "c": 17.75,
+    "d": 6.9,
+    "p": 94.8
+   },
+   {
+    "s": "TBZ",
+    "n": "Tribhovandas Bhimji Zaveri Limit",
+    "c": 14.8,
+    "d": 9.0,
+    "p": 231.55
+   },
+   {
+    "s": "MAPMYINDIA",
+    "n": "C.E. Info Systems Limited",
+    "c": 14.79,
+    "d": 9.5,
+    "p": 1069.2
+   },
+   {
+    "s": "IKIO",
+    "n": "IKIO Technologies Limited",
+    "c": 14.02,
+    "d": 8.0,
+    "p": 206.88
+   },
+   {
+    "s": "UNICHEMLAB",
+    "n": "Unichem Laboratories Limited",
+    "c": 13.6,
+    "d": 13.0,
+    "p": 650.6
+   },
+   {
+    "s": "BUILDPRO",
+    "n": "Shankara Buildpro Limited",
+    "c": 13.55,
+    "d": 35.5,
+    "p": 1200.3
+   },
+   {
+    "s": "AZAD",
+    "n": "Azad Engineering Limited",
+    "c": 11.07,
+    "d": 29.1,
+    "p": 2476.1
+   },
+   {
+    "s": "TCIEXP",
+    "n": "TCI Express Limited",
+    "c": 10.93,
+    "d": 6.2,
+    "p": 553.55
+   },
+   {
+    "s": "MARSONS",
+    "n": "Marsons Limited",
+    "c": 10.56,
+    "d": 20.6,
+    "p": 116.8
+   }
+  ],
+  "losers": [
+   {
+    "s": "NATIONSTD",
+    "n": "National Standard (India) Limite",
+    "c": -9.99,
+    "d": 58.3,
+    "p": 562.3
+   },
+   {
+    "s": "ZSARACOM",
+    "n": "Saraswati Commercial India Limit",
+    "c": -7.82,
+    "d": 48.8,
+    "p": 12577.5
+   },
+   {
+    "s": "RESPONIND",
+    "n": "Responsive Industries Limited",
+    "c": -6.27,
+    "d": 13.7,
+    "p": 190.32
+   },
+   {
+    "s": "DRREDDY",
+    "n": "Dr. Reddy's Laboratories Limited",
+    "c": -5.89,
+    "d": 39.1,
+    "p": 1269.5
+   },
+   {
+    "s": "VISL",
+    "n": "Vedanta Iron and Steel Limited",
+    "c": -4.98,
+    "d": 32.7,
+    "p": 33.03
+   },
+   {
+    "s": "GRANDOAK",
+    "n": "Grand Oak Canyons Distillery Lim",
+    "c": -4.98,
+    "d": 100.0,
+    "p": 47.68
+   },
+   {
+    "s": "PARAS",
+    "n": "Paras Defence and Space Technolo",
+    "c": -4.67,
+    "d": 31.0,
+    "p": 1216.8
+   },
+   {
+    "s": "JSWDULUX",
+    "n": "JSW Dulux Limited",
+    "c": -4.27,
+    "d": 55.8,
+    "p": 2912.2
+   },
+   {
+    "s": "EIMCOELECO",
+    "n": "Eimco Elecon (India) Limited",
+    "c": -4.2,
+    "d": 17.2,
+    "p": 1783.8
+   },
+   {
+    "s": "ANTELOPUS",
+    "n": "Antelopus Selan Energy Limited",
+    "c": -3.53,
+    "d": 45.0,
+    "p": 794.45
+   }
+  ],
+  "delivery": [
+   {
+    "s": "GRANDOAK",
+    "n": "Grand Oak Canyons Distillery Lim",
+    "c": -4.98,
+    "d": 100.0,
+    "p": 47.68
+   },
+   {
+    "s": "SINDHUTRAD",
+    "n": "Sindhu Trade Links Limited",
+    "c": 1.11,
+    "d": 94.5,
+    "p": 25.5
+   },
+   {
+    "s": "BENGALASM",
+    "n": "Bengal & Assam Company Limited",
+    "c": 0.52,
+    "d": 92.9,
+    "p": 6330.0
+   },
+   {
+    "s": "NIRLON",
+    "n": "Nirlon Limited",
+    "c": -0.01,
+    "d": 92.3,
+    "p": 620.0
+   },
+   {
+    "s": "INDIQUBE",
+    "n": "Indiqube Spaces Limited",
+    "c": 1.55,
+    "d": 92.0,
+    "p": 171.02
+   },
+   {
+    "s": "SUNTECK",
+    "n": "Sunteck Realty Limited",
+    "c": 2.27,
+    "d": 91.0,
+    "p": 319.25
+   },
+   {
+    "s": "AFSL",
+    "n": "Abans Financial Services Limited",
+    "c": -0.25,
+    "d": 87.9,
+    "p": 201.07
+   },
+   {
+    "s": "GKWLIMITED",
+    "n": "GKW Limited",
+    "c": -0.74,
+    "d": 87.8,
+    "p": 1725.0
+   },
+   {
+    "s": "UTLSOLAR",
+    "n": "Fujiyama Power Systems Limited",
+    "c": 5.0,
+    "d": 87.5,
+    "p": 364.5
+   },
+   {
+    "s": "ARIHANTSUP",
+    "n": "Arihant Superstructures Limited",
+    "c": 0.02,
+    "d": 85.8,
+    "p": 260.1
+   }
+  ]
+ },
+ "flows": [
+  {
+   "cat": "DII",
+   "date": "14-Aug-2026",
+   "net": "356.4",
+   "buy": "14295.49",
+   "sell": "13939.09"
+  },
+  {
+   "cat": "FII/FPI",
+   "date": "14-Aug-2026",
+   "net": "508.12",
+   "buy": "12854.44",
+   "sell": "12346.32"
+  }
+ ]
+}
