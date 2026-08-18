@@ -1,5 +1,5 @@
 {
- "generated": "18-Aug-2026 07:56",
+ "generated": "18-Aug-2026 19:48",
  "market_date": "2026-08-17",
  "stocks": [
   {
@@ -532,8 +532,8 @@
  ],
  "perf": {
   "n": 72,
-  "day": -0.19,
-  "overall": 33.08
+  "day": -0.15,
+  "overall": 32.83
  },
  "wperf": {
   "n": 8,
@@ -542,14 +542,14 @@
  "mf": [
   {
    "who": "KB",
-   "overall": 57.53,
-   "day": -0.02,
+   "overall": 57.44,
+   "day": -0.07,
    "funds": 10
   },
   {
    "who": "PT",
-   "overall": 55.56,
-   "day": -0.14,
+   "overall": 55.5,
+   "day": -0.17,
    "funds": 8
   }
  ],
