@@ -103,10 +103,17 @@ function render(){
   var st=D.stocks||[];
   var up=st.filter(function(x){return x.c>0;}).slice(0,10);
   var dn=st.filter(function(x){return x.c<0;}).sort(function(a,b){return a.c-b.c;}).slice(0,10);
-  h+=sec('\u{1F4CA} My Stocks',st.length+' tracked',
+  h+=sec('\u{1F4CA} My Stocks',st.length+' held',
     (up.concat(dn).length?up.concat(dn).map(rowHTML).join(''):'<div class="empty">No data.</div>')+
-    '<button class="toggle" onclick="showAll(this)">Show all '+st.length+'</button>'+
-    '<div id="allst" style="display:none">'+st.map(rowHTML).join('')+'</div>',true);
+    (st.length>up.length+dn.length?'<button class="toggle" onclick="showAll(this,\'allst\',\'stocks\')">Show all '+st.length+'</button>'+
+    '<div id="allst" style="display:none">'+st.map(rowHTML).join('')+'</div>':''),true);
+  var wt=D.watch||[];
+  var wup=wt.filter(function(x){return x.c>0;}).slice(0,10);
+  var wdn=wt.filter(function(x){return x.c<0;}).sort(function(a,b){return a.c-b.c;}).slice(0,10);
+  h+=sec('\u{1F440} Watchlist',wt.length+' watched',
+    (wup.concat(wdn).length?wup.concat(wdn).map(rowHTML).join(''):'<div class="empty">No data.</div>')+
+    (wt.length>wup.length+wdn.length?'<button class="toggle" onclick="showAll(this,\'allwt\',\'watch\')">Show all '+wt.length+'</button>'+
+    '<div id="allwt" style="display:none">'+wt.map(rowHTML).join('')+'</div>':''),true);
   var mf=D.mf||[];
   h+=sec('\u{1F4B9} Mutual Funds',mf.length?'% only':'-',
     mf.length?mf.map(mfHTML).join(''):'<div class="empty">No MF data.</div>',true);
@@ -128,11 +135,11 @@ function render(){
     dg.length?dg.map(digestHTML).join(''):'<div class="empty">No analysed filings in the last 2 days.</div>',true);
   document.getElementById('app').innerHTML=h;
 }
-function showAll(btn){
-  var el=document.getElementById('allst');
+function showAll(btn,id,key){
+  var el=document.getElementById(id);
   var on=el.style.display==='none';
   el.style.display=on?'block':'none';
-  btn.textContent=on?'Show movers only':'Show all '+(D.stocks||[]).length;
+  btn.textContent=on?'Show movers only':'Show all '+((D[key]||[]).length);
 }
 fetch('data.json?v='+Date.now()).then(function(r){return r.json();}).then(function(d){
   D=d; render();
