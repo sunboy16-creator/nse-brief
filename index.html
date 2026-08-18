@@ -63,6 +63,13 @@ function rowHTML(x){
     '<div style="text-align:right"><span class="pct '+cls(x.c)+'">'+sign(x.c)+'</span>'+
     '<span class="nm">'+(x.p?('\u20b9'+x.p):'')+(x.d!=null?(' \u00b7 dlv '+x.d+'%'):'')+'</span></div></div>';
 }
+function perfBadge(p,withOverall){
+  if(!p) return '';
+  var s='<span class="pct '+cls(p.day)+'">'+sign(p.day)+'</span>';
+  if(withOverall&&p.overall!=null)
+    s+=' <span class="cnt">|</span> <span class="pct '+cls(p.overall)+'">'+sign(p.overall)+'</span>';
+  return s;
+}
 function sec(title,count,inner,open){
   return '<details'+(open?' open':'')+'><summary>'+title+
     '<span class="cnt">'+count+'</span></summary><div class="body">'+inner+'</div></details>';
@@ -103,14 +110,18 @@ function render(){
   var st=D.stocks||[];
   var up=st.filter(function(x){return x.c>0;}).slice(0,10);
   var dn=st.filter(function(x){return x.c<0;}).sort(function(a,b){return a.c-b.c;}).slice(0,10);
-  h+=sec('\u{1F4CA} My Stocks',st.length+' held',
+  var pf=D.perf;
+  h+=sec('\u{1F4CA} My Stocks',
+    (pf?perfBadge(pf,true)+' <span class="cnt">today | overall</span>':st.length+' held'),
     (up.concat(dn).length?up.concat(dn).map(rowHTML).join(''):'<div class="empty">No data.</div>')+
     (st.length>up.length+dn.length?'<button class="toggle" onclick="showAll(this,\'allst\',\'stocks\')">Show all '+st.length+'</button>'+
     '<div id="allst" style="display:none">'+st.map(rowHTML).join('')+'</div>':''),true);
   var wt=D.watch||[];
   var wup=wt.filter(function(x){return x.c>0;}).slice(0,10);
   var wdn=wt.filter(function(x){return x.c<0;}).sort(function(a,b){return a.c-b.c;}).slice(0,10);
-  h+=sec('\u{1F440} Watchlist',wt.length+' watched',
+  var wpf=D.wperf;
+  h+=sec('\u{1F440} Watchlist',
+    (wpf?perfBadge(wpf,false)+' <span class="cnt">avg today</span>':wt.length+' watched'),
     (wup.concat(wdn).length?wup.concat(wdn).map(rowHTML).join(''):'<div class="empty">No data.</div>')+
     (wt.length>wup.length+wdn.length?'<button class="toggle" onclick="showAll(this,\'allwt\',\'watch\')">Show all '+wt.length+'</button>'+
     '<div id="allwt" style="display:none">'+wt.map(rowHTML).join('')+'</div>':''),true);
