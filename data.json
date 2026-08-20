@@ -1,5 +1,5 @@
 {
- "generated": "19-Aug-2026 07:25",
+ "generated": "20-Aug-2026 07:26",
  "market_date": "2026-08-18",
  "stocks": [
   {
@@ -532,8 +532,8 @@
  ],
  "perf": {
   "n": 72,
-  "day": -0.15,
-  "overall": 32.83
+  "day": -0.18,
+  "overall": 32.88
  },
  "wperf": {
   "n": 8,
@@ -542,18 +542,50 @@
  "mf": [
   {
    "who": "KB",
-   "overall": 57.09,
-   "day": -0.28,
+   "overall": 57.01,
+   "day": -0.27,
    "funds": 10
   },
   {
    "who": "PT",
-   "overall": 55.13,
+   "overall": 55.08,
    "day": -0.27,
    "funds": 8
   }
  ],
  "digests": [
+  {
+   "s": "HDFCBANK",
+   "n": "HDFC Bank Limited",
+   "cat": "Credit Rating",
+   "when": "2026-08-19 23:19",
+   "sent": "positive",
+   "txt": "### 1. Most Important Fact\nCredit rating agencies **CARE Ratings Limited** and **India Ratings and Research Private Limited** have reaffirmed, affirmed, and assigned their highest short-term ratings (**CARE A1+** and **IND A1+**) to HDFC Bank\u2019s Certificate of Deposit (CD) programmes, including an enhanced limit under CARE to \u20b92,00,000.00 crore (from \u20b91,50,000.00 crore).\n\n---\n\n### 2. Key Numbers Exactly as Stated\n*No P&L or balance sheet figures were disclosed in this regulatory filing.*\n\n**CARE Ratings Limited:**\n* **Instrument:** Certificate of Deposit\n* **Amount:** \u20b92,00,000.00 crore *(Enhanced from \u20b91,50,000.00 crore)*\n* **Rating / Action:** `CARE A1+` | Reaffirmed\n\n**India Ratings and Research Private Limited:**\n* **Instrument:** Certificate of Deposit (Maturity: 7\u2013365 days)\n  * **Size of Issue:** INR 500 Billion | **Rating / Action:** `IND A1+` | Assigned\n  * **Size of Issue:** INR 1,500 Billion | **Rating / Action:** `IND A1+` | Affirmed\n\n---\n\n### 3. Management Guidance / Forward-Looking Statements\n* None stated in the document.\n\n---\n\n### 4. What a Shareholder Should Watch or Act On\n* **No action required.** This is a routine regulatory intimation reflecting standard treasury/liquidity operations and short-term debt program enhancements with top-tier ratings.\n\n---\n\n### 5. One-Line Net Read\n* **Neutral to mildly positive:** Reaffirms HDFC Bank\u2019s highest short-term credit quality (`A1+`) and expands short-term funding capacity at low borrowing costs."
+  },
+  {
+   "s": "SBILIFE",
+   "n": "SBI Life Insurance Company Limited",
+   "cat": "Change in Director(s)",
+   "when": "2026-08-19 19:43",
+   "sent": "neutral",
+   "txt": "**1. Most Important Fact**  \nMr. Narayan K. Seshadri (DIN: 00053563) ceased to be an Independent Director of SBI Life Insurance Company Limited effective close of business hours on August 19, 2026, upon the completion of two consecutive three-year terms.\n\n**2. Key Numbers**  \n*None stated in the document (routine corporate governance filing).*\n\n**3. Management Guidance / Outlook**  \n*None provided.*\n\n**4. What a Shareholder Should Watch or Act On**  \nWatch for future announcements regarding the appointment of a new Independent Director to maintain Board composition and committee memberships. No immediate action required.\n\n**5. One-Line Net Read**  \n**Neutral** \u2014 Routine cessation of an Independent Director resulting from the normal completion of maximum tenure."
+  },
+  {
+   "s": "ABDL",
+   "n": "Allied Blenders and Distillers Limited",
+   "cat": "Press Release",
+   "when": "2026-08-19 13:11",
+   "sent": "positive",
+   "txt": "**1. Single Most Important Fact**\nIndia Ratings & Research (Ind-Ra) has upgraded the credit rating on Allied Blenders and Distillers Limited\u2019s (ABD) bank facilities by two notches from **\u2018IND A\u2019 to \u2018IND AA-\u2019 with a Stable Outlook**.\n\n---\n\n**2. Key Numbers Exactly as Stated**\n*Financial performance numbers (Revenue, EBITDA, PAT, margins) are not quantified in the release.* \n* **Operational/Footprint Metrics:**\n  * Rating Upgrade: **2 notches** (from 'IND A' to 'IND AA-')\n  * International footprint: Presence across **39 international markets**\n  * Manufacturing footprint: **40 units total** (9 owned bottling facilities, 2 owned distilleries, 1 owned PET bottle plant, and 28 non-owned manufacturing units)\n\n---\n\n**3. Management Guidance & Forward Outlook**\n* **Rating Agency Expectation (Ind-Ra):**\n  * Growth in consolidated scale of operations is expected to sustain and grow further over the medium term.\n  * Profitability improvements are expected to sustain, driven by a higher share of premium products (enhancing gross margins).\n  * Ongoing backward integration projects are set to support EBITDA margins in the medium term.\n  * Consolidated net leverage is expected to remain comfortable over the medium term despite ongoing capital expenditure (capex).\n* **MD Amar Sinha Statement:** Affirmed ABD's evolving financial profile, scale, balance-sheet strength, and continued focus on executing the premiumisation agenda, backward integration, and growth with financial prudence.\n\n---\n\n**4. What a Shareholder Should Watch or Act On**\n* **Lower Cost of Debt:** Monitor whether the 2-notch upgrade translates into reduced borrowing costs on bank facilities.\n* **Margin Impact:** Track execution of ongoing backward integration projects and premiumisation (via brands like *ICONiQ White* and subsidiary *ABD Maestro Pvt Ltd*) to confirm expected EBITDA margin expansion.\n* **Capex & Leverage:** Watch upcoming quarterly updates for capex cash outflows relative to net leverage levels.\n\n---\n\n**5. One-Line Net Read**\n**Positive**: A two-notch credit rating upgrade to 'IND AA-' validates ABD's improving profitability, debt management, and operating scale, potentially reducing future borrowing costs."
+  },
+  {
+   "s": "ABDL",
+   "n": "Allied Blenders and Distillers Limited",
+   "cat": "Credit Rating- Revision",
+   "when": "2026-08-19 12:59",
+   "sent": "positive",
+   "txt": "### 1. Most Important Fact\n**India Ratings and Research (Ind-Ra)** has upgraded Allied Blenders and Distillers Limited's (ABDL) credit rating on long-term bank facilities to **'IND AA-'/Stable** (from 'IND A') and short-term facilities to **'IND A1+'** (from 'IND A1'), covering total rated limits of **INR 16,000 million** (INR 12,750 million upgraded; INR 3,250 million newly assigned).\n\n---\n\n### 2. Key Numbers Exactly as Stated\n\n#### Consolidated Financial Summary\n| Metric | FY26 | FY25 | FY24 | YoY Delta (FY26 vs FY25) |\n| :--- | :---: | :---: | :---: | :---: |\n| **Net Revenue** (gross revenue less excise) | INR 39,228 mn | INR 35,199 mn | INR 33,279 mn | +11.4% |\n| **Consolidated EBITDAR / EBITDA** | INR 5,418 mn | INR 4,305 mn | INR 2,421 mn | +25.9% |\n| **EBITDAR Margin** | 13.81% | 12.23% | 7.28% | +158 bps |\n| **IMFL Sales Volume** | 35.88 mn cases | 33.07 mn cases | 31.66 mn cases | +8.5% |\n| **Prestige & Above (P&A) Share of Sales** | 57.3% | 49.9% | 47.4% | +740 bps |\n| **Gross Interest Coverage** | 4.02x | 3.44x | \u2014 | +0.58x |\n| **Consolidated Net Leverage** | 1.87x | 1.86x | \u2014 | +0.01x |\n| **Gross Debt** | INR 11,504 mn | INR 9,052 mn | \u2014 | +27.1% |\n| **Adjusted Cash Flow from Operations (CFO)** | INR 2,277 mn | -INR 8,031 mn | \u2014 | Turnaround to positive |\n| **Unencumbered Cash & Equivalents** | INR 1,352 mn | INR 1,039 mn | \u2014 | +30.1% |\n| **Debtor Days** | 87 days | 79 days | 59 days | +8 days |\n\n* **Standalone FY26 Performance:** Net revenue rose to INR 38,802 million (FY25: INR 35,197 million), operating EBITDA rose to INR 5,754 million (FY25: INR 4,315 million), and net leverage reduced to 1.76x (FY25: 1.93x).\n\n---\n\n### 3. Management Guidance & Forward Outlook\n* **Capital Raise:** Board approved raising up to **INR 10,000 million** via fresh equity or equity-linked securities (approved May 2026) to fund capex plans.\n* **Leverage Targets:** Public guidance to maintain net debt/EBITDA < 2.0x and net debt/equity < 0.75x during the capex phase; Ind-Ra expects net leverage around 2.5x or lower over the medium term.\n* **Capex & Backward Integration:**\n  * Commissioning of Minakshi Agro Industries LLP distillery expansion in **1HFY28** to take captive ENA coverage to ~66%, targeting 100% ENA integration by **FY29\u2013FY30**.\n  * Malt distillery project scheduled for commissioning in **1HFY27**.\n* **External Tailwinds:** India-UK FTA (effective July 2026) is expected to reduce import duties on bulk scotch, aiding Premium/Luxury segment margins.\n* **Return Metrics:** Ind-Ra expects consolidated ROCE to remain above 15% over the medium term.\n\n---\n\n### 4. What a Shareholder Should Watch or Act On\n* **Equity Fundraise Execution & Dilution:** Progress and pricing of the proposed INR 10,000 million equity/equity-linked raise.\n* **Working Capital & Receivables Risk:** High exposure to Telangana (20%\u201325% of IMFL revenue) with slow collections from TSBCL pushing debtor days to 87 days in FY26.\n* **Subsidiary Performance:** Losses in luxury subsidiary *ABD Maestro Private Limited (ABDM)* and execution of luxury brand scale-up.\n* **Input Cost Pressures:** Glass packaging price inflation risks linked to the West Asia conflict vs. margin benefits from the PET plant (commissioned 2QFY26, meeting 70%\u201375% needs).\n\n---\n\n### 5. One-Line Net Read\n**Positive**: Reflects substantial credit strengthening, rapid margin expansion driven by premiumisation (P&A reaching 57.3%), and robust revenue growth alongside clear backward integration milestones."
+  },
   {
    "s": "IREDA",
    "n": "Indian Renewable Energy Development Agen",
@@ -569,22 +601,6 @@
    "when": "2026-08-18 14:28",
    "sent": "positive",
    "txt": "Here is the concise equity research summary based on the provided regulatory filing:\n\n### 1. The Single Most Important Fact\nLG Electronics India Limited received **10 product awards** across multiple categories (TV, Refrigerator, Air Conditioner, Washing Machine, Dishwasher, and Microwave) at the **DIGIT India's Top Appliance Awards 2026**, evaluated on lab-based testing across 150+ parameters.\n\n---\n\n### 2. Key Numbers Exactly as Stated\n* **Financial Metrics (Revenue, EBITDA, PAT, Order Values):** **None stated** in the document (this is a product/brand award press release, not a financial report).\n* **Award/Product Metrics Mentioned:**\n  * **10** products recognized across major consumer appliance categories.\n  * **150+** technical parameters benchmarked during testing.\n  * **36+** appliance categories covered by the award platform.\n  * One microwave model cited under \u20b930,000 price point (LG 32L Charcoal Convection Microwave).\n\n---\n\n### 3. Management Guidance & Forward Statements\n* **Mr. Hong Ju Jeon (Managing Director):** Stated that the recognition validates LG's reliability and performance, adding that the company remains committed to *\"deepening our investment in technology and consumer insight tailored to India.\"*\n\n---\n\n### 4. What a Shareholder Should Watch or Act On\n* **Action:** No corporate or investment action is required.\n* **Watch:** Routine monitoring of market share and brand perception in Indian white goods and home appliances; these awards serve as marketing validation for premium and mass-premium product portfolios.\n\n---\n\n### 5. One-Line Net Read\n**Neutral** \u2014 Standard marketing and product recognition press release with positive brand validation but no immediate or quantifiable financial impact."
-  },
-  {
-   "s": "VBL",
-   "n": "Varun Beverages Limited",
-   "cat": "General Updates",
-   "when": "2026-08-17 20:28",
-   "sent": "neutral",
-   "txt": "Here is the concise summary based strictly on the provided filing:\n\n### 1. Most Important Fact\n* The merger of **Twizza Proprietary Limited** (step-down subsidiary) with its holding company **The Beverage Company Proprietary Limited (\"Bevco\"**, a subsidiary of Varun Beverages Limited) in South Africa has been completed. Consequently, Twizza has ceased to be a step-down subsidiary.\n\n### 2. Key Numbers\n* No financial numbers, deal values, or operational metrics are stated in this document.\n\n### 3. Management Guidance / Forward-Looking Statements\n* None stated in the filing.\n\n### 4. What a Shareholder Should Watch / Act On\n* **No action required.** This is an informational corporate update regarding the completion of internal restructuring/simplification of subsidiary holdings in South Africa.\n\n### 5. Net Read\n* **Neutral**: It is a routine administrative/statutory update confirming the completion of an internal subsidiary merger."
-  },
-  {
-   "s": "LT",
-   "n": "Larsen & Toubro Limited",
-   "cat": "Bagging/Receiving of orders/contracts",
-   "when": "2026-08-17 11:36",
-   "sent": "positive",
-   "txt": "**1. Single Most Important Fact**\nL&T Energy Hydrocarbon Offshore (LTEH Offshore) has secured an **\"Ultra-Mega\" EPCIC order valued at over \u20b915,000 crore** for a strategic offshore development project from a client in the Middle East.\n\n---\n\n**2. Key Numbers Exactly as Stated**\n* **Order Value:** Classified as **Ultra-Mega (> \u20b915,000 Crore)** as per L&T's order classification threshold (exact contract value not separately specified).\n* *(No revenue, EBITDA, or PAT numbers are applicable or stated in this contract announcement filing).*\n\n---\n\n**3. Management Guidance & Forward Statements**\n* **T Madhava Das (Whole-time Director, Senior EVP & Head - Energy Hydrocarbon Division):** Stated that this is *\"one of the most significant offshore developments currently underway in the Middle East and underscores the growing investments being made to meet future energy demand,\"* requiring deep engineering expertise and flawless coordination.\n* **Parthasarathi Chatterjee (Senior VP & Head \u2013 LTEH Offshore):** Highlighted that the project involves multiple offshore facilities, subsea infrastructure, and substantial fabrication, executed via an integrated EPCIC approach.\n* **Execution details:** A significant portion of fabrication activities will take place at L&T's integrated manufacturing and fabrication facilities.\n\n---\n\n**4. What a Shareholder Should Watch or Act On**\n* **Order Book & Execution:** Adds substantial revenue visibility (>\u20b915,000 Cr) to the hydrocarbon vertical; track execution milestones, supply chain/marine asset deployment, and margin realization on large-scale Middle East projects.\n\n---\n\n**5. One-Line Net Read**\n* **Positive:** A massive order win (>\u20b915,000 Cr) reinforces L&T's international order inflow momentum and strong execution presence in the Middle East offshore hydrocarbon market."
   }
  ],
  "movers": {
