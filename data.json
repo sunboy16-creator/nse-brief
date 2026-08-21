@@ -1,5 +1,5 @@
 {
- "generated": "21-Aug-2026 06:34",
+ "generated": "21-Aug-2026 08:28",
  "market_date": "2026-08-20",
  "stocks": [
   {
@@ -532,8 +532,8 @@
  ],
  "perf": {
   "n": 72,
-  "day": -0.18,
-  "overall": 32.88
+  "day": 0.41,
+  "overall": 33.01
  },
  "wperf": {
   "n": 8,
