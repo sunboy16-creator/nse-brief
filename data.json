@@ -1,5 +1,5 @@
 {
- "generated": "21-Aug-2026 22:39",
+ "generated": "22-Aug-2026 07:00",
  "market_date": "2026-08-21",
  "stocks": [
   {
@@ -542,18 +542,66 @@
  "mf": [
   {
    "who": "KB",
-   "overall": 57.46,
-   "day": 0.6,
+   "overall": 57.51,
+   "day": 0.06,
    "funds": 10
   },
   {
    "who": "PT",
-   "overall": 33.12,
-   "day": 0.33,
+   "overall": 33.34,
+   "day": 0.19,
    "funds": 8
   }
  ],
  "digests": [
+  {
+   "s": "TMPV",
+   "n": "Tata Motors Passenger Vehicles Limited",
+   "cat": "Action(s) taken or orders passed",
+   "when": "2026-08-21 20:13",
+   "sent": "neutral",
+   "txt": "### 1. Most Important Fact\nThe Reserve Bank of India (Foreign Exchange Department, Mumbai) issued a Compounding Order dated August 20, 2026, directing Tata Motors Passenger Vehicles Limited to pay a compounding amount of **\u20b92,00,000** for a historical non-compliance under Regulation 5(1) of FEMA (Transfer and Issue of any Foreign Security) Regulations, 2004 (relating to an ODI-FDI structure created in 2015 without prior RBI approval, which was divested/ceased in March 2022).\n\n---\n\n### 2. Key Numbers Exactly as Stated\n* **Compounding / Penalty Amount:** \u20b92,00,000/- (Rupees Two Lakh only)\n* **Historical Investment Year:** 2015\n* **Divestment / Structure Cessation Date:** March 2022\n* *(Note: No operating financials, revenue, EBITDA, or PAT are included in this regulatory disclosure).*\n\n---\n\n### 3. Management Guidance & Forward Statements\n* **Operational/Financial Impact:** The company confirmed there is *no material impact* on the financial, operational, or other activities of the company.\n* **Next Steps:** The company is in the process of paying the compounding amount of \u20b92,00,000.\n\n---\n\n### 4. What a Shareholder Should Watch or Act On\n* **No action required:** This resolves a historical legacy compliance issue for a structure divested in 2022, with a negligible financial penalty.\n\n---\n\n### 5. One-Line Net Read\n* **Neutral:** Immaterial fine of \u20b92 lakh resolving a closed legacy FEMA matter with zero business or financial impact."
+  },
+  {
+   "s": "DEEPAKNTR",
+   "n": "Deepak Nitrite Limited",
+   "cat": "Change in Management",
+   "when": "2026-08-21 18:28",
+   "sent": "negative",
+   "txt": "**1. Most Important Fact**\nMr. Puneet Sharma, SBU Head \u2013 Life Sciences of Deepak Nitrite Limited, has resigned from the company to pursue an outside career opportunity, with his resignation taking effect from the close of business hours on August 21, 2026 (resignation letter submitted on May 23, 2026).\n\n**2. Key Numbers**\n* No financial metrics, contract values, or operating numbers are mentioned in this filing.\n\n**3. Guidance / Outlook / Forward Statements**\n* Per the resignation letter (Annexure-B), Mr. Sharma committed to a seamless transition during his 3-month notice period, covering ongoing business development engagements with global innovators, progress on technology platforms, and onboarding his successor.\n* The company did not issue forward-looking business guidance in this filing.\n\n**4. What a Shareholder Should Watch / Act On**\n* Appointment of a new SBU Head for the Life Sciences business (covering agrochemicals, pharma intermediates, and personal care).\n* Execution continuity and updates on key client engagements/technology platforms in the Life Sciences segment during upcoming earnings calls.\n\n**5. One-Line Net Read**\n* **Neutral to slightly negative:** Routine senior management departure in a key vertical (Life Sciences), though managed through a standard 3-month transition period."
+  },
+  {
+   "s": "PNB",
+   "n": "Punjab National Bank",
+   "cat": "Action(s) initiated or orders passed",
+   "when": "2026-08-21 18:16",
+   "sent": "neutral",
+   "txt": "**1. Most Important Fact**  \nThe Reserve Bank of India (RBI) has imposed a monetary penalty of **Rs. 4,33,900/-** on Punjab National Bank due to non-compliance with operational guidelines for Currency Chests under RBI Master Directions.\n\n**2. Key Numbers**  \n* **Penalty Amount:** Rs. 4,33,900/-  \n*(No revenue, profit, or other financial performance figures are provided in the filing).*\n\n**3. Management Guidance / Outlook**  \n* None stated.\n\n**4. What a Shareholder Should Watch or Act On**  \n* No action required; the financial and operational impact is negligible and restricted entirely to the penalty amount.\n\n**5. One-Line Net Read**  \n* **Neutral** \u2014 The penalty of ~Rs. 4.34 lakh is completely immaterial to the bank's financial health and operations."
+  },
+  {
+   "s": "BDL",
+   "n": "Bharat Dynamics Limited",
+   "cat": "Change in Management",
+   "when": "2026-08-21 17:07",
+   "sent": "neutral",
+   "txt": "**1. Single Most Important Fact**\nBharat Dynamics Limited has promoted five Additional General Managers to the position of General Manager (Senior Management Personnel) as part of departmental promotions:\n* **Sreedevi V:** General Manager (previously Additional GM heading D&E division)\n* **T Sreenivasa Rao:** General Manager (previously Additional GM heading QC division)\n* **Anitha GM:** General Manager (previously Additional GM heading Milan division)\n* **K Arun Kumar:** General Manager (previously Additional GM heading Ibrahimpatnam Unit)\n* **Tatina Narasimham:** General Manager (previously Additional GM heading Corporate HR)\n\n**2. Key Numbers**\n* No financial numbers, order values, or performance metrics are stated in this document.\n\n**3. Management Guidance / Outlook**\n* None provided.\n\n**4. What a Shareholder Should Watch or Act On**\n* No action required; these are routine internal promotions across operational and corporate functions.\n\n**5. One-Line Net Read**\n* **Neutral**: Standard internal promotions to Senior Management with no direct material financial impact."
+  },
+  {
+   "s": "IDFCFIRSTB",
+   "n": "IDFC First Bank Limited",
+   "cat": "Credit Rating- New",
+   "when": "2026-08-21 16:52",
+   "sent": "positive",
+   "txt": "**1. Most Important Fact**\nS&P Global Ratings has assigned an investment-grade **'BBB-'** long-term issue rating to IDFC FIRST Bank\u2019s proposed **US$ 600 million Senior Notes**, aligned with the bank's existing issuer credit rating of **BBB-/Stable/A-3**.\n\n---\n\n**2. Key Numbers Exactly as Stated**\n* **Senior Notes Issue Amount:** US$ 600 million\n* **Assigned Issue Rating:** 'BBB-' (Long-term)\n* **Issuer Credit Rating:** BBB-/Stable/A-3 (disclosed on August 13, 2026)\n*(Note: Financial performance metrics such as revenue, PAT, and margins were not part of this disclosure.)*\n\n---\n\n**3. Management Guidance / Forward Outlook**\n* None stated in the filing.\n\n---\n\n**4. What a Shareholder Should Watch or Act on**\n* Monitor the final pricing, coupon rate, and successful closure of the US$ 600 million overseas debt issuance, which supports the bank's liability diversification and foreign currency funding.\n\n---\n\n**5. One-Line Net Read**\n* **Positive:** Securing an investment-grade rating ('BBB-') from S&P supports the bank's ability to raise US$ 600 million at competitive international borrowing costs."
+  },
+  {
+   "s": "GICHSGFIN",
+   "n": "GIC Housing Finance Limited",
+   "cat": "Change in Management",
+   "when": "2026-08-21 15:32",
+   "sent": "neutral",
+   "txt": "**1. Single Most Important Fact**  \nThe Board of Directors approved the appointment of **Shri S.R. Ravi** (Vice President, 33+ years with the company) as **Head of Operations Department** (Senior Management Personnel), effective August 21, 2026. Concurrently, **Smt. Paba Koshy** ceased to be the Head of Operations but **continues as the Chief Financial Officer (CFO)**.\n\n---\n\n**2. Key Numbers**  \n*None stated.* This filing pertains strictly to a change in Senior Management Personnel and contains no financial figures.\n\n---\n\n**3. Management Guidance / Outlook / Forward Statement**  \n*None stated.*\n\n---\n\n**4. What a Shareholder Should Watch or Act On**  \n* No shareholder action is required.  \n* Watch for continued stability and operational execution under Shri S.R. Ravi, as the operational role is now decoupled from the CFO office.\n\n---\n\n**5. One-Line Net Read**  \n**Neutral** \u2014 Routine internal realignment of senior management responsibilities with a long-tenured insider (with the company since 1993) taking over operations."
+  },
   {
    "s": "SBIFUNDS",
    "n": "SBI Funds Management Limited",
@@ -609,38 +657,6 @@
    "when": "2026-08-20 10:05",
    "sent": "positive",
    "txt": "Based on the regulatory filing provided:\n\n### 1. Most Important Fact\nLarsen & Toubro\u2019s (L&T) Transportation Infrastructure business vertical, in consortium with Japan\u2019s Mitsubishi Heavy Industries (MHI), has secured a **\"Large\"** turnkey design-and-build order for the Automated People Mover (APM) System for Phase 1 of Al Maktoum International Airport in Dubai (developed by Dubai Aviation City Corporation / Dubai Aviation Engineering Projects).\n\n---\n\n### 2. Key Numbers Exactly as Stated\n* **Order Value Classification:** **Large** (defined by L&T as **\u20b92,500 crore to \u20b95,000 crore**).\n* *Exact contract value, margins, revenue, EBITDA, or PAT deltas are not stated in the document.*\n\n---\n\n### 3. Management Outlook & Forward Statements\n* **Scope of Work:** Turnkey delivery encompassing design, construction, supply, testing, commissioning, and operational readiness. L&T's scope includes design, procurement, delivery, and integration of critical infrastructure/systems (guideways, DC traction substations, power distribution, signalling, telecoms, onboard communication systems, platform screen doors, depot equipment).\n* **Management Commentary (Ramkumar S, EVP & Head \u2013 Transportation Infrastructure):** Noted that the project exemplifies the scale and complexity of integrated APM Rail Systems that L&T is uniquely positioned to deliver alongside MHI, supported by its Engineering Designs Centre.\n* **Regional Outlook:** GCC governments are continuing to invest heavily in next-generation mobility and urban transit; this win enhances L&T's credentials and positions the company to capitalize on emerging rail and transit opportunities across West Asia.\n\n---\n\n### 4. What a Shareholder Should Watch\n* Execution milestones, timelines, and margin delivery on international turnkey rail projects.\n* Consortium revenue share allocation between L&T and Mitsubishi Heavy Industries (MHI).\n* Future order inflows from Phase-wise expansion at Al Maktoum International Airport and other GCC mobility/transit projects.\n\n---\n\n### 5. Net Read\n**Positive.** Reinforces L&T\u2019s international transit/EPC capabilities and expands its order book in the high-growth Middle East infrastructure market with an order valued between \u20b92,500 Cr and \u20b95,000 Cr."
-  },
-  {
-   "s": "HDFCBANK",
-   "n": "HDFC Bank Limited",
-   "cat": "Credit Rating",
-   "when": "2026-08-19 23:19",
-   "sent": "positive",
-   "txt": "### 1. Most Important Fact\nCredit rating agencies **CARE Ratings Limited** and **India Ratings and Research Private Limited** have reaffirmed, affirmed, and assigned their highest short-term ratings (**CARE A1+** and **IND A1+**) to HDFC Bank\u2019s Certificate of Deposit (CD) programmes, including an enhanced limit under CARE to \u20b92,00,000.00 crore (from \u20b91,50,000.00 crore).\n\n---\n\n### 2. Key Numbers Exactly as Stated\n*No P&L or balance sheet figures were disclosed in this regulatory filing.*\n\n**CARE Ratings Limited:**\n* **Instrument:** Certificate of Deposit\n* **Amount:** \u20b92,00,000.00 crore *(Enhanced from \u20b91,50,000.00 crore)*\n* **Rating / Action:** `CARE A1+` | Reaffirmed\n\n**India Ratings and Research Private Limited:**\n* **Instrument:** Certificate of Deposit (Maturity: 7\u2013365 days)\n  * **Size of Issue:** INR 500 Billion | **Rating / Action:** `IND A1+` | Assigned\n  * **Size of Issue:** INR 1,500 Billion | **Rating / Action:** `IND A1+` | Affirmed\n\n---\n\n### 3. Management Guidance / Forward-Looking Statements\n* None stated in the document.\n\n---\n\n### 4. What a Shareholder Should Watch or Act On\n* **No action required.** This is a routine regulatory intimation reflecting standard treasury/liquidity operations and short-term debt program enhancements with top-tier ratings.\n\n---\n\n### 5. One-Line Net Read\n* **Neutral to mildly positive:** Reaffirms HDFC Bank\u2019s highest short-term credit quality (`A1+`) and expands short-term funding capacity at low borrowing costs."
-  },
-  {
-   "s": "SBILIFE",
-   "n": "SBI Life Insurance Company Limited",
-   "cat": "Change in Director(s)",
-   "when": "2026-08-19 19:43",
-   "sent": "neutral",
-   "txt": "**1. Most Important Fact**  \nMr. Narayan K. Seshadri (DIN: 00053563) ceased to be an Independent Director of SBI Life Insurance Company Limited effective close of business hours on August 19, 2026, upon the completion of two consecutive three-year terms.\n\n**2. Key Numbers**  \n*None stated in the document (routine corporate governance filing).*\n\n**3. Management Guidance / Outlook**  \n*None provided.*\n\n**4. What a Shareholder Should Watch or Act On**  \nWatch for future announcements regarding the appointment of a new Independent Director to maintain Board composition and committee memberships. No immediate action required.\n\n**5. One-Line Net Read**  \n**Neutral** \u2014 Routine cessation of an Independent Director resulting from the normal completion of maximum tenure."
-  },
-  {
-   "s": "ABDL",
-   "n": "Allied Blenders and Distillers Limited",
-   "cat": "Press Release",
-   "when": "2026-08-19 13:11",
-   "sent": "positive",
-   "txt": "**1. Single Most Important Fact**\nIndia Ratings & Research (Ind-Ra) has upgraded the credit rating on Allied Blenders and Distillers Limited\u2019s (ABD) bank facilities by two notches from **\u2018IND A\u2019 to \u2018IND AA-\u2019 with a Stable Outlook**.\n\n---\n\n**2. Key Numbers Exactly as Stated**\n*Financial performance numbers (Revenue, EBITDA, PAT, margins) are not quantified in the release.* \n* **Operational/Footprint Metrics:**\n  * Rating Upgrade: **2 notches** (from 'IND A' to 'IND AA-')\n  * International footprint: Presence across **39 international markets**\n  * Manufacturing footprint: **40 units total** (9 owned bottling facilities, 2 owned distilleries, 1 owned PET bottle plant, and 28 non-owned manufacturing units)\n\n---\n\n**3. Management Guidance & Forward Outlook**\n* **Rating Agency Expectation (Ind-Ra):**\n  * Growth in consolidated scale of operations is expected to sustain and grow further over the medium term.\n  * Profitability improvements are expected to sustain, driven by a higher share of premium products (enhancing gross margins).\n  * Ongoing backward integration projects are set to support EBITDA margins in the medium term.\n  * Consolidated net leverage is expected to remain comfortable over the medium term despite ongoing capital expenditure (capex).\n* **MD Amar Sinha Statement:** Affirmed ABD's evolving financial profile, scale, balance-sheet strength, and continued focus on executing the premiumisation agenda, backward integration, and growth with financial prudence.\n\n---\n\n**4. What a Shareholder Should Watch or Act On**\n* **Lower Cost of Debt:** Monitor whether the 2-notch upgrade translates into reduced borrowing costs on bank facilities.\n* **Margin Impact:** Track execution of ongoing backward integration projects and premiumisation (via brands like *ICONiQ White* and subsidiary *ABD Maestro Pvt Ltd*) to confirm expected EBITDA margin expansion.\n* **Capex & Leverage:** Watch upcoming quarterly updates for capex cash outflows relative to net leverage levels.\n\n---\n\n**5. One-Line Net Read**\n**Positive**: A two-notch credit rating upgrade to 'IND AA-' validates ABD's improving profitability, debt management, and operating scale, potentially reducing future borrowing costs."
-  },
-  {
-   "s": "ABDL",
-   "n": "Allied Blenders and Distillers Limited",
-   "cat": "Credit Rating- Revision",
-   "when": "2026-08-19 12:59",
-   "sent": "positive",
-   "txt": "### 1. Most Important Fact\n**India Ratings and Research (Ind-Ra)** has upgraded Allied Blenders and Distillers Limited's (ABDL) credit rating on long-term bank facilities to **'IND AA-'/Stable** (from 'IND A') and short-term facilities to **'IND A1+'** (from 'IND A1'), covering total rated limits of **INR 16,000 million** (INR 12,750 million upgraded; INR 3,250 million newly assigned).\n\n---\n\n### 2. Key Numbers Exactly as Stated\n\n#### Consolidated Financial Summary\n| Metric | FY26 | FY25 | FY24 | YoY Delta (FY26 vs FY25) |\n| :--- | :---: | :---: | :---: | :---: |\n| **Net Revenue** (gross revenue less excise) | INR 39,228 mn | INR 35,199 mn | INR 33,279 mn | +11.4% |\n| **Consolidated EBITDAR / EBITDA** | INR 5,418 mn | INR 4,305 mn | INR 2,421 mn | +25.9% |\n| **EBITDAR Margin** | 13.81% | 12.23% | 7.28% | +158 bps |\n| **IMFL Sales Volume** | 35.88 mn cases | 33.07 mn cases | 31.66 mn cases | +8.5% |\n| **Prestige & Above (P&A) Share of Sales** | 57.3% | 49.9% | 47.4% | +740 bps |\n| **Gross Interest Coverage** | 4.02x | 3.44x | \u2014 | +0.58x |\n| **Consolidated Net Leverage** | 1.87x | 1.86x | \u2014 | +0.01x |\n| **Gross Debt** | INR 11,504 mn | INR 9,052 mn | \u2014 | +27.1% |\n| **Adjusted Cash Flow from Operations (CFO)** | INR 2,277 mn | -INR 8,031 mn | \u2014 | Turnaround to positive |\n| **Unencumbered Cash & Equivalents** | INR 1,352 mn | INR 1,039 mn | \u2014 | +30.1% |\n| **Debtor Days** | 87 days | 79 days | 59 days | +8 days |\n\n* **Standalone FY26 Performance:** Net revenue rose to INR 38,802 million (FY25: INR 35,197 million), operating EBITDA rose to INR 5,754 million (FY25: INR 4,315 million), and net leverage reduced to 1.76x (FY25: 1.93x).\n\n---\n\n### 3. Management Guidance & Forward Outlook\n* **Capital Raise:** Board approved raising up to **INR 10,000 million** via fresh equity or equity-linked securities (approved May 2026) to fund capex plans.\n* **Leverage Targets:** Public guidance to maintain net debt/EBITDA < 2.0x and net debt/equity < 0.75x during the capex phase; Ind-Ra expects net leverage around 2.5x or lower over the medium term.\n* **Capex & Backward Integration:**\n  * Commissioning of Minakshi Agro Industries LLP distillery expansion in **1HFY28** to take captive ENA coverage to ~66%, targeting 100% ENA integration by **FY29\u2013FY30**.\n  * Malt distillery project scheduled for commissioning in **1HFY27**.\n* **External Tailwinds:** India-UK FTA (effective July 2026) is expected to reduce import duties on bulk scotch, aiding Premium/Luxury segment margins.\n* **Return Metrics:** Ind-Ra expects consolidated ROCE to remain above 15% over the medium term.\n\n---\n\n### 4. What a Shareholder Should Watch or Act On\n* **Equity Fundraise Execution & Dilution:** Progress and pricing of the proposed INR 10,000 million equity/equity-linked raise.\n* **Working Capital & Receivables Risk:** High exposure to Telangana (20%\u201325% of IMFL revenue) with slow collections from TSBCL pushing debtor days to 87 days in FY26.\n* **Subsidiary Performance:** Losses in luxury subsidiary *ABD Maestro Private Limited (ABDM)* and execution of luxury brand scale-up.\n* **Input Cost Pressures:** Glass packaging price inflation risks linked to the West Asia conflict vs. margin benefits from the PET plant (commissioned 2QFY26, meeting 70%\u201375% needs).\n\n---\n\n### 5. One-Line Net Read\n**Positive**: Reflects substantial credit strengthening, rapid margin expansion driven by premiumisation (P&A reaching 57.3%), and robust revenue growth alongside clear backward integration milestones."
   }
  ],
  "movers": {
