@@ -1,5 +1,5 @@
 {
- "generated": "28-Aug-2026 10:15",
+ "generated": "30-Aug-2026 21:56",
  "market_date": "2026-08-27",
  "stocks": [
   {
@@ -532,8 +532,8 @@
  ],
  "perf": {
   "n": 72,
-  "day": -0.05,
-  "overall": 33.81
+  "day": -0.4,
+  "overall": 33.17
  },
  "wperf": {
   "n": 8,
@@ -542,43 +542,18 @@
  "mf": [
   {
    "who": "KB",
-   "overall": 57.6,
-   "day": -0.25,
+   "overall": 57.74,
+   "day": 0.09,
    "funds": 10
   },
   {
    "who": "PT",
-   "overall": 33.64,
-   "day": -0.05,
+   "overall": 33.81,
+   "day": 0.13,
    "funds": 8
   }
  ],
- "digests": [
-  {
-   "s": "CDSL",
-   "n": "Central Depository Services (India) Limi",
-   "cat": "Outcome of Board Meeting",
-   "when": "2026-08-27 14:02",
-   "sent": "neutral",
-   "txt": "### 1. Single Most Important Fact\n* **Leadership Transition:** CDSL has appointed **Shri Farokh Patel** (previously Senior VP \u2013 Audit, Inspection & Compliance) as the **Chief Regulatory Officer & Compliance Officer** (Senior Management Personnel / Key Management Personnel) effective **September 1, 2026**, succeeding **Smt. Nayana Ovalekar**, who ceases to hold the position at the close of business on **August 31, 2026**.\n\n---\n\n### 2. Key Numbers\n* *No financial figures, operating metrics, or contract values are disclosed in this filing.*\n\n---\n\n### 3. Management Guidance & Forward Statements\n* None provided.\n\n---\n\n### 4. What a Shareholder Should Watch or Act On\n* **No action required:** This is a planned internal succession/statutory compliance transition in key regulatory management. \n\n---\n\n### 5. One-Line Net Read\n* **Neutral:** Routine internal appointment and regulatory leadership transition with no material impact on operations or financials."
-  },
-  {
-   "s": "JIOFIN",
-   "n": "Jio Financial Services Limited",
-   "cat": "Change in Director(s)",
-   "when": "2026-08-26 19:55",
-   "sent": "positive",
-   "txt": "**1. Single Most Important Fact**\nAt the 3rd Annual General Meeting (Post Listing) held on August 26, 2026, shareholders approved the **re-appointment of Shri Hitesh Kumar Sethia as Managing Director and CEO** for a 5-year term effective November 15, 2026, and the **appointment of PKF Sridhar & Santhanam LLP** as Joint Statutory Auditors for a 3-year term (until the 2029 AGM), replacing Lodha & Co LLP alongside Deloitte Haskins & Sells.\n\n**2. Key Numbers**\n* No financial metrics, revenues, margins, or contract values were disclosed in this corporate governance filing.\n\n**3. Management Guidance & Forward-Looking Statements**\n* None stated in the document.\n\n**4. What a Shareholder Should Watch or Act On**\n* **Leadership Continuity:** Confirms long-term leadership stability under MD & CEO Hitesh Kumar Sethia for the next 5 years starting November 15, 2026.\n* **No action required** as the AGM voting/approval process is concluded.\n\n**5. One-Line Net Read**\n* **Neutral to Mildly Positive:** Routine governance update providing leadership continuity and standard statutory auditor rotation without material operational or financial surprises."
-  },
-  {
-   "s": "NTPC",
-   "n": "NTPC Limited",
-   "cat": "Action(s) taken or orders passed",
-   "when": "2026-08-26 13:42",
-   "sent": "neutral",
-   "txt": "**1. Single Most Important Fact**\nBSE and NSE have issued notices imposing a fine of \u20b95,36,900 each (inclusive of GST) on NTPC for the quarter ended 30th June 2026 due to non-compliance with Regulation 17(1) of SEBI Listing Regulations (pertaining to Board composition / requisite number of Independent Directors).\n\n---\n\n**2. Key Numbers Exactly as Stated**\n* **Fine Amount:** \u20b95,36,900/- (inclusive of GST) each by BSE and NSE (Total: \u20b910,73,800/-).\n*(No other financial metrics/results are reported in this filing).*\n\n---\n\n**3. Management Guidance, Outlook, or Forward Statements**\n* NTPC has replied to the exchanges requesting them not to levy the fines, clarifying that as a Government Company, the power to appoint directors rests solely with the President of India through the Ministry of Power (MoP).\n* The company stated it is *\"consistently pursuing the matter with the MoP for appointment of the requisite number of Independent Directors on the Board\"* to restore compliance.\n\n---\n\n**4. What a Shareholder Should Watch or Act On**\n* Watch for government notifications regarding the appointment of Independent Directors to achieve full compliance with SEBI LODR board composition norms.\n* Watch for responses from BSE/NSE regarding NTPC's request to waive the levied fines.\n\n---\n\n**5. One-Line Net Read**\n* **Neutral**: The financial penalty is negligible for a company of NTPC's scale, and this non-compliance is a standard procedural/administrative delay typical of PSUs awaiting central government board appointments."
-  }
- ],
+ "digests": [],
  "movers": {
   "gainers": [
    {
@@ -800,218 +775,218 @@
  "fiidii": [
   {
    "cat": "DII",
-   "date": "26-Aug-2026",
-   "net": "6425.16",
-   "buy": "17710.07",
-   "sell": "11284.91"
+   "date": "27-Aug-2026",
+   "net": "4977.17",
+   "buy": "19605.6",
+   "sell": "14628.43"
   },
   {
    "cat": "FII/FPI",
-   "date": "26-Aug-2026",
-   "net": "502.63",
-   "buy": "17520.49",
-   "sell": "17017.86"
+   "date": "27-Aug-2026",
+   "net": "-298.26",
+   "buy": "15276.94",
+   "sell": "15575.2"
   }
  ],
  "flows": [
   {
-   "s": "APOLLOTYRE",
+   "s": "ATHERENERG",
    "kind": "bulk",
-   "who": "EMERALD SAGE INVESTMENT LTD",
+   "who": "HERO MOTOCORP LIMITED",
+   "bs": "BUY",
+   "qty": 11880000,
+   "px": 1480.0,
+   "val": 1758.24,
+   "mine": false
+  },
+  {
+   "s": "ATHERENERG",
+   "kind": "bulk",
+   "who": "GOVERNMENT OF SINGAPORE",
    "bs": "SELL",
-   "qty": 27010000,
-   "px": 435.0,
-   "val": 1174.93,
+   "qty": 11880000,
+   "px": 1480.0,
+   "val": 1758.24,
    "mine": false
   },
   {
-   "s": "APOLLOTYRE",
+   "s": "LENSKART",
    "kind": "bulk",
-   "who": "ICICI PRUDENTIAL MUTUAL FUND",
-   "bs": "BUY",
-   "qty": 19080000,
-   "px": 435.0,
-   "val": 829.98,
-   "mine": false
-  },
-  {
-   "s": "FOSECOIND",
-   "kind": "bulk",
-   "who": "MORGANITE CRUCIBLE LIMITED",
+   "who": "ALPHA WAVE VENTURES II LP",
    "bs": "SELL",
-   "qty": 590744,
-   "px": 5897.0,
-   "val": 348.36,
+   "qty": 10419555,
+   "px": 630.0,
+   "val": 656.43,
    "mine": false
   },
   {
-   "s": "FOSECOIND",
+   "s": "LENSKART",
    "kind": "bulk",
-   "who": "MORGAN TERRASSEN B V",
+   "who": "ALPHA WAVE VENTURES II LP",
    "bs": "SELL",
-   "qty": 560056,
-   "px": 5897.0,
-   "val": 330.27,
+   "qty": 9838209,
+   "px": 630.0,
+   "val": 619.81,
    "mine": false
   },
   {
-   "s": "APOLLOTYRE",
-   "kind": "bulk",
-   "who": "SBI LIFE INSURANCE COMPANY LIMITED",
-   "bs": "BUY",
-   "qty": 5632000,
-   "px": 435.0,
-   "val": 244.99,
-   "mine": false
-  },
-  {
-   "s": "FOSECOIND",
-   "kind": "bulk",
-   "who": "SBI MUTUAL FUND",
-   "bs": "BUY",
-   "qty": 322297,
-   "px": 5897.0,
-   "val": 190.06,
-   "mine": false
-  },
-  {
-   "s": "FOSECOIND",
-   "kind": "bulk",
-   "who": "MIRAE ASSET MUTUAL FUND",
-   "bs": "BUY",
-   "qty": 291793,
-   "px": 5897.0,
-   "val": 172.07,
-   "mine": false
-  },
-  {
-   "s": "FOSECOIND",
-   "kind": "bulk",
-   "who": "INVESCO MUTUAL FUND",
-   "bs": "BUY",
-   "qty": 254446,
-   "px": 5897.0,
-   "val": 150.05,
-   "mine": false
-  },
-  {
-   "s": "WEL",
-   "kind": "bulk",
-   "who": "MARWADI SHARES AND FINANCE LTD.",
-   "bs": "BUY",
-   "qty": 11281488,
-   "px": 131.69,
-   "val": 148.57,
-   "mine": false
-  },
-  {
-   "s": "WEL",
-   "kind": "bulk",
-   "who": "MARWADI SHARES AND FINANCE LTD.",
-   "bs": "SELL",
-   "qty": 11250757,
-   "px": 130.77,
-   "val": 147.13,
-   "mine": false
-  },
-  {
-   "s": "BBTC",
+   "s": "MVELECTRO",
    "kind": "bulk",
    "who": "MICROCURVES TRADING PRIVATE LIMITED",
    "bs": "SELL",
-   "qty": 795485,
-   "px": 1614.81,
-   "val": 128.46,
+   "qty": 2019049,
+   "px": 725.16,
+   "val": 146.41,
    "mine": false
   },
   {
-   "s": "BBTC",
+   "s": "MVELECTRO",
    "kind": "bulk",
    "who": "MICROCURVES TRADING PRIVATE LIMITED",
    "bs": "BUY",
-   "qty": 795485,
-   "px": 1613.68,
-   "val": 128.37,
+   "qty": 2019049,
+   "px": 724.7,
+   "val": 146.32,
    "mine": false
   },
   {
-   "s": "BBTC",
-   "kind": "bulk",
-   "who": "NK SECURITIES RESEARCH PRIVATE LIMITED",
-   "bs": "SELL",
-   "qty": 620149,
-   "px": 1609.62,
-   "val": 99.82,
-   "mine": false
-  },
-  {
-   "s": "BBTC",
-   "kind": "bulk",
-   "who": "NK SECURITIES RESEARCH PRIVATE LIMITED",
-   "bs": "BUY",
-   "qty": 620149,
-   "px": 1608.94,
-   "val": 99.78,
-   "mine": false
-  },
-  {
-   "s": "WEL",
+   "s": "TEJASNET",
    "kind": "bulk",
    "who": "MICROCURVES TRADING PRIVATE LIMITED",
    "bs": "SELL",
-   "qty": 6100111,
-   "px": 160.53,
-   "val": 97.93,
+   "qty": 2397531,
+   "px": 560.7,
+   "val": 134.43,
    "mine": false
   },
   {
-   "s": "WEL",
+   "s": "TEJASNET",
    "kind": "bulk",
    "who": "MICROCURVES TRADING PRIVATE LIMITED",
    "bs": "BUY",
-   "qty": 6100111,
-   "px": 160.38,
-   "val": 97.83,
+   "qty": 2397531,
+   "px": 560.41,
+   "val": 134.36,
    "mine": false
   },
   {
-   "s": "MILKYMIST",
+   "s": "GENUSPOWER",
+   "kind": "bulk",
+   "who": "CHISWICK INVESTMENT PTE LTD",
+   "bs": "SELL",
+   "qty": 3578450,
+   "px": 324.5,
+   "val": 116.12,
+   "mine": false
+  },
+  {
+   "s": "TEMPSENS",
+   "kind": "bulk",
+   "who": "IRAGE BROKING SERVICES LLP",
+   "bs": "SELL",
+   "qty": 1706366,
+   "px": 594.62,
+   "val": 101.46,
+   "mine": false
+  },
+  {
+   "s": "TEJASNET",
+   "kind": "bulk",
+   "who": "JUMP TRADING FINANCIAL INDIA PRIVATE L",
+   "bs": "BUY",
+   "qty": 1785079,
+   "px": 561.03,
+   "val": 100.15,
+   "mine": false
+  },
+  {
+   "s": "TEJASNET",
+   "kind": "bulk",
+   "who": "JUMP TRADING FINANCIAL INDIA PRIVATE L",
+   "bs": "SELL",
+   "qty": 1785079,
+   "px": 560.78,
+   "val": 100.1,
+   "mine": false
+  },
+  {
+   "s": "STAR",
+   "kind": "bulk",
+   "who": "ARUN KUMAR PILLAI",
+   "bs": "BUY",
+   "qty": 1000000,
+   "px": 990.0,
+   "val": 99.0,
+   "mine": false
+  },
+  {
+   "s": "STAR",
+   "kind": "bulk",
+   "who": "SBI LIFE INSURANCE CO.LTD.",
+   "bs": "SELL",
+   "qty": 1000000,
+   "px": 990.0,
+   "val": 99.0,
+   "mine": false
+  },
+  {
+   "s": "TEMPSENS",
+   "kind": "bulk",
+   "who": "IRAGE BROKING SERVICES LLP",
+   "bs": "BUY",
+   "qty": 1647464,
+   "px": 595.7,
+   "val": 98.14,
+   "mine": false
+  },
+  {
+   "s": "TEMPSENS",
+   "kind": "bulk",
+   "who": "GRT STRATEGIC VENTURES LLP",
+   "bs": "SELL",
+   "qty": 1505110,
+   "px": 599.97,
+   "val": 90.3,
+   "mine": false
+  },
+  {
+   "s": "TEMPSENS",
+   "kind": "bulk",
+   "who": "GRT STRATEGIC VENTURES LLP",
+   "bs": "BUY",
+   "qty": 1505110,
+   "px": 599.51,
+   "val": 90.23,
+   "mine": false
+  },
+  {
+   "s": "TEMPSENS",
+   "kind": "bulk",
+   "who": "MICROCURVES TRADING PRIVATE LIMITED",
+   "bs": "SELL",
+   "qty": 1544877,
+   "px": 581.1,
+   "val": 89.77,
+   "mine": false
+  },
+  {
+   "s": "TEMPSENS",
+   "kind": "bulk",
+   "who": "MICROCURVES TRADING PRIVATE LIMITED",
+   "bs": "BUY",
+   "qty": 1544877,
+   "px": 580.81,
+   "val": 89.73,
+   "mine": false
+  },
+  {
+   "s": "TEJASNET",
    "kind": "bulk",
    "who": "JUNOMONETA FINSOL PRIVATE LIMITED",
-   "bs": "SELL",
-   "qty": 4207167,
-   "px": 223.53,
-   "val": 94.04,
-   "mine": false
-  },
-  {
-   "s": "MILKYMIST",
-   "kind": "bulk",
-   "who": "JUNOMONETA FINSOL PRIVATE LIMITED",
    "bs": "BUY",
-   "qty": 4205106,
-   "px": 223.4,
-   "val": 93.94,
-   "mine": false
-  },
-  {
-   "s": "WEL",
-   "kind": "bulk",
-   "who": "NK SECURITIES RESEARCH PRIVATE LIMITED",
-   "bs": "SELL",
-   "qty": 5776745,
-   "px": 144.58,
-   "val": 83.52,
-   "mine": false
-  },
-  {
-   "s": "WEL",
-   "kind": "bulk",
-   "who": "NK SECURITIES RESEARCH PRIVATE LIMITED",
-   "bs": "BUY",
-   "qty": 5778004,
-   "px": 144.26,
-   "val": 83.35,
+   "qty": 1532204,
+   "px": 560.33,
+   "val": 85.85,
    "mine": false
   }
  ]
