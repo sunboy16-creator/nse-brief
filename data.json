@@ -1,5 +1,5 @@
 {
- "generated": "04-Sep-2026 06:50",
+ "generated": "04-Sep-2026 10:01",
  "market_date": "2026-09-03",
  "stocks": [
   {
@@ -532,8 +532,8 @@
  ],
  "perf": {
   "n": 72,
-  "day": -0.11,
-  "overall": 31.69
+  "day": 0.52,
+  "overall": 32.3
  },
  "wperf": {
   "n": 8,
@@ -800,178 +800,88 @@
  "fiidii": [
   {
    "cat": "DII",
-   "date": "02-Sep-2026",
-   "net": "2812.98",
-   "buy": "17639.89",
-   "sell": "14826.91"
+   "date": "03-Sep-2026",
+   "net": "4977.46",
+   "buy": "17063.65",
+   "sell": "12086.19"
   },
   {
    "cat": "FII/FPI",
-   "date": "02-Sep-2026",
-   "net": "6688.37",
-   "buy": "26715.88",
-   "sell": "20027.51"
+   "date": "03-Sep-2026",
+   "net": "-2345.87",
+   "buy": "13596.04",
+   "sell": "15941.91"
   }
  ],
  "flows": [
   {
-   "s": "PINELABS",
+   "s": "MEESHO",
    "kind": "bulk",
-   "who": "ALPHA WAVE VENTURES II LP",
+   "who": "SVF II MEERKAT (DE) LLC",
    "bs": "SELL",
-   "qty": 35456317,
-   "px": 155.1,
-   "val": 549.93,
+   "qty": 44682672,
+   "px": 206.3,
+   "val": 921.8,
    "mine": false
   },
   {
-   "s": "PINELABS",
+   "s": "MEESHO",
    "kind": "block",
-   "who": "ALPHA WAVE VENTURES II LP",
+   "who": "SVF II MEERKAT (DE) LLC",
    "bs": "SELL",
-   "qty": 35456317,
-   "px": 155.1,
-   "val": 549.93,
+   "qty": 44682672,
+   "px": 206.3,
+   "val": 921.8,
    "mine": false
   },
   {
-   "s": "ASTERDM",
+   "s": "MEESHO",
    "kind": "bulk",
-   "who": "UNION (MAURITIUS) HOLDINGS LIMITED",
-   "bs": "BUY",
-   "qty": 4609800,
-   "px": 760.0,
-   "val": 350.34,
-   "mine": false
-  },
-  {
-   "s": "ASTERDM",
-   "kind": "bulk",
-   "who": "CENTELLA MAURITIUS HOLDINGS LIMITED",
+   "who": "SVF II MEERKAT (DE) LLC",
    "bs": "SELL",
-   "qty": 4609800,
-   "px": 760.0,
-   "val": 350.34,
+   "qty": 35317328,
+   "px": 206.3,
+   "val": 728.6,
    "mine": false
   },
   {
-   "s": "ASTERDM",
+   "s": "MEESHO",
    "kind": "block",
-   "who": "UNION (MAURITIUS) HOLDINGS LIMITED",
-   "bs": "BUY",
-   "qty": 4609800,
-   "px": 760.0,
-   "val": 350.34,
+   "who": "SVF II MEERKAT (DE) LLC",
+   "bs": "SELL",
+   "qty": 35317328,
+   "px": 206.3,
+   "val": 728.6,
    "mine": false
   },
   {
-   "s": "ASTERDM",
+   "s": "CLEANMAX",
+   "kind": "bulk",
+   "who": "DSDG HOLDING APS",
+   "bs": "SELL",
+   "qty": 1633727,
+   "px": 1220.0,
+   "val": 199.31,
+   "mine": false
+  },
+  {
+   "s": "CLEANMAX",
    "kind": "block",
-   "who": "CENTELLA MAURITIUS HOLDINGS LIMITED",
+   "who": "DSDG HOLDING APS",
    "bs": "SELL",
-   "qty": 4609800,
-   "px": 760.0,
-   "val": 350.34,
+   "qty": 1633727,
+   "px": 1220.0,
+   "val": 199.31,
    "mine": false
   },
   {
-   "s": "IFCI",
-   "kind": "bulk",
-   "who": "MICROCURVES TRADING PRIVATE LIMITED",
-   "bs": "SELL",
-   "qty": 21356050,
-   "px": 96.32,
-   "val": 205.7,
-   "mine": false
-  },
-  {
-   "s": "IFCI",
-   "kind": "bulk",
-   "who": "MICROCURVES TRADING PRIVATE LIMITED",
-   "bs": "BUY",
-   "qty": 21355787,
-   "px": 96.28,
-   "val": 205.61,
-   "mine": false
-  },
-  {
-   "s": "PINELABS",
-   "kind": "bulk",
-   "who": "ICICI PRUDENTIAL LIFE INSURANCE COMPAN",
-   "bs": "BUY",
-   "qty": 10315925,
-   "px": 155.1,
-   "val": 160.0,
-   "mine": false
-  },
-  {
-   "s": "PINELABS",
+   "s": "MEESHO",
    "kind": "block",
-   "who": "ICICI PRUDENTIAL LIFE INSURANCE COMPAN",
+   "who": "SOCIETE GENERALE - ODI",
    "bs": "BUY",
-   "qty": 10315925,
-   "px": 155.1,
-   "val": 160.0,
-   "mine": false
-  },
-  {
-   "s": "IFCI",
-   "kind": "bulk",
-   "who": "JUMP TRADING FINANCIAL INDIA PRIVATE L",
-   "bs": "SELL",
-   "qty": 15628262,
-   "px": 95.58,
-   "val": 149.37,
-   "mine": false
-  },
-  {
-   "s": "IFCI",
-   "kind": "bulk",
-   "who": "JUMP TRADING FINANCIAL INDIA PRIVATE L",
-   "bs": "BUY",
-   "qty": 15628262,
-   "px": 95.29,
-   "val": 148.92,
-   "mine": false
-  },
-  {
-   "s": "IFCI",
-   "kind": "bulk",
-   "who": "JUNOMONETA FINSOL PRIVATE LIMITED",
-   "bs": "SELL",
-   "qty": 14812881,
-   "px": 95.93,
-   "val": 142.1,
-   "mine": false
-  },
-  {
-   "s": "IFCI",
-   "kind": "bulk",
-   "who": "JUNOMONETA FINSOL PRIVATE LIMITED",
-   "bs": "BUY",
-   "qty": 14694475,
-   "px": 95.87,
-   "val": 140.88,
-   "mine": false
-  },
-  {
-   "s": "IFCI",
-   "kind": "bulk",
-   "who": "HRTI PRIVATE LIMITED",
-   "bs": "BUY",
-   "qty": 13512615,
-   "px": 96.01,
-   "val": 129.73,
-   "mine": false
-  },
-  {
-   "s": "IFCI",
-   "kind": "bulk",
-   "who": "HRTI PRIVATE LIMITED",
-   "bs": "SELL",
-   "qty": 11288955,
-   "px": 95.91,
-   "val": 108.27,
+   "qty": 8000000,
+   "px": 206.3,
+   "val": 165.04,
    "mine": false
   },
   {
@@ -979,9 +889,9 @@
    "kind": "bulk",
    "who": "MICROCURVES TRADING PRIVATE LIMITED",
    "bs": "SELL",
-   "qty": 831463,
-   "px": 900.6,
-   "val": 74.88,
+   "qty": 1329277,
+   "px": 1021.83,
+   "val": 135.83,
    "mine": false
   },
   {
@@ -989,29 +899,119 @@
    "kind": "bulk",
    "who": "MICROCURVES TRADING PRIVATE LIMITED",
    "bs": "BUY",
-   "qty": 831463,
-   "px": 900.1,
-   "val": 74.84,
+   "qty": 1329277,
+   "px": 1021.09,
+   "val": 135.73,
    "mine": false
   },
   {
-   "s": "TEMPSENS",
+   "s": "LUMINO",
    "kind": "bulk",
    "who": "JUNOMONETA FINSOL PRIVATE LIMITED",
    "bs": "SELL",
-   "qty": 1292492,
-   "px": 569.1,
-   "val": 73.56,
+   "qty": 11602150,
+   "px": 113.37,
+   "val": 131.53,
    "mine": false
   },
   {
-   "s": "TEMPSENS",
+   "s": "LUMINO",
    "kind": "bulk",
    "who": "JUNOMONETA FINSOL PRIVATE LIMITED",
    "bs": "BUY",
-   "qty": 1288309,
-   "px": 568.95,
-   "val": 73.3,
+   "qty": 11562930,
+   "px": 113.32,
+   "val": 131.03,
+   "mine": false
+  },
+  {
+   "s": "MEESHO",
+   "kind": "block",
+   "who": "HDFC STANDARD LIFE INSURANCE CO LTD",
+   "bs": "BUY",
+   "qty": 6000000,
+   "px": 206.3,
+   "val": 123.78,
+   "mine": false
+  },
+  {
+   "s": "MEESHO",
+   "kind": "block",
+   "who": "HDFC STANDARD LIFE INSURANCE",
+   "bs": "BUY",
+   "qty": 6000000,
+   "px": 206.3,
+   "val": 123.78,
+   "mine": false
+  },
+  {
+   "s": "MEESHO",
+   "kind": "block",
+   "who": "GOLDMAN SACHS BANK EUROPE SE",
+   "bs": "BUY",
+   "qty": 5300000,
+   "px": 206.3,
+   "val": 109.34,
+   "mine": false
+  },
+  {
+   "s": "MEESHO",
+   "kind": "block",
+   "who": "FRANKLIN TEMPLETON MUTUAL FUND",
+   "bs": "BUY",
+   "qty": 4832713,
+   "px": 206.3,
+   "val": 99.7,
+   "mine": false
+  },
+  {
+   "s": "MEESHO",
+   "kind": "block",
+   "who": "FRANKLIN INDIA FLEXI CAP FUND",
+   "bs": "BUY",
+   "qty": 4832714,
+   "px": 206.3,
+   "val": 99.7,
+   "mine": false
+  },
+  {
+   "s": "RAYMOND",
+   "kind": "bulk",
+   "who": "MICROCURVES TRADING PRIVATE LIMITED",
+   "bs": "SELL",
+   "qty": 1187368,
+   "px": 752.02,
+   "val": 89.29,
+   "mine": false
+  },
+  {
+   "s": "RAYMOND",
+   "kind": "bulk",
+   "who": "MICROCURVES TRADING PRIVATE LIMITED",
+   "bs": "BUY",
+   "qty": 1187368,
+   "px": 751.59,
+   "val": 89.24,
+   "mine": false
+  },
+  {
+   "s": "ANTELOPUS",
+   "kind": "bulk",
+   "who": "NK SECURITIES RESEARCH PRIVATE LIMITED",
+   "bs": "SELL",
+   "qty": 768314,
+   "px": 1021.3,
+   "val": 78.47,
+   "mine": false
+  },
+  {
+   "s": "ANTELOPUS",
+   "kind": "bulk",
+   "who": "NK SECURITIES RESEARCH PRIVATE LIMITED",
+   "bs": "BUY",
+   "qty": 768314,
+   "px": 1020.77,
+   "val": 78.43,
    "mine": false
   }
  ]
