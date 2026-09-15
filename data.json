@@ -1,5 +1,5 @@
 {
- "generated": "14-Sep-2026 05:41",
+ "generated": "15-Sep-2026 07:18",
  "market_date": "2026-09-11",
  "stocks": [
   {
@@ -574,7 +574,16 @@
    "funds": 8
   }
  ],
- "digests": [],
+ "digests": [
+  {
+   "s": "SHAKTIPUMP",
+   "n": "Shakti Pumps (India) Limited",
+   "cat": "Acquisition",
+   "when": "2026-09-14 17:48",
+   "sent": "positive",
+   "txt": "**1. Most Important Fact**  \nShakti Pumps (India) Limited is investing **Rs. 11.00 Crores** in cash by subscribing to equity shares of its wholly-owned subsidiary, **Shakti Energy Solutions Limited (SESL)**, to establish a greenfield high-efficiency Solar DCR cell and Solar PV module manufacturing plant in Pithampur, Madhya Pradesh, with a capacity of **2.20 GW**.\n\n---\n\n**2. Key Numbers Exactly as Stated**  \n* **Investment / Cost of Acquisition:** Rs. 11,00,00,000 (Rs. 11.00 Crores)  \n* **Planned Production Capacity:** 2.20 GW  \n* **Historical Turnover of Subsidiary (SESL):**  \n  * **FY 2026:** Rs. 239.11 Crores  \n  * **FY 2025:** Rs. 216.53 Crores  \n  * **FY 2024:** Rs. 139.59 Crores  \n*(Note: EBITDA, margins, and PAT are not disclosed in the filing).*\n\n---\n\n**3. Management Guidance / Forward-Looking Statements**  \n* The company stated it is *\"establishing a greenfield high efficiency Solar DCR cell and Solar PV modules manufacturing plant in Pithampur, Madhya Pradesh, with a production capacity of 2.20 GW.\"*  \n* Equity shares in the subsidiary will be issued *\"time to time as per the agreement.\"*\n\n---\n\n**4. What a Shareholder Should Watch / Act On**  \n* Execution and commercial operational date (COD) timeline for the 2.20 GW solar DCR cell and module plant.  \n* Total capex commitment required for the full 2.20 GW facility beyond this initial Rs. 11 Crore equity infusion.\n\n---\n\n**5. Net Read**  \n**Positive**: Strategic backward integration into solar cell and module manufacturing (2.20 GW) to support its core solar pump business and benefit from domestic content requirement (DCR) mandates."
+  }
+ ],
  "movers": {
   "gainers": [
    {
