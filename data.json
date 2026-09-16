@@ -1,5 +1,5 @@
 {
- "generated": "15-Sep-2026 22:45",
+ "generated": "16-Sep-2026 17:51",
  "market_date": "2026-09-15",
  "stocks": [
   {
@@ -262,6 +262,13 @@
    "p": 13180.0
   },
   {
+   "s": "IPCALAB",
+   "n": "IPCA Laboratories Limited",
+   "c": -1.83,
+   "d": 63.5,
+   "p": 1932.4
+  },
+  {
    "s": "JIOFIN",
    "n": "Jio Financial Services Limited",
    "c": -1.87,
@@ -395,11 +402,25 @@
    "p": 474.2
   },
   {
+   "s": "TRITURBINE",
+   "n": "Triveni Turbine Limited",
+   "c": -3.99,
+   "d": 54.0,
+   "p": 546.9
+  },
+  {
    "s": "IDEAFORGE",
    "n": "Ideaforge Technology Limited",
    "c": -4.05,
    "d": 57.9,
    "p": 704.25
+  },
+  {
+   "s": "HINDCOPPER",
+   "n": "Hindustan Copper Limited",
+   "c": -4.35,
+   "d": 51.6,
+   "p": 492.1
   },
   {
    "s": "MAZDOCK",
@@ -474,13 +495,6 @@
  ],
  "watch": [
   {
-   "s": "IPCALAB",
-   "n": "IPCA Laboratories Limited",
-   "c": -1.83,
-   "d": 63.5,
-   "p": 1932.4
-  },
-  {
    "s": "ANANTRAJ",
    "n": "Anant Raj Limited",
    "c": -2.08,
@@ -530,13 +544,6 @@
    "p": 637.25
   },
   {
-   "s": "HINDCOPPER",
-   "n": "Hindustan Copper Limited",
-   "c": -4.35,
-   "d": 51.6,
-   "p": 492.1
-  },
-  {
    "s": "KRBL",
    "n": "KRBL Limited",
    "c": -5.68,
@@ -552,29 +559,53 @@
   }
  ],
  "perf": {
-  "n": 72,
-  "day": -2.04,
-  "overall": 26.23
+  "n": 75,
+  "day": -1.91,
+  "overall": 24.44
  },
  "wperf": {
-  "n": 11,
-  "day": -3.98
+  "n": 9,
+  "day": -4.17
  },
  "mf": [
   {
    "who": "KB",
-   "overall": 55.16,
-   "day": 0.0,
+   "overall": 51.31,
+   "day": -1.68,
    "funds": 10
   },
   {
    "who": "PT",
-   "overall": 31.35,
-   "day": -0.13,
+   "overall": 29.26,
+   "day": -1.57,
    "funds": 8
   }
  ],
  "digests": [
+  {
+   "s": "THERMAX",
+   "n": "Thermax Limited",
+   "cat": "Acquisition",
+   "when": "2026-09-15 16:46",
+   "sent": "neutral",
+   "txt": "**1. Most Important Fact**  \nThermax Limited\u2019s wholly owned subsidiary, Thermax Engineering Construction Company Limited (TECC), has incorporated a 100% wholly owned step-down subsidiary named **Thermax Botswana Proprietary Limited** in Botswana to provide support services for boilers and power plants.\n\n---\n\n**2. Key Numbers Exactly as Stated**  \n* **Capital to be infused:** BWP 10,000 (cash consideration, to be infused in due course).  \n* **Shareholding / Control:** 100%.  \n*(Note: No revenue, profit, margin, or contract value figures are reported as this is a newly incorporated entity.)*\n\n---\n\n**3. Management Guidance / Outlook / Forward Statements**  \n* None stated, other than noting that a capital of BWP 10,000 will be infused in due course of time to support boiler and power plant service operations.\n\n---\n\n**4. What a Shareholder Should Watch or Act On**  \n* **Action:** None required (routine administrative disclosure).  \n* **Watch:** Potential business development and project wins in Botswana / Southern Africa for boiler and power plant support services.\n\n---\n\n**5. One-Line Net Read**  \n* **Neutral**: Routine incorporation of an overseas operating entity with a negligible initial capital commitment (BWP 10,000)."
+  },
+  {
+   "s": "INDIASHLTR",
+   "n": "India Shelter Finance Corporation Limite",
+   "cat": "Reply to Clarification- Financial results",
+   "when": "2026-09-15 15:30",
+   "sent": "neutral",
+   "txt": "**1. Single Most Important Fact**\nIndia Shelter Finance Corporation clarified to NSE that it did not submit consolidated financial results for Q1 FY25 (quarter ended June 30, 2024) because it no longer has any subsidiary, associate, or joint venture entity, following the voluntary liquidation and final distribution of proceeds from its sole erstwhile subsidiary, India Shelter Capital Finance Limited, on March 16, 2024.\n\n**2. Key Numbers**\n* No financial operational metrics (revenue, EBITDA, margins, or PAT) are reported in this filing.\n* **Key timeline dates stated:**\n  * Voluntary liquidation approved by subsidiary's Board: December 16, 2023\n  * Net liquidation proceeds distributed to the company: March 16, 2024\n  * Standalone results submitted: August 06, 2024\n\n**3. Management Guidance / Forward-Looking Statements**\n* None provided in this letter.\n\n**4. What a Shareholder Should Watch or Act On**\n* No action required. Shareholders should note that the company operates purely as a standalone entity with no consolidated reporting required.\n\n**5. One-Line Net Read**\n* **Neutral**; purely routine administrative compliance resolving an exchange query regarding reporting structure."
+  },
+  {
+   "s": "IDEA",
+   "n": "Vodafone Idea Limited",
+   "cat": "Action(s) taken or orders passed",
+   "when": "2026-09-15 11:49",
+   "sent": "neutral",
+   "txt": "**1. Single Most Important Fact**\nThe Telecom Regulatory Authority of India (TRAI) has issued an order imposing a financial disincentive of Rs. 2,00,000 on Vodafone Idea Limited for failing to meet Quality of Service (QoS) benchmarks in certain service areas for the month of October 2025.\n\n**2. Key Numbers**\n* **Financial Penalty / Disincentive:** Rs. 2,00,000/-\n* **Period of Non-Compliance:** October 2025\n* **Date of Receipt of Order:** 14 September 2026\n*(Note: No revenue, EBITDA, or PAT figures are reported in this filing.)*\n\n**3. Management Guidance / Forward-Looking Statements**\n* The company stated: *\"The maximum financial impact is to the extent of disincentive levied. The Company is reviewing the Order and evaluating the next steps in this matter.\"*\n\n**4. What a Shareholder Should Watch or Act On**\n* No immediate shareholder action is required. Shareholders may watch for any persistent QoS benchmark failures across service areas that could attract larger cumulative regulatory penalties or affect customer retention.\n\n**5. One-Line Net Read**\n* **Neutral**: The penalty of Rs. 2,00,000 is financially negligible and will have no material impact on the company's operations or financials."
+  },
   {
    "s": "SHAKTIPUMP",
    "n": "Shakti Pumps (India) Limited",
