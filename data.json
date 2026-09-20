@@ -1,5 +1,5 @@
 {
- "generated": "19-Sep-2026 10:02",
+ "generated": "20-Sep-2026 05:55",
  "market_date": "2026-09-18",
  "stocks": [
   {
@@ -570,18 +570,26 @@
  "mf": [
   {
    "who": "KB",
-   "overall": 53.6,
-   "day": 0.88,
+   "overall": 53.62,
+   "day": 0.01,
    "funds": 10
   },
   {
    "who": "PT",
-   "overall": 31.22,
-   "day": 199.74,
+   "overall": 31.24,
+   "day": 195.57,
    "funds": 8
   }
  ],
  "digests": [
+  {
+   "s": "GICHSGFIN",
+   "n": "GIC Housing Finance Limited",
+   "cat": "Credit Rating",
+   "when": "2026-09-19 10:37",
+   "sent": "positive",
+   "txt": "**1. Single Most Important Fact**\nCRISIL Ltd. has reaffirmed GIC Housing Finance\u2019s credit ratings at **CRISIL AA+/Stable** (for long-term bank facilities and existing NCDs) and **CRISIL A1+** (for short-term bank facilities and commercial paper), while assigning a **CRISIL AA+/Stable** rating to a new limit-enhanced NCD issue of Rs. 500 crore.\n\n---\n\n**2. Key Numbers Exactly as Stated**\n*(Note: Financial performance metrics like Revenue/EBITDA/PAT are not part of this credit rating intimation.)*\n\n* **Long-Term Bank Facility (Rs. 8,100 cr.):** Re-affirmed at `CRISIL AA+/Stable`\n* **Short-Term Bank Facility (Rs. 1,000 cr.):** Re-affirmed at `CRISIL A1+`\n* **NCDs (Rs. 500 cr.):** Re-affirmed at `CRISIL AA+/Stable`\n* **NCDs (Rs. 430 cr., reduced from Rs. 1,030 cr.):** Re-affirmed at `CRISIL AA+/Stable`\n* **NCDs (Rs. 500 cr. - Limit Enhanced):** Assigned `CRISIL AA+/Stable` (New)\n* **Commercial Paper (Rs. 1,500 cr.):** Re-affirmed at `CRISIL A1+`\n\n---\n\n**3. Management Guidance / Outlook**\n* **Outlook:** CRISIL maintained a **\"Stable\"** outlook across all long-term facilities and NCDs.\n* No management guidance or operational forward-looking statements were included in the filing.\n\n---\n\n**4. What a Shareholder Should Watch or Act On**\n* **No action required.** \n* Monitor the company\u2019s cost of borrowing and deployment of newly rated funds (Rs. 500 cr. enhanced NCDs) into loan book growth.\n\n---\n\n**5. One-Line Net Read**\n**Neutral to mildly positive:** Reaffirmation of top-tier credit ratings (`AA+` and `A1+`) confirms stable balance-sheet strength and ensures continued access to debt markets at competitive interest rates."
+  },
   {
    "s": "HSCL",
    "n": "Himadri Speciality Chemical Limited",
@@ -597,6 +605,14 @@
    "when": "2026-09-18 20:56",
    "sent": "positive",
    "txt": "Here is a concise analysis based strictly on the provided regulatory filing:\n\n### 1. Most Important Fact\n**India Ratings and Research (Ind-Ra)** upgraded Nephrocare Health Services Limited\u2019s (NHSL) long-term bank facility ratings to **\u2018IND AA-\u2019/Stable** (from IND A+/Positive) and affirmed its short-term rating at **\u2018IND A1+\u2019**, driven by strengthening business scale, improved profitability, and achieving a net-cash position following an equity raise in December 2025.\n\n---\n\n### 2. Key Numbers Exactly as Stated\n\n#### **Consolidated Financial Performance**\n| Metric | FY26 | FY25 | FY24 | 1QFY27 | 1QFY26 |\n| :--- | :---: | :---: | :---: | :---: | :---: |\n| **Revenue** | INR 10.0 billion | INR 7.6 billion | INR 5.7 billion | INR 2.8 billion | INR 2.3 billion |\n| **EBITDA** | INR 2.3 billion | INR 1.7 billion | INR 1.0 billion | INR 0.7 billion *(adj.)* | INR 0.5 billion |\n| **EBITDA Margin** | 22.7% | 22.0% | 17.6% | \u2014 | \u2014 |\n| **Gross Interest Coverage** | 3.8x* | 8.0x | 5.0x | \u2014 | \u2014 |\n| **Net Leverage (Net Debt/EBITDA)** | Net cash (NA) | 0.4x | 2.4x | \u2014 | \u2014 |\n| **Cash & Equivalents** | INR 4.3 billion | INR 1.9 billion | INR 0.3 billion | \u2014 | \u2014 |\n| **Total Debt** | INR 0.8 billion | INR 2.6 billion | INR 2.7 billion | \u2014 | \u2014 |\n| **Operating Cash Flow** | INR 2.3 billion | INR 1.4 billion | \u2014 | \u2014 | \u2014 |\n\n*(Note: Net profit/PAT is not disclosed in the rating report. Interest coverage moderated in FY26 due to a one-time, non-cash fair value remeasurement charge on bonus CCPS).*\n\n#### **Operational & Segment Metrics**\n* **Standalone FY26:** Revenue INR 6.3 billion (FY25: INR 5.4 billion); EBITDA INR 0.9 billion (FY25: INR 1.0 billion); EBITDA margin 14.0% (FY25: 17.5%).\n* **International Revenue Share:** 42% in FY26 (FY25: 32%; FY24: 25%).\n* **Market Share:** Holds >50% of the organized Indian dialysis market.\n* **Network (as of 1QFY27):** 550 clinics globally. As of March 31, 2026: 272 captive, 182 PPP, 70 standalone clinics (~52% on revenue-share model).\n* **Working Capital:** Debtor period was 116 days in FY26 (FY25: 130 days; FY24: 137 days).\n\n---\n\n### 3. Outlook & Forward-Looking Statements\n* **Outlook:** Stable. Ind-Ra expects NHSL to maintain healthy operating performance, comfortable credit metrics, and adequate liquidity supported by operating leverage, clinic utilization improvement, and expansion in international markets (Philippines, Uzbekistan, Saudi Arabia, Kazakhstan).\n* **Debt & Capex Outlook:** Management does not anticipate any material additional term debt requirements to support medium-term expansion. All India-level term loans are repaid; the remaining term loan of ~INR 67 million (Uzbekistan subsidiary) is scheduled to be fully repaid during FY27, leaving zero material term debt maturities in FY28 (subsequent obligations will largely comprise lease liabilities).\n\n---\n\n### 4. What a Shareholder Should Watch or Act On\n* **Receivables & Working Capital Cycle:** Debtor days remain elevated at 116 days due to >60% revenue coming from government schemes and PPP contracts. Continued timely realization from government entities is critical.\n* **International Execution:** Monitor ramp-up, profitability, and foreign exchange/geopolitical risks as newer platforms in Saudi Arabia and Kazakhstan scale up.\n* **Rating Triggers:** Downgrade trigger is set if consolidated net leverage exceeds 1.0x on a sustained basis due to aggressive debt-funded acquisitions/capex or deteriorating margins.\n\n---\n\n### 5. Net Read\n**Positive.** The credit upgrade to 'IND AA-' validates NHSL's robust operating leverage, substantial revenue scale-up (INR 10.0 billion in FY26), and a solid net-cash balance sheet with virtually all term debt eliminated."
+  },
+  {
+   "s": "HSCL",
+   "n": "Himadri Speciality Chemical Limited",
+   "cat": "Outcome of Board Meeting",
+   "when": "2026-09-18 20:24",
+   "sent": "neutral",
+   "txt": "**1. Single Most Important Fact**  \nThe Board of Directors approved alterations to the Company\u2019s Memorandum of Association (MOA)\u2014specifically inserting new sub-clauses under Clause III(A) (\"Objects to be pursued by the company on its incorporation\") to enable Himadri to undertake new business activities and aligning the MOA structure with the Companies Act, 2013, subject to shareholder approval via postal ballot.\n\n---\n\n**2. Key Numbers**  \n*No financial figures, order values, or quantitative targets were disclosed in this filing.*\n\n---\n\n**3. Management Guidance / Forward Statements**  \nNone stated. The filing does not disclose the specific new business activities being added to the object clause.\n\n---\n\n**4. What a Shareholder Should Watch or Act On**  \n* **Postal Ballot Notice:** Look out for the upcoming postal ballot notice/explanatory statement to see the exact text of the proposed new business objects.  \n* **Vote:** Cast votes on the postal ballot resolution to approve the MOA amendments.\n\n---\n\n**5. One-Line Net Read**  \n**Neutral:** A standard procedural/enabling corporate action laying statutory groundwork for future business expansion; specific financial impact will depend on the actual business activities detailed in the postal ballot notice."
   },
   {
    "s": "PNB",
@@ -621,22 +637,6 @@
    "when": "2026-09-18 12:04",
    "sent": "neutral",
    "txt": "**1. Most Important Fact**  \nThe Board of Directors of GAIL (India) Limited approved the appointment of Shri Manoj Kumar Sharma (Executive Director, IOCL) as Additional Director and Director (Projects), based on a nomination by the Ministry of Petroleum and Natural Gas (MoP&NG), effective from the date he assumes charge until his superannuation on April 30, 2031, or until further orders.\n\n**2. Key Numbers**  \n*No financial metrics, order values, or quarterly figures are disclosed in this personnel filing.*  \n* Background metrics stated: Over 3 decades of oil & gas sector experience; previously oversaw a pipeline network exceeding 5,700 km as Executive Director and Regional Head of Eastern Region Pipelines at IOCL.  \n* Superannuation date: 30.04.2031.\n\n**3. Management Guidance / Forward-Looking Statements**  \nNone provided regarding company performance or outlook. The company noted it is taking necessary actions to complete appointment formalities and will submit requisite disclosures in due course.\n\n**4. What a Shareholder Should Watch or Act On**  \n* No voting or immediate action is required at this stage.  \n* Watch for the formal date of assumption of charge and the execution/capex delivery across GAIL\u2019s ongoing gas pipeline and infrastructure projects under his leadership.\n\n**5. One-Line Net Read**  \n**Neutral**: Routine PSU executive leadership appointment filling the Director (Projects) vacancy with a seasoned pipeline infrastructure veteran from IOCL."
-  },
-  {
-   "s": "BEL",
-   "n": "Bharat Electronics Limited",
-   "cat": "Bagging/Receiving of orders/contracts",
-   "when": "2026-09-17 16:43",
-   "sent": "positive",
-   "txt": "**1. Most Important Fact**\nBharat Electronics Limited (BEL) has secured additional orders worth **Rs. 648 Crore** since its previous disclosure on August 26.\n\n---\n\n**2. Key Numbers Exactly as Stated**\n* **Additional order inflow:** Rs. 648 Crore\n* **Scope/Products covered:** Laser-based IR jammer, communication equipment, cybersecurity solutions, thermal imagers, transducers, AI-based software solutions, TR modules, upgrades, spares, services, etc.\n*(Note: No revenue, EBITDA, margin, PAT, or deltas are provided in this order-win release).*\n\n---\n\n**3. Management Guidance / Outlook**\n* None included in the document.\n\n---\n\n**4. What a Shareholder Should Watch or Act On**\n* Track cumulative order inflows against annual order inflow guidance and watch for revenue conversion timelines/execution schedules in upcoming quarterly results.\n\n---\n\n**5. One-Line Net Read**\n* **Positive:** Steady order accretion that further strengthens BEL\u2019s defence electronics order book and revenue visibility."
-  },
-  {
-   "s": "LT",
-   "n": "Larsen & Toubro Limited",
-   "cat": "Credit Rating",
-   "when": "2026-09-17 14:21",
-   "sent": "neutral",
-   "txt": "**1. Most Important Fact**\nNiche99 ESG Ratings (a SEBI-registered ESG Rating Provider) independently assigned Larsen & Toubro an unsolicited ESG score of **\u201c63\u201d** under the **\u201cPerformer\u201d** category based on publicly available data (L&T did not engage the agency).\n\n**2. Key Numbers**\n* **ESG Score:** 63 (Category: \"Performer\")\n* *Financial numbers (Revenue, EBITDA, PAT, deltas):* None provided in this filing.\n\n**3. Management Guidance / Outlook**\n* None stated in the document.\n\n**4. What a Shareholder Should Watch or Act On**\n* No immediate action required. Shareholders tracking ESG mandate compliance or institutional fund criteria can review the report via the provided link (`https://niche99.com/niche99-esg-ratings`).\n\n**5. One-Line Net Read**\n* **Neutral:** Routine regulatory disclosure of an unsolicited, third-party ESG rating with no material or operational financial impact."
   }
  ],
  "movers": {
