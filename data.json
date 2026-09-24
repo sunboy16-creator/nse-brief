@@ -1,5 +1,5 @@
 {
- "generated": "24-Sep-2026 07:04",
+ "generated": "24-Sep-2026 07:12",
  "market_date": "2026-09-23",
  "stocks": [
   {
@@ -560,8 +560,8 @@
  ],
  "perf": {
   "n": 75,
-  "day": 0.62,
-  "overall": 26.92
+  "day": 0.47,
+  "overall": 26.76
  },
  "wperf": {
   "n": 9,
@@ -571,13 +571,13 @@
   {
    "who": "KB",
    "overall": 54.53,
-   "day": 0.59,
+   "day": 0.0,
    "funds": 10
   },
   {
    "who": "PT",
    "overall": 31.86,
-   "day": 0.48,
+   "day": 0.18,
    "funds": 8
   }
  ],
