@@ -1,5 +1,5 @@
 {
- "generated": "23-Sep-2026 18:12",
+ "generated": "24-Sep-2026 07:04",
  "market_date": "2026-09-23",
  "stocks": [
   {
@@ -560,8 +560,8 @@
  ],
  "perf": {
   "n": 75,
-  "day": 0.4,
-  "overall": 26.69
+  "day": 0.62,
+  "overall": 26.92
  },
  "wperf": {
   "n": 9,
@@ -570,18 +570,34 @@
  "mf": [
   {
    "who": "KB",
-   "overall": 53.62,
-   "day": 0.79,
+   "overall": 54.53,
+   "day": 0.59,
    "funds": 10
   },
   {
    "who": "PT",
-   "overall": 31.24,
-   "day": 0.51,
+   "overall": 31.86,
+   "day": 0.48,
    "funds": 8
   }
  ],
  "digests": [
+  {
+   "s": "BDL",
+   "n": "Bharat Dynamics Limited",
+   "cat": "Bagging/Receiving of orders/contracts",
+   "when": "2026-09-23 18:11",
+   "sent": "positive",
+   "txt": "**1. Most Important Fact**\nBharat Dynamics Limited (BDL) has signed a contract worth **Rs 810.79 crore** with the Ministry of Defence for the supply of Satellite Smart Anti Airfield Weapons (SAT-SAAW) and associated equipment for the Indian Air Force (IAF) under the Buy (Indian-IDDM) category.\n\n---\n\n**2. Key Numbers Exactly as Stated**\n* **Total Contract Value / Consideration:** Rs 810.79 crore\n* **Indigenous Content:** 60%\n* **Execution Period:** Between 2027\u201328 and 2028\u201329\n*(Note: As this is an order receipt disclosure, no P&L figures such as revenue, EBITDA, or PAT were provided).*\n\n---\n\n**3. Management Guidance / Forward Statements**\n* Delivery of the SAT-SAAW systems is scheduled between **2027\u20132028 and 2028\u20132029**.\n* The weapon is designed and developed by DRDO to be launched from platforms like Jaguar, Hawk, and Su-30 MKI to neutralise enemy airfields from stand-off ranges.\n* Sub-systems targeted for indigenisation include the Initial Measurement Unit, Long Impact Delay Fuse, and Twin Store Carrier under the *Aatmanirbharta* initiative.\n\n---\n\n**4. What a Shareholder Should Watch or Act On**\n* **Delayed Revenue Recognition:** Execution is back-ended (commencing only in FY28 through FY29), meaning it will not contribute to near-term earnings.\n* **Execution & Production Readiness:** Monitor development, testing, and production ramp-up milestones leading into the FY28\u2013FY29 delivery window.\n\n---\n\n**5. One-Line Net Read**\n**Positive** \u2014 Expands the defence order book with a high-indigenous-content, precision-guided munition contract, providing solid long-term revenue visibility despite the deferred execution timeline."
+  },
+  {
+   "s": "MAZDOCK",
+   "n": "Mazagon Dock Shipbuilders Limited",
+   "cat": "Change in Director(s)",
+   "when": "2026-09-23 11:57",
+   "sent": "neutral",
+   "txt": "**1. Single Most Important Fact**\nThe Ministry of Defence (vide letter dated 22 September 2024) has approved the extension of tenure of Shri Biju George (DIN: 09343562) as Director (Operations) effective from 27 October 2026 until his superannuation on 28 February 2029, or until further orders, whichever is earlier.\n\n**2. Key Numbers Exactly as Stated**\n* No financial metrics, contract values, or operating figures were reported in this filing.\n* Relevant administrative reference: Ministry of Defence Letter No. `4/1(1)/2019/D(NS)` dated 22 September 2024; previous appointment letter dated 27 October 2021.\n\n**3. Management Guidance / Outlook**\n* None provided in the document.\n\n**4. What a Shareholder Should Watch or Act On**\n* No action required; observe ongoing operational execution and project delivery under continued operational leadership through February 2029.\n\n**5. One-Line Net Read**\n* **Neutral**: Routine governance and tenure extension ensuring long-term leadership stability in core operations."
+  },
   {
    "s": "GICHSGFIN",
    "n": "GIC Housing Finance Limited",
@@ -621,22 +637,6 @@
    "when": "2026-09-22 12:41",
    "sent": "neutral",
    "txt": "**1. Most Important Fact**  \nCentral Depository Services (India) Limited (CDSL) has appointed Shri Kinjal Shah as Chief Technology Officer (CTO) and Key/Senior Management Personnel effective September 22, 2026, succeeding Shri Amit Mahajan, who ceased holding the CTO role from the commencement of business hours on the same date.\n\n---\n\n**2. Key Numbers Exactly as Stated**  \n*No financial figures (revenue, EBITDA, PAT, etc.) are contained in this filing.*  \n* Profile/career numbers stated:\n  * Age of new CTO (Kinjal Shah): 47 years.\n  * Total work experience: ~25 years.\n  * Tenure at previous employer (Yes Securities): 3 years.\n\n---\n\n**3. Management Guidance, Outlook, or Forward Statements**  \n*None stated in the document.*\n\n---\n\n**4. What a Shareholder Should Watch or Act On**  \n* No immediate shareholder action required.  \n* Monitor the continuity and execution of CDSL\u2019s core technology and cybersecurity infrastructure under the new CTO, given the mission-critical nature of IT operations for a market infrastructure depository.\n\n---\n\n**5. One-Line Net Read**  \n**Neutral** \u2014 Planned, routine management transition to fill the CTO vacancy with an experienced capital markets technology professional."
-  },
-  {
-   "s": "DIXON",
-   "n": "Dixon Technologies (India) Limited",
-   "cat": "Acquisition",
-   "when": "2026-09-21 18:40",
-   "sent": "positive",
-   "txt": "**1. Most Important Fact**\nDixon Technologies has completed the subscription of a 51% controlling stake (25,50,000 equity shares) in newly incorporated subsidiary **Adivistar Electronics India Private Limited** for Rs. 2.55 crore, partnering in relation to **vivo** to manufacture electronic devices, including smartphones.\n\n---\n\n**2. Key Numbers Exactly as Stated**\n* **Acquisition Cost / Consideration:** Rs. 2,55,00,000 (Cash consideration).\n* **Shares Subscribed:** 25,50,000 equity shares at face value of Rs. 10 each (at par).\n* **Shareholding / Control:** 51%.\n* **Target Turnover:** Nil (incorporated August 13, 2026; yet to commence operations).\n\n---\n\n**3. Management Guidance / Outlook**\n* *\"This association will bolster our manufacturing excellence and superior execution abilities and vivo\u2019s leadership in the Indian business ecosystem. This partnership further strengthens our strong foothold in the android smartphone ecosystem in India.\"*\n\n---\n\n**4. What a Shareholder Should Watch**\n* Operational timeline for setup, commercial production, and volume ramp-up of smartphone manufacturing under Adivistar.\n* Details on the remaining 49% ownership structure and formal supply agreements with vivo.\n\n---\n\n**5. One-Line Net Read**\n* **Positive**: Strengthens Dixon's mobile manufacturing footprint by formalizing a controlling venture tied to brand leader vivo at nominal initial capital outlay."
-  },
-  {
-   "s": "HSCL",
-   "n": "Himadri Speciality Chemical Limited",
-   "cat": "Outcome of Board Meeting",
-   "when": "2026-09-21 10:01",
-   "sent": "positive",
-   "txt": "### 1. Most Important Fact\nThe Board of Directors of Himadri Speciality Chemical Ltd (HSCL) approved a Scheme of Arrangement for the demerger and transfer of the **Tyre Business** of Dalmia Bharat Refractories Limited (DBRL) into HSCL as a going concern on an \"as is where is\" basis.\n\n---\n\n### 2. Key Numbers Exactly as Stated\n* **Consideration:** No cash consideration; entirely discharged via share issuance.\n* **Share Entitlement Ratio:** **1** fully paid-up equity share of HSCL (face value INR 1) for every **260** fully paid-up equity shares of DBRL (face value INR 10).\n* **Turnover of Demerged Division:** **INR 149.31 crores** (as of 31 March 2026), representing **3.39%** of HSCL\u2019s total turnover for the year ended 31 March 2026.\n* **Shareholding & Dilution Impact on HSCL:**\n  * **Pre-Scheme Total Shares:** 50,45,74,175 (Promoter: 52.49% | Public: 47.51%)\n  * **Post-Scheme Total Shares:** 50,47,50,637 (Promoter: 52.47% | Public: 47.53%)\n  * **Net New Shares Issued:** 1,76,462 shares (~0.035% equity dilution).\n* **Appointed Date:** 1 October 2026 (subject to NCLT / authority approval).\n\n---\n\n### 3. Management Rationale & Outlook\n* **Strategic Forward-Integration:** Enables HSCL to integrate the tyre business with its existing carbon black and advanced carbon materials business, strengthening presence across the tyre value chain.\n* **Synergies & Scale:** Expected to generate operational and commercial synergies across raw material sourcing, product development, R&D, distribution, and manufacturing, facilitating scaling up across various tyre application segments.\n\n---\n\n### 4. What a Shareholder Should Watch or Act On\n* **Approvals Pipeline:** Implementation is subject to requisite approvals from SEBI, Stock Exchanges, NCLT, and shareholders/creditors of both companies.\n* **Execution & Margin Profile:** Monitor the profitability and integration progress of the incoming INR 149.31 cr tyre business into HSCL's core carbon materials portfolio.\n* **Action:** No immediate action required by HSCL shareholders.\n\n---\n\n### 5. One-Line Net Read\n**Positive to Neutral:** Provides strategic forward integration into the tyre manufacturing chain with virtually negligible equity dilution (~0.035%)."
   }
  ],
  "movers": {
@@ -860,168 +860,148 @@
  "fiidii": [
   {
    "cat": "DII",
-   "date": "22-Sep-2026",
-   "net": "4120.07",
-   "buy": "14599.72",
-   "sell": "10479.65"
+   "date": "23-Sep-2026",
+   "net": "2341.46",
+   "buy": "14404.9",
+   "sell": "12063.44"
   },
   {
    "cat": "FII/FPI",
-   "date": "22-Sep-2026",
-   "net": "-3809.99",
-   "buy": "9845.81",
-   "sell": "13655.8"
+   "date": "23-Sep-2026",
+   "net": "1617.45",
+   "buy": "13580.4",
+   "sell": "11962.95"
   }
  ],
  "flows": [
   {
-   "s": "RHIM",
+   "s": "WELSPUNLIV",
    "kind": "bulk",
-   "who": "DALMIA BHARAT REFRACTORIES LIMITED",
+   "who": "WELSPUN GROUP MASTER TRUST",
    "bs": "SELL",
-   "qty": 22941224,
-   "px": 360.0,
-   "val": 825.88,
+   "qty": 24471102,
+   "px": 214.9,
+   "val": 525.88,
    "mine": false
   },
   {
-   "s": "RHIM",
+   "s": "WELSPUNLIV",
    "kind": "block",
-   "who": "DALMIA BHARAT REFRACTORIES LIMITED",
+   "who": "WELSPUN GROUP MASTER TRUST",
    "bs": "SELL",
-   "qty": 22941224,
-   "px": 360.0,
-   "val": 825.88,
+   "qty": 24471102,
+   "px": 214.9,
+   "val": 525.88,
    "mine": false
   },
   {
-   "s": "RHIM",
-   "kind": "bulk",
-   "who": "SBI MUTUAL FUND",
-   "bs": "BUY",
-   "qty": 16666667,
-   "px": 360.0,
-   "val": 600.0,
-   "mine": false
-  },
-  {
-   "s": "RHIM",
+   "s": "WELSPUNLIV",
    "kind": "block",
-   "who": "SBI MUTUAL FUND",
+   "who": "FIDELITY INVESTMENT TRUST FIDELITY INT",
    "bs": "BUY",
-   "qty": 16666667,
-   "px": 360.0,
-   "val": 600.0,
+   "qty": 22241742,
+   "px": 214.9,
+   "val": 477.98,
    "mine": false
   },
   {
-   "s": "KAYNES",
+   "s": "WELSPUNLIV",
    "kind": "bulk",
-   "who": "GRAVITON RESEARCH CAPITAL LLP",
+   "who": "FIDELITY SECURITIES FUND FIDELITY BLUE",
+   "bs": "BUY",
+   "qty": 12987628,
+   "px": 214.9,
+   "val": 279.1,
+   "mine": false
+  },
+  {
+   "s": "MARINE",
+   "kind": "bulk",
+   "who": "KDU ENTERPRISES PRIVATE LIMITED",
    "bs": "SELL",
-   "qty": 413878,
-   "px": 3507.08,
-   "val": 145.15,
+   "qty": 4200000,
+   "px": 386.48,
+   "val": 162.32,
    "mine": false
   },
   {
-   "s": "KAYNES",
+   "s": "SSRETAIL",
    "kind": "bulk",
-   "who": "GRAVITON RESEARCH CAPITAL LLP",
-   "bs": "BUY",
-   "qty": 411449,
-   "px": 3507.01,
-   "val": 144.3,
-   "mine": false
-  },
-  {
-   "s": "GLASSWALL",
-   "kind": "bulk",
-   "who": "PLUTUS WEALTH MANAGEMENT LLP",
+   "who": "NK SECURITIES RESEARCH PRIVATE LIMITED",
    "bs": "SELL",
-   "qty": 3810923,
-   "px": 308.3,
-   "val": 117.49,
+   "qty": 2301782,
+   "px": 669.31,
+   "val": 154.06,
    "mine": false
   },
   {
-   "s": "GLASSWALL",
+   "s": "SSRETAIL",
    "kind": "bulk",
-   "who": "PLUTUS WEALTH MANAGEMENT LLP",
+   "who": "NK SECURITIES RESEARCH PRIVATE LIMITED",
    "bs": "BUY",
-   "qty": 3810923,
-   "px": 308.18,
-   "val": 117.45,
+   "qty": 2300012,
+   "px": 668.9,
+   "val": 153.85,
    "mine": false
   },
   {
-   "s": "RHIM",
+   "s": "TEXINFRA",
    "kind": "bulk",
-   "who": "BANDHAN MUTUAL FUND",
+   "who": "ZUARI INDUSTRIES LIMITED",
    "bs": "BUY",
-   "qty": 2777777,
-   "px": 360.0,
-   "val": 100.0,
+   "qty": 12810900,
+   "px": 115.02,
+   "val": 147.35,
    "mine": false
   },
   {
-   "s": "RHIM",
+   "s": "TEXINFRA",
+   "kind": "bulk",
+   "who": "ZUARI INTERNATIONAL LIMITED",
+   "bs": "SELL",
+   "qty": 12810900,
+   "px": 115.02,
+   "val": 147.35,
+   "mine": false
+  },
+  {
+   "s": "TEXINFRA",
    "kind": "block",
-   "who": "BANDHAN MUTUAL FUND",
+   "who": "ZUARI INDUSTRIES LIMITED",
    "bs": "BUY",
-   "qty": 2777777,
-   "px": 360.0,
-   "val": 100.0,
+   "qty": 12810900,
+   "px": 115.02,
+   "val": 147.35,
    "mine": false
   },
   {
-   "s": "GLASSWALL",
-   "kind": "bulk",
-   "who": "JUMP TRADING FINANCIAL INDIA PRIVATE L",
-   "bs": "BUY",
-   "qty": 2972597,
-   "px": 309.86,
-   "val": 92.11,
-   "mine": false
-  },
-  {
-   "s": "GLASSWALL",
-   "kind": "bulk",
-   "who": "JUMP TRADING FINANCIAL INDIA PRIVATE L",
-   "bs": "SELL",
-   "qty": 2972597,
-   "px": 306.56,
-   "val": 91.13,
-   "mine": false
-  },
-  {
-   "s": "RHIM",
-   "kind": "bulk",
-   "who": "NIPPON INDIA MUTUAL FUND",
-   "bs": "BUY",
-   "qty": 2496780,
-   "px": 360.0,
-   "val": 89.88,
-   "mine": false
-  },
-  {
-   "s": "RHIM",
+   "s": "TEXINFRA",
    "kind": "block",
-   "who": "NIPPON INDIA MUTUAL FUND",
-   "bs": "BUY",
-   "qty": 2496780,
-   "px": 360.0,
-   "val": 89.88,
+   "who": "ZUARI INTERNATIONAL LIMITED",
+   "bs": "SELL",
+   "qty": 12810900,
+   "px": 115.02,
+   "val": 147.35,
    "mine": false
   },
   {
-   "s": "PCJEWELLER",
+   "s": "OPTIEMUS",
    "kind": "bulk",
-   "who": "JUMP TRADING FINANCIAL INDIA PRIVATE L",
+   "who": "BANK OF INDIA MUTUAL FUND",
+   "bs": "BUY",
+   "qty": 1769176,
+   "px": 815.68,
+   "val": 144.31,
+   "mine": false
+  },
+  {
+   "s": "SSRETAIL",
+   "kind": "bulk",
+   "who": "IRAGE BROKING SERVICES LLP",
    "bs": "SELL",
-   "qty": 53894885,
-   "px": 13.32,
-   "val": 71.79,
+   "qty": 1973484,
+   "px": 666.22,
+   "val": 131.48,
    "mine": false
   },
   {
@@ -1029,49 +1009,69 @@
    "kind": "bulk",
    "who": "JUMP TRADING FINANCIAL INDIA PRIVATE L",
    "bs": "BUY",
-   "qty": 53894884,
-   "px": 13.28,
-   "val": 71.57,
+   "qty": 85618930,
+   "px": 14.39,
+   "val": 123.21,
    "mine": false
   },
   {
-   "s": "GLASSWALL",
+   "s": "PCJEWELLER",
    "kind": "bulk",
-   "who": "MICROCURVES TRADING PRIVATE LIMITED",
+   "who": "JUMP TRADING FINANCIAL INDIA PRIVATE L",
    "bs": "SELL",
-   "qty": 2111652,
-   "px": 309.76,
-   "val": 65.41,
+   "qty": 85618930,
+   "px": 14.38,
+   "val": 123.12,
    "mine": false
   },
   {
-   "s": "GLASSWALL",
+   "s": "SSRETAIL",
    "kind": "bulk",
-   "who": "MICROCURVES TRADING PRIVATE LIMITED",
+   "who": "IRAGE BROKING SERVICES LLP",
    "bs": "BUY",
-   "qty": 2111652,
-   "px": 309.58,
-   "val": 65.37,
+   "qty": 1660035,
+   "px": 682.61,
+   "val": 113.32,
    "mine": false
   },
   {
-   "s": "GLASSWALL",
+   "s": "OLAELEC",
    "kind": "bulk",
-   "who": "ELIXIR WEALTH MANAGEMENT PRIVATE LIMIT",
+   "who": "JUMP TRADING FINANCIAL INDIA PRIVATE L",
    "bs": "SELL",
-   "qty": 2052183,
-   "px": 307.91,
-   "val": 63.19,
+   "qty": 26337303,
+   "px": 41.48,
+   "val": 109.25,
    "mine": false
   },
   {
-   "s": "GLASSWALL",
+   "s": "OLAELEC",
    "kind": "bulk",
-   "who": "ELIXIR WEALTH MANAGEMENT PRIVATE LIMIT",
+   "who": "JUMP TRADING FINANCIAL INDIA PRIVATE L",
    "bs": "BUY",
-   "qty": 2052173,
-   "px": 307.62,
-   "val": 63.13,
+   "qty": 26337303,
+   "px": 41.38,
+   "val": 108.98,
+   "mine": false
+  },
+  {
+   "s": "SSRETAIL",
+   "kind": "bulk",
+   "who": "GRT STRATEGIC VENTURES LLP",
+   "bs": "SELL",
+   "qty": 1394437,
+   "px": 668.57,
+   "val": 93.23,
+   "mine": false
+  },
+  {
+   "s": "SSRETAIL",
+   "kind": "bulk",
+   "who": "GRT STRATEGIC VENTURES LLP",
+   "bs": "BUY",
+   "qty": 1394596,
+   "px": 668.26,
+   "val": 93.2,
    "mine": false
   }
  ]
