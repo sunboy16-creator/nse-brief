@@ -1,5 +1,5 @@
 {
- "generated": "27-Sep-2026 11:19",
+ "generated": "28-Sep-2026 09:32",
  "market_date": "2026-09-25",
  "stocks": [
   {
@@ -571,50 +571,17 @@
   {
    "who": "KB",
    "overall": 52.64,
-   "day": 0.17,
+   "day": 0.0,
    "funds": 10
   },
   {
    "who": "PT",
    "overall": 30.02,
-   "day": 0.13,
+   "day": 0.1,
    "funds": 8
   }
  ],
- "digests": [
-  {
-   "s": "RELIANCE",
-   "n": "Reliance Industries Limited",
-   "cat": "Credit Rating",
-   "when": "2026-09-25 22:49",
-   "sent": "positive",
-   "txt": "Here is a concise equity-research summary of the regulatory filing:\n\n### 1. The Single Most Important Fact\n**CARE Ratings** and **CRISIL Ratings** have assigned/reaffirmed their highest ratings of **`CARE AAA; Stable` / `Crisil AAA/Stable`** on Reliance Industries Limited\u2019s (RIL) **\u20b910,000 crore Non-Convertible Debentures (NCDs)** and reaffirmed existing ratings across bank loan facilities, debentures, and commercial paper.\n\n---\n\n### 2. Key Numbers Exactly as Stated\n\n#### Headline Consolidated Financials (CARE Ratings, Page 6)\n| Metric | FY25 (Audited) | FY26 (Audited) | Q1FY27 (Unaudited) |\n| :--- | :---: | :---: | :---: |\n| **Total Operating Income / Revenue** | \u20b99,64,831 cr *(\u20b99,80,136 cr per CRISIL)* | \u20b910,57,070 cr *(\u20b910,75,675 cr per CRISIL)* | \u20b93,09,468 cr |\n| **PBILDT / EBITDA** | \u20b91,65,907 cr | \u20b91,80,318 cr | \u20b947,517 cr |\n| **Profit After Tax (PAT)** | \u20b981,309 cr | \u20b995,754 cr | \u20b923,196 cr |\n| **Overall Gearing / Total Debt to Net Worth** | 0.47x / 0.5x | 0.46x / 0.5x | NA |\n| **Interest Coverage** | 6.84x *(7.5x CRISIL)* | 6.66x *(7.6x CRISIL)* | 5.70x |\n\n#### Key Segment & Operational Highlights (as reported by rating agencies):\n* **Consolidated Cash & Liquid Investments:** \u20b92,46,791 crore as of June 30, 2026 (\u20b92,49,704 crore as of March 31, 2026).\n* **Consolidated Operating Profit Growth:** ~10.7% on-year growth in operating profits in the first 3 months of FY27; Q1FY27 consolidated EBITDA stood at \u20b947,157 crore (vs. \u20b942,905 crore in Q1FY26).\n* **Oil-to-Chemicals (O2C):** Contributed ~50% of gross revenue and 31% of PBILDT in FY26. EBITDA margin improved to 9.14% in FY26 (from 8.77% in FY25). Gross revenue rose ~30% YoY in Q1FY27 due to sharp crude price increases.\n* **Retail (RRVL):** 20,169 stores; 78.4 million sq. ft. as of June 30, 2026. Gross revenue and PBILDT grew 12% and 8% YoY in FY26 (contributed ~28% revenue and 14% PBILDT in FY26); grew ~7% YoY in Q1FY27. Registered customers reached 396 million (+11% YoY).\n* **FMCG (RCPL):** Demerged from RRVL; gross revenue doubled to ~\u20b922,000 crore in FY26.\n* **Telecom/Digital (RJIL):** 533.3 million total subscribers (including 285+ million 5G users; TRAI wireless base: 50.36 crore with ~39.3% market share). ARPU increased to \u20b9215.6/month in Q1FY27 (from \u20b9214.0 in Q4FY26). Contributed 13% of gross revenue and 39% of PBILDT in FY26 (+14% revenue and +18% PBILDT YoY).\n\n---\n\n### 3. Management Guidance & Forward-Looking Statements\n* **New Energy Targets:** Target of achieving net carbon zero by 2035 and establishing at least 100 GW of renewable energy generation capacity by 2030 / medium term. \n* **Manufacturing Progress:** Delivered first 200 MWp HJT solar modules from Dhirubhai Ambani Green Energy Giga Complex; in advanced stages of commissioning battery energy storage giga-factory with an initial capacity target of 40 GWh.\n* **Value Unlocking:** Filing notes the **proposed IPO of Jio Platforms** as a key value-unlocking development.\n* **Telecom Capex:** Additional capex on telecom network/equipment infrastructure is expected to be moderate going forward due to existing 5G-ready architecture and extensive fiberisation.\n\n---\n\n### 4. What a Shareholder Should Watch or Act On\n* **Rating Sensitivity Threshold:** Watch Net Debt to PBILDT\u2014a sustained deterioration beyond **2.5x** or major unexpected debt-funded capex/acquisitions would trigger negative rating action.\n* **New Energy & AI Capex Execution:** Technology adoption, large-scale execution, and return profile on heavy investments into green energy giga-complexes and AI-enabled data centres.\n* **Jio Platforms IPO:** Progress and timelines on the prospective listing.\n* **O2C Margins vs. Volatility:** Cyclical risks from feedstock prices, crude volatility (Dated Brent averaged $104.5/bbl in Q1FY27 vs $70.3/bbl in FY26), and regulatory costs (e.g., SAED).\n\n---\n\n### 5. One-Line Net Read\n**Positive / Neutral:** Reaffirms RIL's fortress balance sheet with prime credit ratings (`AAA/Stable`), excellent liquidity (~\u20b92.47 lakh crore cash), and robust consumer segment earnings offsetting commodity cyclicality."
-  },
-  {
-   "s": "RELIANCE",
-   "n": "Reliance Industries Limited",
-   "cat": "Credit Rating",
-   "when": "2026-09-25 22:09",
-   "sent": "positive",
-   "txt": "### 1. Single Most Important Fact\nBoth **CARE Ratings** and **CRISIL Ratings** assigned **AAA/Stable** ratings to Reliance Industries Limited\u2019s (RIL) **\u20b910,000 crore Non-Convertible Debentures (NCDs)** and reaffirmed existing ratings across bank facilities, commercial paper (CARE A1+ / Crisil A1+), and outstanding NCDs.\n\n---\n\n### 2. Key Numbers Exactly as Stated\n\n#### Headline Consolidated Financials\n| Metric | FY24 | FY25 (Audited) | FY26 (Audited) | Q1 FY27 (Unaudited) |\n| :--- | :---: | :---: | :---: | :---: |\n| **Total Operating Income / Revenue** | \u20b99,14,472 cr | \u20b99,64,831 cr / \u20b99,80,136 cr* | \u20b910,57,070 cr / \u20b91,075,675 cr* | \u20b93,09,468 cr |\n| **PBILDT / EBITDA** | \u2014 | \u20b91,65,907 cr | \u20b91,80,318 cr | \u20b947,517 cr (vs \u20b942,905 cr prior-year period) |\n| **Profit After Tax (PAT)** | \u20b979,020 cr | \u20b981,309 cr | \u20b995,754 cr | \u20b923,196 cr |\n| **PAT Margin** | 8.5% | 8.1% | 8.7% | \u2014 |\n| **Overall Gearing** | \u2014 | 0.47x | 0.46x | NA |\n| **Total Debt / Adjusted Networth** | 0.5x | 0.5x | 0.5x | \u2014 |\n| **Net Debt / PBILDT** | \u2014 | 1.50x | 1.40x | \u2014 |\n| **Interest Coverage** | 7.7x | 6.84x / 7.5x* | 6.66x / 7.6x* | 5.70x |\n\n*\\*Discrepancies reflect reporting variations between CARE and CRISIL tables.*\n\n#### Key Segmental & Operational Metrics\n- **Consolidated Cash & Liquid Investments:** \u20b92,46,791 crore as of June 30, 2026 (\u20b92,49,704 crore as of March 31, 2026).\n- **Q1 FY27 Operating Profit Growth:** ~10.7% on-year.\n- **O2C Segment:** Contributed ~50% of gross revenue and 31% of PBILDT in FY26 (EBITDA margin at 9.14% vs 8.77% in FY25); Q1 FY27 gross revenue surged ~30% YoY due to sharp crude price increases. Crude capacity at Jamnagar: ~1.4 million bpd (Nelson Complexity Index: 21.1).\n- **Retail (RRVL):** FY26 gross revenue and PBILDT grew 12% and 8% YoY; Q1 FY27 grew ~7% YoY. Contributed ~28% of gross revenue and 14% of PBILDT in FY26. Total store count: 20,169 stores with 78.4 million sq. ft. across 7,000+ cities as of June 30, 2026.\n- **FMCG (RCPL):** Demerged from RRVL; FY26 gross revenue doubled to ~\u20b922,000 crore.\n- **Telecom / Digital Services (RJIL):** FY26 revenue and PBILDT grew 14% and 18% YoY. Contributed 13% of revenue and 39% of PBILDT in FY26. Subscriber base stood at 533.3 million (including 285M+ 5G users; wireless subscribers at 50.36 crore with ~39.3% market share). ARPU rose to \u20b9215.6/month in Q1 FY27 (from \u20b9214.0 in Q4 FY26).\n\n---\n\n### 3. Management Guidance / Rating Outlook\n- **Rating Outlook:** **Stable** by both CARE and CRISIL, expecting sustained credit metrics underpinned by dominant positions in O2C, retail, and telecom, backed by healthy cash flows and liquidity.\n- **New Energy Target:** Building giga-factories over 5,000 acres in Jamnagar (Dhirubhai Ambani Green Energy Giga Complex); delivered first 200 MWp HJT solar modules, battery energy storage factory (initial target 40 GWh) in advanced stages; targeting at least 100 GW renewable energy capacity by 2030 and **Net Carbon Zero by 2035**.\n- **Telecom:** Notes the **proposed IPO of Jio Platforms** as a key value-unlocking development.\n\n---\n\n### 4. What a Shareholder Should Watch or Act On\n- **Negative Rating Sensitivities:** A sustained rise in consolidated net debt to PBILDT/EBITDA beyond **2.5x** or aggressive debt-funded capex/acquisitions that deteriorate the capital structure.\n- **Capex Execution:** Execution timeline and technology adoption risks in capital-intensive new energy (giga-factories) and AI-led digital infrastructure/data centres.\n- **O2C Cyclicality:** Sensitivity of margins to global crude price volatility (Dated Brent averaged $104.5/bbl in Q1 FY27 vs $70.3/bbl in FY26) and natural volume declines in KGD6 gas production.\n- **Jio Platforms IPO:** Progress on the proposed listing for value unlocking.\n\n---\n\n### 5. One-Line Net Read\n**Positive**: Reaffirms the highest credit quality (AAA/Stable) and manageable leverage (net debt/PBILDT at 1.40x) while highlighting growing EBITDA dominance from consumer businesses (telecom + retail contributing >50% of EBITDA)."
-  },
-  {
-   "s": "TECHM",
-   "n": "Tech Mahindra Limited",
-   "cat": "Credit Rating",
-   "when": "2026-09-25 20:46",
-   "sent": "positive",
-   "txt": "**1. Single Most Important Fact**\nCARE Ratings Limited has reaffirmed Tech Mahindra Limited\u2019s credit rating of **CARE AAA; Stable** for long-term bank facilities and **CARE AAA; Stable / CARE A1+** for long-term / short-term bank facilities across total limits of **\u20b92,500.00 crore**.\n\n---\n\n**2. Key Numbers Exactly as Stated**\n* **Long Term Bank Facilities:** \u20b9175.00 crore (Rated: CARE AAA; Stable | Reaffirmed)\n* **Long Term / Short Term Bank Facilities:** \u20b92,325.00 crore (Rated: CARE AAA; Stable / CARE A1+ | Reaffirmed)\n* **Total Rated Facilities:** \u20b92,500.00 crore\n*(Note: Operational financial metrics such as revenue, EBITDA, margins, or PAT are not disclosed in this filing.)*\n\n---\n\n**3. Management Guidance / Outlook**\n* **Rating Outlook:** Reaffirmed as **\"Stable\"** on the long-term rating.\n* No management guidance or operational forecasts were provided in the document.\n\n---\n\n**4. What a Shareholder Should Watch or Act On**\n* No immediate shareholder action required. The filing confirms the company maintains the highest domestic credit ratings (AAA/A1+), indicating top-tier creditworthiness and sustained access to low-cost banking credit lines.\n\n---\n\n**5. One-Line Net Read**\n* **Neutral to routine positive:** Affirms maximum credit quality and pristine balance-sheet strength, though it represents a standard periodic re-affirmation with no surprise impact on earnings."
-  },
-  {
-   "s": "GICHSGFIN",
-   "n": "GIC Housing Finance Limited",
-   "cat": "Change in Director(s)",
-   "when": "2026-09-25 18:51",
-   "sent": "neutral",
-   "txt": "**1. Most Important Fact**\nSmt. Rani Singh Nair (DIN: 09103000) ceased to be an Independent Director (and member/chairperson of Board-level committees) of GIC Housing Finance Ltd. effective close of business hours on September 25, 2026, upon the scheduled completion of her 3-year second term (which ran from September 26, 2023 to September 25, 2026).\n\n**2. Key Numbers**\n* No financial metrics, operational figures, or order values are stated in this filing.\n\n**3. Management Guidance / Forward Outlook**\n* None provided. The company placed on record its appreciation for her contributions during her tenure.\n\n**4. What a Shareholder Should Watch or Act On**\n* Watch for subsequent announcements regarding the appointment/induction of a new Independent Director to fill committee and Board positions in compliance with SEBI listing norms. No direct shareholder action is required.\n\n**5. One-Line Net Read**\n* **Neutral**: Routine cessation of an independent director following the natural completion of her tenure."
-  }
- ],
+ "digests": [],
  "movers": {
   "gainers": [
    {
