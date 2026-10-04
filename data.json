@@ -1,237 +1,146 @@
 {
- "generated": "01-Oct-2026 06:27",
- "market_date": "2026-09-30",
+ "generated": "04-Oct-2026 12:43",
+ "market_date": "2026-10-01",
  "stocks": [
   {
    "s": "MOREPENLAB",
    "n": "Morepen Laboratories Limited",
-   "c": 6.05,
+   "c": 6.14,
    "d": 31.7,
-   "p": 125.99
-  },
-  {
-   "s": "TATATECH",
-   "n": "Tata Technologies Limited",
-   "c": 3.02,
-   "d": 33.0,
-   "p": 707.5
-  },
-  {
-   "s": "IOLCP",
-   "n": "IOL Chemicals and Pharmaceuticals Limite",
-   "c": 2.78,
-   "d": 32.5,
-   "p": 207.08
-  },
-  {
-   "s": "IOC",
-   "n": "Indian Oil Corporation Limited",
-   "c": 2.74,
-   "d": 52.6,
-   "p": 134.93
-  },
-  {
-   "s": "IDFCFIRSTB",
-   "n": "IDFC First Bank Limited",
-   "c": 2.49,
-   "d": 48.6,
-   "p": 81.44
-  },
-  {
-   "s": "BDL",
-   "n": "Bharat Dynamics Limited",
-   "c": 2.3,
-   "d": 38.4,
-   "p": 1110.1
-  },
-  {
-   "s": "ITCHOTELS",
-   "n": "ITC Hotels Limited",
-   "c": 2.24,
-   "d": 54.9,
-   "p": 164.13
+   "p": 133.72
   },
   {
    "s": "COFORGE",
    "n": "Coforge Limited",
-   "c": 1.57,
+   "c": 4.4,
    "d": 32.5,
-   "p": 1749.1
+   "p": 1826.0
   },
   {
-   "s": "IDEAFORGE",
-   "n": "Ideaforge Technology Limited",
-   "c": 1.56,
-   "d": 48.0,
-   "p": 730.95
+   "s": "INFY",
+   "n": "Infosys Limited",
+   "c": 4.11,
+   "d": 55.5,
+   "p": 1035.0
   },
   {
-   "s": "MOSCHIP",
-   "n": "Moschip Technologies Limited",
-   "c": 1.4,
-   "d": 35.5,
-   "p": 201.25
+   "s": "HDFCBANK",
+   "n": "HDFC Bank Limited",
+   "c": 1.76,
+   "d": 66.6,
+   "p": 721.2
   },
   {
-   "s": "MAZDOCK",
-   "n": "Mazagon Dock Shipbuilders Limited",
-   "c": 1.24,
-   "d": 30.6,
-   "p": 2113.0
+   "s": "INDIASHLTR",
+   "n": "India Shelter Finance Corporation Limite",
+   "c": 1.57,
+   "d": 61.7,
+   "p": 645.6
   },
   {
-   "s": "AARTIIND",
-   "n": "Aarti Industries Limited",
-   "c": 1.23,
-   "d": 32.1,
-   "p": 475.7
+   "s": "NYKAA",
+   "n": "FSN E-Commerce Ventures Limited",
+   "c": 1.55,
+   "d": 65.8,
+   "p": 324.95
   },
   {
-   "s": "PNB",
-   "n": "Punjab National Bank",
-   "c": 1.17,
-   "d": 47.2,
-   "p": 113.06
+   "s": "AARTIPHARM",
+   "n": "Aarti Pharmalabs Limited",
+   "c": 1.55,
+   "d": 37.0,
+   "p": 968.5
   },
   {
-   "s": "BHARTIHEXA",
-   "n": "Bharti Hexacom Limited",
-   "c": 1.07,
-   "d": 65.9,
-   "p": 1424.5
+   "s": "SBILIFE",
+   "n": "SBI Life Insurance Company Limited",
+   "c": 1.49,
+   "d": 64.1,
+   "p": 1721.6
   },
   {
-   "s": "TMPV",
-   "n": "Tata Motors Passenger Vehicles Limited",
-   "c": 0.91,
-   "d": 53.2,
-   "p": 283.5
-  },
-  {
-   "s": "BAJAJHFL",
-   "n": "Bajaj Housing Finance Limited",
-   "c": 0.91,
-   "d": 57.9,
-   "p": 82.0
+   "s": "BUILDPRO",
+   "n": "Shankara Buildpro Limited",
+   "c": 1.48,
+   "d": 86.9,
+   "p": 1249.2
   },
   {
    "s": "TCS",
    "n": "Tata Consultancy Services Limited",
-   "c": 0.9,
+   "c": 1.19,
    "d": 50.5,
-   "p": 2050.6
+   "p": 2075.0
   },
   {
-   "s": "TECHM",
-   "n": "Tech Mahindra Limited",
-   "c": 0.89,
-   "d": 57.4,
-   "p": 1524.0
+   "s": "IOLCP",
+   "n": "IOL Chemicals and Pharmaceuticals Limite",
+   "c": 1.12,
+   "d": 32.5,
+   "p": 209.39
+  },
+  {
+   "s": "BAJAJHFL",
+   "n": "Bajaj Housing Finance Limited",
+   "c": 1.11,
+   "d": 57.9,
+   "p": 82.91
+  },
+  {
+   "s": "MARKSANS",
+   "n": "Marksans Pharma Limited",
+   "c": 1.02,
+   "d": 48.5,
+   "p": 325.6
   },
   {
    "s": "CAMS",
    "n": "Computer Age Management Services Limited",
-   "c": 0.75,
+   "c": 0.93,
    "d": 59.0,
-   "p": 671.0
+   "p": 677.25
   },
   {
-   "s": "SHAKTIPUMP",
-   "n": "Shakti Pumps (India) Limited",
-   "c": 0.73,
-   "d": 36.5,
-   "p": 461.35
+   "s": "IPCALAB",
+   "n": "IPCA Laboratories Limited",
+   "c": 0.84,
+   "d": 61.2,
+   "p": 1943.2
   },
   {
-   "s": "IRCTC",
-   "n": "Indian Railway Catering And Tourism Corp",
-   "c": 0.63,
-   "d": 33.9,
-   "p": 455.4
+   "s": "TATACONSUM",
+   "n": "TATA CONSUMER PRODUCTS LIMITED",
+   "c": 0.79,
+   "d": 68.6,
+   "p": 957.0
   },
   {
-   "s": "IREDA",
-   "n": "Indian Renewable Energy Development Agen",
-   "c": 0.61,
-   "d": 33.6,
-   "p": 111.68
+   "s": "TECHM",
+   "n": "Tech Mahindra Limited",
+   "c": 0.59,
+   "d": 57.4,
+   "p": 1533.0
   },
   {
-   "s": "IEX",
-   "n": "Indian Energy Exchange Limited",
-   "c": 0.57,
-   "d": 44.5,
-   "p": 107.0
-  },
-  {
-   "s": "VBL",
-   "n": "Varun Beverages Limited",
-   "c": 0.47,
-   "d": 67.9,
-   "p": 432.0
-  },
-  {
-   "s": "RELIANCE",
-   "n": "Reliance Industries Limited",
-   "c": 0.42,
-   "d": 69.7,
-   "p": 1187.0
-  },
-  {
-   "s": "ABDL",
-   "n": "Allied Blenders and Distillers Limited",
-   "c": 0.33,
-   "d": 35.6,
-   "p": 718.9
+   "s": "IDEAFORGE",
+   "n": "Ideaforge Technology Limited",
+   "c": 0.55,
+   "d": 48.0,
+   "p": 735.0
   },
   {
    "s": "GAIL",
    "n": "GAIL (India) Limited",
-   "c": 0.3,
+   "c": 0.39,
    "d": 71.5,
-   "p": 170.55
+   "p": 171.22
   },
   {
-   "s": "LT",
-   "n": "Larsen & Toubro Limited",
-   "c": 0.29,
-   "d": 70.2,
-   "p": 3760.0
-  },
-  {
-   "s": "PIDILITIND",
-   "n": "Pidilite Industries Limited",
-   "c": 0.28,
-   "d": 68.1,
-   "p": 1465.1
-  },
-  {
-   "s": "CDSL",
-   "n": "Central Depository Services (India) Limi",
-   "c": 0.17,
-   "d": 42.3,
-   "p": 1264.0
-  },
-  {
-   "s": "BEL",
-   "n": "Bharat Electronics Limited",
-   "c": 0.14,
-   "d": 62.0,
-   "p": 388.3
-  },
-  {
-   "s": "DEEPAKNTR",
-   "n": "Deepak Nitrite Limited",
-   "c": 0.05,
-   "d": 50.1,
-   "p": 1529.8
-  },
-  {
-   "s": "COALINDIA",
-   "n": "Coal India Limited",
-   "c": 0.0,
-   "d": 56.5,
-   "p": 425.0
+   "s": "EMCURE",
+   "n": "Emcure Pharmaceuticals Limited",
+   "c": 0.08,
+   "d": 53.4,
+   "p": 1944.6
   },
   {
    "s": "HFCL",
@@ -241,587 +150,581 @@
    "p": 0.0
   },
   {
-   "s": "NTPC",
-   "n": "NTPC Limited",
-   "c": -0.23,
-   "d": 69.4,
-   "p": 322.75
-  },
-  {
-   "s": "JIOFIN",
-   "n": "Jio Financial Services Limited",
-   "c": -0.31,
-   "d": 47.5,
-   "p": 216.88
-  },
-  {
-   "s": "SBIFUNDS",
-   "n": "SBI Funds Management Limited",
-   "c": -0.34,
-   "d": 59.7,
-   "p": 516.05
-  },
-  {
-   "s": "HINDCOPPER",
-   "n": "Hindustan Copper Limited",
-   "c": -0.36,
-   "d": 46.2,
-   "p": 472.65
-  },
-  {
-   "s": "ROUTE",
-   "n": "ROUTE MOBILE LIMITED",
-   "c": -0.49,
-   "d": 52.6,
-   "p": 445.0
-  },
-  {
-   "s": "TRENT",
-   "n": "Trent Limited",
-   "c": -0.51,
-   "d": 61.6,
-   "p": 2621.6
-  },
-  {
-   "s": "SBIN",
-   "n": "State Bank of India",
-   "c": -0.54,
-   "d": 57.5,
-   "p": 959.5
-  },
-  {
-   "s": "IPCALAB",
-   "n": "IPCA Laboratories Limited",
-   "c": -0.57,
-   "d": 61.2,
-   "p": 1927.0
-  },
-  {
-   "s": "INDIASHLTR",
-   "n": "India Shelter Finance Corporation Limite",
-   "c": -0.65,
-   "d": 61.7,
-   "p": 635.6
-  },
-  {
-   "s": "TRITURBINE",
-   "n": "Triveni Turbine Limited",
-   "c": -0.76,
-   "d": 56.6,
-   "p": 539.4
-  },
-  {
-   "s": "EMCURE",
-   "n": "Emcure Pharmaceuticals Limited",
-   "c": -0.82,
-   "d": 53.4,
-   "p": 1943.0
-  },
-  {
-   "s": "ITC",
-   "n": "ITC Limited",
-   "c": -0.89,
-   "d": 64.4,
-   "p": 262.75
+   "s": "PIDILITIND",
+   "n": "Pidilite Industries Limited",
+   "c": -0.08,
+   "d": 68.1,
+   "p": 1464.0
   },
   {
    "s": "LGEINDIA",
    "n": "LG Electronics India Limited",
-   "c": -0.9,
+   "c": -0.1,
    "d": 60.1,
-   "p": 1723.5
+   "p": 1721.8
   },
   {
-   "s": "ZENTEC",
-   "n": "Zen Technologies Limited",
-   "c": -0.9,
-   "d": 48.1,
-   "p": 1605.2
-  },
-  {
-   "s": "PARAS",
-   "n": "Paras Defence and Space Technologies Lim",
-   "c": -1.06,
-   "d": 23.7,
-   "p": 1311.0
-  },
-  {
-   "s": "BUILDPRO",
-   "n": "Shankara Buildpro Limited",
-   "c": -1.06,
-   "d": 86.9,
-   "p": 1231.0
-  },
-  {
-   "s": "DIXON",
-   "n": "Dixon Technologies (India) Limited",
-   "c": -1.13,
-   "d": 46.2,
-   "p": 13100.0
+   "s": "IRCTC",
+   "n": "Indian Railway Catering And Tourism Corp",
+   "c": -0.29,
+   "d": 33.9,
+   "p": 454.1
   },
   {
    "s": "ANTHEM",
    "n": "Anthem Biosciences Limited",
-   "c": -1.28,
+   "c": -0.33,
    "d": 54.0,
-   "p": 858.6
-  },
-  {
-   "s": "SWIGGY",
-   "n": "Swiggy Limited",
-   "c": -1.42,
-   "d": 43.4,
-   "p": 250.1
-  },
-  {
-   "s": "BAJFINANCE",
-   "n": "Bajaj Finance Limited",
-   "c": -1.48,
-   "d": 65.9,
-   "p": 959.4
+   "p": 855.75
   },
   {
    "s": "HDBFS",
    "n": "HDB Financial Services Limited",
-   "c": -1.52,
+   "c": -0.5,
    "d": 59.7,
-   "p": 621.3
+   "p": 618.2
   },
   {
-   "s": "TITAN",
-   "n": "Titan Company Limited",
-   "c": -1.88,
-   "d": 64.5,
-   "p": 4587.0
-  },
-  {
-   "s": "TATACONSUM",
-   "n": "TATA CONSUMER PRODUCTS LIMITED",
-   "c": -1.88,
-   "d": 68.6,
-   "p": 949.5
-  },
-  {
-   "s": "HDFCBANK",
-   "n": "HDFC Bank Limited",
-   "c": -1.94,
-   "d": 66.6,
-   "p": 708.7
-  },
-  {
-   "s": "AARTIPHARM",
-   "n": "Aarti Pharmalabs Limited",
-   "c": -1.96,
-   "d": 37.0,
-   "p": 953.75
-  },
-  {
-   "s": "TMCV",
-   "n": "Tata Motors Limited",
-   "c": -1.98,
-   "d": 60.6,
-   "p": 421.65
-  },
-  {
-   "s": "INFY",
-   "n": "Infosys Limited",
-   "c": -2.1,
-   "d": 55.5,
-   "p": 994.1
-  },
-  {
-   "s": "SBILIFE",
-   "n": "SBI Life Insurance Company Limited",
-   "c": -2.22,
-   "d": 64.1,
-   "p": 1696.4
-  },
-  {
-   "s": "NYKAA",
-   "n": "FSN E-Commerce Ventures Limited",
-   "c": -2.25,
-   "d": 65.8,
-   "p": 320.0
-  },
-  {
-   "s": "PATANJALI",
-   "n": "Patanjali Foods Limited",
-   "c": -2.26,
-   "d": 29.8,
-   "p": 363.0
-  },
-  {
-   "s": "ETERNAL",
-   "n": "ETERNAL LIMITED",
-   "c": -2.39,
-   "d": 65.6,
-   "p": 320.0
-  },
-  {
-   "s": "IGIL",
-   "n": "International Gemological Institute Limi",
-   "c": -2.59,
-   "d": 54.4,
-   "p": 315.9
-  },
-  {
-   "s": "ICICIAMC",
-   "n": "ICICI Prudential Asset Management Compan",
-   "c": -2.98,
-   "d": 60.7,
-   "p": 3136.7
-  },
-  {
-   "s": "BSE",
-   "n": "BSE Limited",
-   "c": -3.38,
-   "d": 30.9,
-   "p": 3092.0
-  },
-  {
-   "s": "IDEA",
-   "n": "Vodafone Idea Limited",
-   "c": -4.5,
-   "d": 37.8,
-   "p": 12.95
-  },
-  {
-   "s": "MARKSANS",
-   "n": "Marksans Pharma Limited",
-   "c": -5.97,
-   "d": 48.5,
-   "p": 322.3
-  }
- ],
- "watch": [
-  {
-   "s": "THERMAX",
-   "n": "Thermax Limited",
-   "c": 3.08,
-   "d": 73.4,
-   "p": 3392.2
-  },
-  {
-   "s": "HSCL",
-   "n": "Himadri Speciality Chemical Limited",
-   "c": 1.53,
-   "d": 38.9,
-   "p": 677.8
-  },
-  {
-   "s": "NEPHROPLUS",
-   "n": "Nephrocare Health Services Limited",
-   "c": -0.55,
-   "d": 72.2,
-   "p": 659.75
-  },
-  {
-   "s": "ANANTRAJ",
-   "n": "Anant Raj Limited",
+   "s": "SBIN",
+   "n": "State Bank of India",
    "c": -0.56,
-   "d": 41.4,
-   "p": 598.9
+   "d": 57.5,
+   "p": 954.1
   },
   {
-   "s": "UNIPARTS",
-   "n": "Uniparts India Limited",
-   "c": -0.9,
-   "d": 45.0,
-   "p": 836.0
+   "s": "IREDA",
+   "n": "Indian Renewable Energy Development Agen",
+   "c": -0.61,
+   "d": 33.6,
+   "p": 111.0
   },
   {
-   "s": "KIRLPNU",
-   "n": "Kirloskar Pneumatic Company Limited",
-   "c": -1.13,
-   "d": 51.6,
-   "p": 676.7
-  },
-  {
-   "s": "KRBL",
-   "n": "KRBL Limited",
-   "c": -1.19,
-   "d": 44.4,
-   "p": 381.6
-  },
-  {
-   "s": "NETWEB",
-   "n": "Netweb Technologies India Limited",
-   "c": -1.41,
-   "d": 23.4,
-   "p": 4548.0
-  },
-  {
-   "s": "FIEMIND",
-   "n": "Fiem Industries Limited",
-   "c": -2.26,
-   "d": 60.0,
-   "p": 1877.6
-  }
- ],
- "perf": {
-  "n": 75,
-  "day": -0.76,
-  "overall": 21.94
- },
- "wperf": {
-  "n": 9,
-  "day": -0.38
- },
- "mf": [
-  {
-   "who": "KB",
-   "overall": 49.61,
-   "day": 0.0,
-   "funds": 10
-  },
-  {
-   "who": "PT",
-   "overall": 27.55,
-   "day": -0.05,
-   "funds": 8
-  }
- ],
- "digests": [
-  {
-   "s": "HDFCBANK",
-   "n": "HDFC Bank Limited",
-   "cat": "Change in Management",
-   "when": "2026-09-30 20:36",
-   "sent": "neutral",
-   "txt": "**1. Single Most Important Fact**\nMr. Sudhir Kumar Jha, Group Head \u2013 Legal & Group General Counsel, superannuated and ceased to be a Senior Management Personnel effective close of business hours on September 30, 2026; Mr. Jigar Shah takes over as General Counsel effective October 1, 2026 (as previously intimated on June 29, 2026).\n\n**2. Key Numbers**\n* No financial metrics (revenue, EBITDA, PAT, etc.) are reported in this filing.\n* Tenure: Mr. Jha served 22 years with the HDFC Group (including HDFC Ltd. and the Bank).\n\n**3. Management Guidance, Outlook, or Forward Statements**\n* None provided in the filing.\n\n**4. What a Shareholder Should Watch or Act On**\n* No action required; monitor the seamless transition of the Bank's legal and compliance leadership under the incoming General Counsel, Mr. Jigar Shah.\n\n**5. One-Line Net Read**\n* **Neutral**: Routine, planned retirement/superannuation with a previously announced internal succession plan."
-  },
-  {
-   "s": "THERMAX",
-   "n": "Thermax Limited",
-   "cat": "Acquisition",
-   "when": "2026-09-30 19:32",
-   "sent": "positive",
-   "txt": "**1. The Single Most Important Fact**\nThermax Limited has completed the acquisition of the remaining 49% equity stake in TSA Process Equipments Private Limited (\"TSA\") for Rs. 42 Crores, making TSA a wholly owned (100%) subsidiary.\n\n---\n\n**2. Key Numbers Exactly as Stated**\n* **Acquisition Details:**\n  * **Stake Acquired:** 49% (completing 100% ownership).\n  * **Cost / Consideration:** Rs. 42 Crores in cash, payable in one or more tranches subject to certain terms and conditions.\n* **Target Company Financials (TSA Process Equipments Pvt Ltd):**\n  * **Turnover (FY 2025\u201326):** Rs. 166.99 Cr (vs. Rs. 129.65 Cr in FY 2024\u201325 and Rs. 121.83 Cr in FY 2023\u201324).\n  * **PAT (FY 2025\u201326):** Rs. 6.65 Cr.\n  * **Net Worth (as of March 31, 2026):** Rs. 44.99 Cr.\n  * **Share Capital:** 13,68,000 equity shares of face value Rs. 10/- each.\n\n---\n\n**3. Management Guidance or Forward Statements**\n* None stated in the filing, other than confirming that upon completion, TSA becomes a wholly owned subsidiary of Thermax Limited.\n\n---\n\n**4. What a Shareholder Should Watch or Act On**\n* **Integration & Contribution:** Watch for operational integration and margin accretion from TSA\u2019s high-purity water solutions business within Thermax\u2019s water/industrial solutions portfolio.\n* **Cash Flow Impact:** Monitor the payout schedule and milestone conditions governing the Rs. 42 Crore tranche-based consideration.\n\n---\n\n**5. One-Line Net Read**\n* **Positive:** Small, bolt-on transaction that cleanly consolidates full ownership of a growing, profitable niche player in high-purity water solutions at an attractive valuation."
-  },
-  {
-   "s": "HDFCBANK",
-   "n": "HDFC Bank Limited",
-   "cat": "Change in Management",
-   "when": "2026-09-30 18:33",
-   "sent": "neutral",
-   "txt": "**1. Single Most Important Fact**  \nThe Board approved the appointment of Mr. V. N. Srivatsan as Chief Compliance Officer (CCO) for a 3-year term, effective from his expected joining date of January 4, 2027 (succeeding Mr. Rakesh Kumar Rajput, whose 3-year term ended on September 30, 2026); Mr. Venkateswaran L will serve as interim CCO during the transition.\n\n**2. Key Numbers Exactly as Stated**  \n*No financial figures, revenue, or earnings metrics are mentioned in this filing.* Key operational/tenure details:\n- **Tenure of outgoing CCO (Mr. Rakesh Kumar Rajput):** 3 years (October 1, 2023 \u2013 September 30, 2026; continues as full-time employee).\n- **Tenure of incoming CCO (Mr. V. N. Srivatsan):** 3 years starting from date of joining (proposed joining date: January 4, 2027).\n- **Incoming CCO Experience:** ~34 years total professional experience, ~25 years in BFSI, ~10 years in compliance/regulatory inspection (currently Head \u2013 Compliance: Overseas Banking and Subsidiaries & Data Privacy Officer at ICICI Bank).\n\n**3. Management Guidance, Outlook, or Forward Statements**  \nMr. V. N. Srivatsan is proposed to join as CCO on January 4, 2027. During the intervening period (October 1, 2026 \u2013 January 4, 2027), Mr. Venkateswaran L (Compliance Head \u2013 Credit, Asset Product & Regulatory Reporting) will hold responsibility as the Chief Compliance Officer.\n\n**4. What a Shareholder Should Watch or Act On**  \nNo shareholder action required. Monitor the smooth transition of compliance leadership up to the formal onboarding of Mr. V. N. Srivatsan on January 4, 2027, ensuring continuous adherence to RBI compliance directions.\n\n**5. One-Line Net Read**  \n**Neutral** \u2014 Routine, pre-planned leadership transition for a regulatory role following the expiration of the prior CCO's term, with adequate interim arrangements."
-  },
-  {
-   "s": "JIOFIN",
-   "n": "Jio Financial Services Limited",
-   "cat": "Acquisition",
-   "when": "2026-09-30 18:12",
-   "sent": "positive",
-   "txt": "**1. Most Important Fact**  \nJio Financial Services Limited (JIOFIN) and Allianz Europe B.V. have each subscribed to and been allotted 32,00,50,000 equity shares of their 50:50 joint venture, Jio Allianz General Insurance Limited, on a rights issue basis for Rs. 320.05 crore each.\n\n**2. Key Numbers Exactly as Stated**  \n* **Shares allotted to JIOFIN:** 32,00,50,000 equity shares at face value of Rs. 10/- each (for cash at par).  \n* **Amount invested in this tranche:** Rs. 320.05 crore (matched equally by Allianz Europe B.V.).  \n* **JV Ownership:** 50:50 Joint Venture.  \n* **Aggregate investment by JIOFIN in the JV to date:** Rs. 375 crore.  \n*(Note: Revenue, EBITDA, PAT, and deltas are not mentioned in this filing.)*\n\n**3. Management Guidance / Outlook**  \n* The JV will utilize the invested proceeds to *\"fund its business operations.\"*  \n* No further forward guidance or financial targets were provided.\n\n**4. What a Shareholder Should Watch or Act On**  \n* No immediate action required.  \n* Monitor operational rollout, IRDAI product approvals/launches, and subsequent capital calls or business growth milestones from the Jio Allianz General Insurance JV.\n\n**5. One-Line Net Read**  \n**Neutral to slightly positive** \u2014 routine capital infusion to fund ongoing operational scaling of its insurance joint venture, in line with prior agreements."
-  },
-  {
-   "s": "PARAS",
-   "n": "Paras Defence and Space Technologies Lim",
-   "cat": "Credit Rating",
-   "when": "2026-09-30 18:05",
-   "sent": "positive",
-   "txt": "**1. Most Important Fact**\nICRA Limited has upgraded Paras Defence and Space Technologies Limited\u2019s credit rating for long-term facilities to **[ICRA]A (Stable)** from **[ICRA]A- (Positive)** (outlook revised to Stable from Positive), while reaffirming **[ICRA]A2+** for short-term facilities (assigned for an enhanced amount).\n\n---\n\n**2. Key Numbers**\n*No operational or headline financial figures (revenue, EBITDA, PAT) or specific facility amount limits are disclosed in this document.* \n\nInstruments rated:\n* **Long Term \u2013 Fund Based (Cash Credit & Overdraft):** Upgraded to `[ICRA]A (Stable)` from `[ICRA]A- (Positive)`.\n* **Long Term / Short Term \u2013 Non-Fund Based (Bank Guarantee & Letter of Credit):** Upgraded to `[ICRA]A (Stable)` / `[ICRA]A2+` reaffirmed; assigned for enhanced amount.\n\n---\n\n**3. Management Guidance & Outlook**\n* **Rating Outlook:** Revised to **Stable** from **Positive** by ICRA.\n* No management guidance or forward-looking statements are included in this filing.\n\n---\n\n**4. What a Shareholder Should Watch or Act On**\n* **Borrowing Costs & Working Capital:** Watch for lower financing costs on debt facilities and higher non-fund based limits supporting larger contract execution/bidding capacity. \n* No immediate shareholder action required.\n\n---\n\n**5. One-Line Net Read**\n**Positive:** A credit rating upgrade to `[ICRA]A` signals improved creditworthiness, lower balance-sheet risk, and potential savings in debt financing costs."
-  },
-  {
-   "s": "IDEAFORGE",
-   "n": "Ideaforge Technology Limited",
-   "cat": "Bagging/Receiving of orders/contracts",
-   "when": "2026-09-30 15:33",
-   "sent": "positive",
-   "txt": "**1. Single Most Important Fact**\nideaForge Technology Limited has secured multiple domestic purchase orders aggregating to \u20b923.62 crore (all inclusive) from civil customers for the supply of multicopter Unmanned Aerial Vehicles (UAVs), accessories, and training.\n\n**2. Key Numbers Exactly as Stated**\n* **Aggregate Order Value:** \u20b923.62 Crore (all inclusive)\n* **Execution Timeline:** Up to 6 months\n*(Note: Financials such as revenue, EBITDA, PAT, and comparative YoY/QoQ deltas are not mentioned in this order-win intimation).*\n\n**3. Management Guidance, Outlook, or Forward Statement**\n* The company stated that the orders are for product sales of multicopter UAVs configured specifically for mapping, aerial survey, and surveillance, to be executed within a period of up to 6 months. No broader forward-looking guidance or earnings outlook was provided.\n\n**4. What a Shareholder Should Watch or Act On**\n* Track the execution and revenue recognition of this \u20b923.62 crore order book addition over the next 6-month timeline.\n* Monitor further civil segment order inflows to gauge the pace of diversification beyond defence/security contracts.\n\n**5. One-Line Net Read**\n* **Positive**: Adds \u20b923.62 crore of near-term visible revenue to the civil UAV segment with a quick 6-month execution cycle."
-  },
-  {
-   "s": "NTPC",
-   "n": "NTPC Limited",
-   "cat": "Change in Management",
-   "when": "2026-09-30 13:36",
-   "sent": "neutral",
-   "txt": "**1. Most Important Fact**\nFour Executive Directors (Senior Management)\u2014Shri Chandan Kumar Samanta, Shri Vijay Goel, Shri Abhoy Kumar Mishra, and Shri C Kumar\u2014ceased to hold office on 30th September 2024 upon superannuation.\n\n**2. Key Numbers**\nNo financial figures or operational metrics are stated in this document.\n\n**3. Management Guidance & Forward Statements**\nNone provided in the filing.\n\n**4. What a Shareholder Should Watch or Act On**\nNo action required; watch for subsequent announcements regarding successor appointments to these Executive Director positions.\n\n**5. One-line Net Read**\n**Neutral**: Routine management cessation due to superannuation in normal course of business."
-  },
-  {
-   "s": "LT",
-   "n": "Larsen & Toubro Limited",
-   "cat": "Bagging/Receiving of orders/contracts",
-   "when": "2026-09-30 12:16",
-   "sent": "positive",
-   "txt": "Based on the provided regulatory filing, here are the key takeaways:\n\n### 1. Most Important Fact\nL&T's Transportation Infrastructure business vertical has formally executed twin contracts\u2014one categorized as \"Large\" and one as \"Significant\"\u2014from the Roads and Transport Authority (RTA) of Dubai for the development of the Latifa Bint Hamdan Corridor.\n\n### 2. Key Numbers Exactly as Stated\n* **Contract Value Classification:**\n  * **Significant:** \u20b91,000 crore to \u20b92,500 crore\n  * **Large:** \u20b92,500 crore to \u20b95,000 crore\n  * **Total Implied Combined Value:** \u20b93,500 crore to \u20b97,500 crore (derived from the classification ranges).\n* **Project Specifications:**\n  * Total corridor length upon completion: ~12 km.\n  * Capacity: ~16,000 vehicles per hour in both directions; >130,000 trips per day.\n  * Travel time reduction: From 33 minutes to 15 minutes between Umm Al Sheif Street and Emirates Road.\n* *(Note: Revenue, EBITDA, margins, and PAT are not applicable/reported in this order-win filing).*\n\n### 3. Management Guidance, Outlook, or Forward Statements\n* **Execution Timeline:** Both projects are scheduled for completion by the end of 2028.\n* **Scope:** \n  * Contract 1 involves a new road connecting Al Khail Road with the Latifa Bint Hamdan Street extension, including bridges, tunnels, and road works.\n  * Contract 2 entails developing parts of Al Meydan Street (new interchange, at-grade roads, and a cycling track connecting Al Qudra to Jumeirah).\n\n### 4. What a Shareholder Should Watch or Act On\n* **Order Book & Execution in the Middle East:** Track project execution progress through the scheduled 2028 completion timeline and the continued replenishment of international infrastructure orders.\n* **Margin Impact:** Monitor whether overseas infrastructure projects face cost escalations or maintain expected margins during execution.\n\n### 5. Net Read\n**Positive** \u2014 Adds an estimated \u20b93,500\u2013\u20b97,500 crore to L&T's international order book, strengthening its presence and execution pipeline with Dubai's RTA."
-  },
-  {
-   "s": "SBIFUNDS",
-   "n": "SBI Funds Management Limited",
-   "cat": "Outcome of Board Meeting",
-   "when": "2026-09-29 19:12",
-   "sent": "neutral",
-   "txt": "### 1. Most Important Fact\nSBI Funds Management Limited approved the appointment of **Mr. Amol Joshi as Chief Financial Officer (CFO) and Key Managerial Personnel (KMP)** effective October 1, 2026, succeeding **Mr. Inderjeet Ghuliani**, who is retiring due to superannuation at the close of business on September 30, 2026.\n\n---\n\n### 2. Key Numbers\n* No financial metrics (revenue, EBITDA, margins, PAT, etc.) or contract values were disclosed in this filing. \n* Experience metric: Incoming CFO Amol Joshi has approximately **32 years of work experience** (previously CFO of TransUnion CIBIL Limited).\n\n---\n\n### 3. Management Guidance & Forward Statements\n* No forward-looking statements, guidance, or outlook were provided in this document.\n\n---\n\n### 4. What a Shareholder Should Watch or Act On\n* **Transition continuity:** Watch for smooth handover of the finance and reporting function under the new CFO ahead of upcoming quarterly/annual financial disclosures.\n* No shareholder action is required.\n\n---\n\n### 5. Net Read\n**Neutral.** Routine, planned leadership transition due to the planned superannuation/retirement of the incumbent CFO, with an experienced replacement brought in from the financial services sector."
-  },
-  {
-   "s": "DIXON",
-   "n": "Dixon Technologies (India) Limited",
-   "cat": "Change in Management",
-   "when": "2026-09-29 18:33",
-   "sent": "positive",
-   "txt": "Here is a concise breakdown of the regulatory filing:\n\n### 1. Most Important Fact\nAt its 33rd Annual General Meeting held on September 28, 2024, shareholders of Dixon Technologies (India) Limited approved the re-appointment of:\n* **Mr. Sunil Vachani** as Whole Time Director for a 5-year term with effect from May 5, 2024 (liable to retire by rotation).\n* **Mr. Atul B. Lall** as Managing Director for a 5-year term with effect from May 5, 2024 (liable to retire by rotation).\n\n### 2. Key Numbers\n* **Term of appointment:** 5 (five) consecutive years.\n* *Note:* No financial metrics (revenue, EBITDA, margins, PAT, or contract values) are included in this filing.\n\n### 3. Management Guidance / Outlook\n* None provided in this corporate disclosure.\n\n### 4. What a Shareholder Should Watch or Act On\n* **No action required.** Shareholders have already voted on and approved both re-appointments. \n* Investors can track ongoing executive execution under the existing leadership team over the renewed 5-year tenure.\n\n### 5. One-Line Net Read\n* **Neutral to modestly positive:** Routine shareholder ratification ensuring long-term leadership continuity for Dixon's core founders and executive management."
-  },
-  {
-   "s": "SHAKTIPUMP",
-   "n": "Shakti Pumps (India) Limited",
-   "cat": "Credit Rating- New",
-   "when": "2026-09-29 18:16",
-   "sent": "positive",
-   "txt": "Here is a concise equity-research analysis of the filing:\n\n### 1. Most Important Fact\nIndia Ratings & Research has assigned an **IND AA-/Stable/IND A1+** rating to **INR 8,500 million** of bank loan facilities and affirmed the same **IND AA-/Stable/IND A1+** rating on **INR 13,100 million** of existing bank loan facilities, reflecting healthy operational and financial performance.\n\n### 2. Key Numbers Exactly as Stated\n*No revenue, EBITDA, margin, or PAT figures are disclosed in this filing.*  \n* **Bank loan facilities (Assigned):** INR 8,500 Million | Rating: `IND AA-/Stable/IND A1+`\n* **Bank loan facilities (Affirmed):** INR 13,100 Million | Rating: `IND AA-/Stable/IND A1+`\n* **Total Rated Bank Facilities:** INR 21,600 Million\n\n### 3. Management Guidance & Forward Statements\n* None stated in the document (other than the \"Stable\" credit rating outlook).\n\n### 4. What a Shareholder Should Watch or Act On\n* **No action required.** Shareholders should note the company's expanded rated bank credit lines (INR 8,500 million additional facility rated) at high-grade rating tiers (`AA-` / `A1+`), which supports working capital expansion and ongoing execution of solar pump orders at favorable borrowing costs.\n\n### 5. One-Line Net Read\n**Positive** \u2014 Affirmation of strong high-grade ratings (`AA-`/`A1+`) alongside ratings for INR 8,500 million of additional facilities validates the company's financial health and ensures smooth credit access for growth."
+   "s": "IEX",
+   "n": "Indian Energy Exchange Limited",
+   "c": -0.95,
+   "d": 44.5,
+   "p": 105.98
   },
   {
    "s": "COALINDIA",
    "n": "Coal India Limited",
-   "cat": "Change in Management",
-   "when": "2026-09-29 10:03",
-   "sent": "neutral",
-   "txt": "**1. The Single Most Important Fact**  \nDr. Anjani Kumar has relinquished his charge as Executive Director (Contracts) of Coal India Limited, effective September 28, 2026, following his appointment by the Ministry of Coal as Director (Technical) at Western Coalfields Limited (a wholly owned subsidiary of CIL).\n\n**2. Key Numbers**  \n* No financial numbers, order values, or operational metrics are stated in this document.\n\n**3. Management Guidance / Forward-Looking Statements**  \n* None disclosed in the filing.\n\n**4. What a Shareholder Should Watch or Act On**  \n* No shareholder action required; monitor for the appointment of the next Executive Director (Contracts) at Coal India Limited.\n\n**5. One-Line Net Read**  \n* **Neutral**: Routine internal transfer/promotion of senior management within the group's subsidiary structure with no material impact on operations."
+   "c": -1.08,
+   "d": 56.5,
+   "p": 420.4
+  },
+  {
+   "s": "BAJFINANCE",
+   "n": "Bajaj Finance Limited",
+   "c": -1.16,
+   "d": 65.9,
+   "p": 948.3
+  },
+  {
+   "s": "TATATECH",
+   "n": "Tata Technologies Limited",
+   "c": -1.23,
+   "d": 33.0,
+   "p": 698.8
+  },
+  {
+   "s": "IGIL",
+   "n": "International Gemological Institute Limi",
+   "c": -1.25,
+   "d": 54.4,
+   "p": 311.95
+  },
+  {
+   "s": "IDFCFIRSTB",
+   "n": "IDFC First Bank Limited",
+   "c": -1.29,
+   "d": 48.6,
+   "p": 80.39
+  },
+  {
+   "s": "BEL",
+   "n": "Bharat Electronics Limited",
+   "c": -1.34,
+   "d": 62.0,
+   "p": 383.1
+  },
+  {
+   "s": "TMPV",
+   "n": "Tata Motors Passenger Vehicles Limited",
+   "c": -1.45,
+   "d": 53.2,
+   "p": 279.4
+  },
+  {
+   "s": "TMCV",
+   "n": "Tata Motors Limited",
+   "c": -1.46,
+   "d": 60.6,
+   "p": 415.5
+  },
+  {
+   "s": "BSE",
+   "n": "BSE Limited",
+   "c": -1.49,
+   "d": 30.9,
+   "p": 3046.0
+  },
+  {
+   "s": "TITAN",
+   "n": "Titan Company Limited",
+   "c": -1.55,
+   "d": 64.5,
+   "p": 4515.7
+  },
+  {
+   "s": "VBL",
+   "n": "Varun Beverages Limited",
+   "c": -1.55,
+   "d": 67.9,
+   "p": 425.3
+  },
+  {
+   "s": "SHAKTIPUMP",
+   "n": "Shakti Pumps (India) Limited",
+   "c": -1.57,
+   "d": 36.5,
+   "p": 454.1
+  },
+  {
+   "s": "TRENT",
+   "n": "Trent Limited",
+   "c": -1.59,
+   "d": 61.6,
+   "p": 2580.0
+  },
+  {
+   "s": "MOSCHIP",
+   "n": "Moschip Technologies Limited",
+   "c": -1.6,
+   "d": 35.5,
+   "p": 198.03
+  },
+  {
+   "s": "RELIANCE",
+   "n": "Reliance Industries Limited",
+   "c": -1.63,
+   "d": 69.7,
+   "p": 1167.7
+  },
+  {
+   "s": "ICICIAMC",
+   "n": "ICICI Prudential Asset Management Compan",
+   "c": -1.67,
+   "d": 60.7,
+   "p": 3084.4
+  },
+  {
+   "s": "CDSL",
+   "n": "Central Depository Services (India) Limi",
+   "c": -1.7,
+   "d": 42.3,
+   "p": 1242.5
+  },
+  {
+   "s": "TRITURBINE",
+   "n": "Triveni Turbine Limited",
+   "c": -1.74,
+   "d": 56.6,
+   "p": 530.0
+  },
+  {
+   "s": "LT",
+   "n": "Larsen & Toubro Limited",
+   "c": -1.77,
+   "d": 70.2,
+   "p": 3693.4
+  },
+  {
+   "s": "ZENTEC",
+   "n": "Zen Technologies Limited",
+   "c": -1.81,
+   "d": 48.1,
+   "p": 1576.1
+  },
+  {
+   "s": "ETERNAL",
+   "n": "ETERNAL LIMITED",
+   "c": -1.91,
+   "d": 65.6,
+   "p": 313.9
+  },
+  {
+   "s": "ROUTE",
+   "n": "ROUTE MOBILE LIMITED",
+   "c": -1.93,
+   "d": 52.6,
+   "p": 436.4
+  },
+  {
+   "s": "BDL",
+   "n": "Bharat Dynamics Limited",
+   "c": -2.0,
+   "d": 38.4,
+   "p": 1087.9
+  },
+  {
+   "s": "JIOFIN",
+   "n": "Jio Financial Services Limited",
+   "c": -2.02,
+   "d": 47.5,
+   "p": 212.5
+  },
+  {
+   "s": "PATANJALI",
+   "n": "Patanjali Foods Limited",
+   "c": -2.16,
+   "d": 29.8,
+   "p": 355.15
+  },
+  {
+   "s": "HINDCOPPER",
+   "n": "Hindustan Copper Limited",
+   "c": -2.22,
+   "d": 46.2,
+   "p": 462.15
+  },
+  {
+   "s": "AARTIIND",
+   "n": "Aarti Industries Limited",
+   "c": -2.23,
+   "d": 32.1,
+   "p": 465.1
+  },
+  {
+   "s": "MAZDOCK",
+   "n": "Mazagon Dock Shipbuilders Limited",
+   "c": -2.32,
+   "d": 30.6,
+   "p": 2064.0
+  },
+  {
+   "s": "NTPC",
+   "n": "NTPC Limited",
+   "c": -2.37,
+   "d": 69.4,
+   "p": 315.1
+  },
+  {
+   "s": "IDEA",
+   "n": "Vodafone Idea Limited",
+   "c": -2.39,
+   "d": 37.8,
+   "p": 12.64
+  },
+  {
+   "s": "DEEPAKNTR",
+   "n": "Deepak Nitrite Limited",
+   "c": -2.42,
+   "d": 50.1,
+   "p": 1492.8
+  },
+  {
+   "s": "ITC",
+   "n": "ITC Limited",
+   "c": -2.61,
+   "d": 64.4,
+   "p": 255.9
+  },
+  {
+   "s": "IOC",
+   "n": "Indian Oil Corporation Limited",
+   "c": -2.66,
+   "d": 52.6,
+   "p": 131.34
+  },
+  {
+   "s": "PARAS",
+   "n": "Paras Defence and Space Technologies Lim",
+   "c": -2.67,
+   "d": 23.7,
+   "p": 1276.0
+  },
+  {
+   "s": "SBIFUNDS",
+   "n": "SBI Funds Management Limited",
+   "c": -3.04,
+   "d": 59.7,
+   "p": 500.35
+  },
+  {
+   "s": "DIXON",
+   "n": "Dixon Technologies (India) Limited",
+   "c": -3.05,
+   "d": 46.2,
+   "p": 12700.0
+  },
+  {
+   "s": "PNB",
+   "n": "Punjab National Bank",
+   "c": -3.09,
+   "d": 47.2,
+   "p": 109.57
+  },
+  {
+   "s": "BHARTIHEXA",
+   "n": "Bharti Hexacom Limited",
+   "c": -3.18,
+   "d": 65.9,
+   "p": 1379.2
+  },
+  {
+   "s": "ITCHOTELS",
+   "n": "ITC Hotels Limited",
+   "c": -3.42,
+   "d": 54.9,
+   "p": 158.51
+  },
+  {
+   "s": "SWIGGY",
+   "n": "Swiggy Limited",
+   "c": -4.84,
+   "d": 43.4,
+   "p": 238.0
+  },
+  {
+   "s": "ABDL",
+   "n": "Allied Blenders and Distillers Limited",
+   "c": -5.49,
+   "d": 35.6,
+   "p": 679.45
   }
  ],
+ "watch": [
+  {
+   "s": "KIRLPNU",
+   "n": "Kirloskar Pneumatic Company Limited",
+   "c": 0.78,
+   "d": 51.6,
+   "p": 681.95
+  },
+  {
+   "s": "NETWEB",
+   "n": "Netweb Technologies India Limited",
+   "c": -0.61,
+   "d": 23.4,
+   "p": 4520.3
+  },
+  {
+   "s": "THERMAX",
+   "n": "Thermax Limited",
+   "c": -0.93,
+   "d": 73.4,
+   "p": 3360.6
+  },
+  {
+   "s": "KRBL",
+   "n": "KRBL Limited",
+   "c": -1.49,
+   "d": 44.4,
+   "p": 375.9
+  },
+  {
+   "s": "NEPHROPLUS",
+   "n": "Nephrocare Health Services Limited",
+   "c": -1.64,
+   "d": 72.2,
+   "p": 648.95
+  },
+  {
+   "s": "HSCL",
+   "n": "Himadri Speciality Chemical Limited",
+   "c": -1.87,
+   "d": 38.9,
+   "p": 665.15
+  },
+  {
+   "s": "UNIPARTS",
+   "n": "Uniparts India Limited",
+   "c": -2.0,
+   "d": 45.0,
+   "p": 819.3
+  },
+  {
+   "s": "ANANTRAJ",
+   "n": "Anant Raj Limited",
+   "c": -3.51,
+   "d": 41.4,
+   "p": 577.85
+  },
+  {
+   "s": "FIEMIND",
+   "n": "Fiem Industries Limited",
+   "c": -4.41,
+   "d": 60.0,
+   "p": 1794.8
+  }
+ ],
+ "perf": {
+  "n": 76,
+  "day": -0.2,
+  "overall": 19.98
+ },
+ "wperf": {
+  "n": 9,
+  "day": -1.74
+ },
+ "mf": [
+  {
+   "who": "KB",
+   "overall": 47.9,
+   "day": -0.94,
+   "funds": 10
+  },
+  {
+   "who": "PT",
+   "overall": 26.58,
+   "day": -0.4,
+   "funds": 8
+  }
+ ],
+ "digests": [],
  "movers": {
   "gainers": [
    {
-    "s": "ALICON",
-    "n": "Alicon Castalloy Limited",
-    "c": 20.0,
-    "d": 20.7,
-    "p": 869.8
+    "s": "MONEYVIEW",
+    "n": "Moneyview Limited",
+    "c": 58.47,
+    "d": null,
+    "p": 53.88
    },
    {
-    "s": "ESTER",
-    "n": "Ester Industries Limited",
-    "c": 19.72,
-    "d": 29.3,
-    "p": 101.22
-   },
-   {
-    "s": "IRCON",
-    "n": "Ircon International Limited",
-    "c": 14.27,
-    "d": 6.8,
-    "p": 117.09
-   },
-   {
-    "s": "VALIANTORG",
-    "n": "Valiant Organics Limited",
-    "c": 12.48,
-    "d": 43.1,
-    "p": 455.1
-   },
-   {
-    "s": "LGHL",
-    "n": "Laxmi Goldorna House Limited",
-    "c": 11.93,
-    "d": 49.7,
-    "p": 200.04
-   },
-   {
-    "s": "KARAMTARA",
-    "n": "Karamtara Engineering Limited",
-    "c": 9.99,
-    "d": 32.2,
-    "p": 395.35
+    "s": "MOLBIO",
+    "n": "Molbio Diagnostics Limited",
+    "c": 15.6,
+    "d": 12.0,
+    "p": 1513.1
    },
    {
     "s": "HEROMOTORS",
     "n": "Hero Motors Limited",
-    "c": 9.98,
+    "c": 10.0,
     "d": 14.7,
-    "p": 152.55
+    "p": 167.8
    },
    {
-    "s": "HUBTOWN",
-    "n": "Hubtown Limited",
-    "c": 9.54,
-    "d": 28.5,
-    "p": 182.28
+    "s": "AUGMONT",
+    "n": "Augmont Enterprises Limited",
+    "c": 10.0,
+    "d": 32.2,
+    "p": 1195.2
    },
    {
-    "s": "SUNTV",
-    "n": "Sun TV Network Limited",
-    "c": 9.35,
-    "d": 8.1,
-    "p": 605.0
+    "s": "LGHL",
+    "n": "Laxmi Goldorna House Limited",
+    "c": 9.71,
+    "d": 49.7,
+    "p": 219.47
    },
    {
-    "s": "RITES",
-    "n": "RITES Limited",
-    "c": 8.7,
-    "d": 2.5,
-    "p": 209.05
-   }
-  ],
-  "losers": [
+    "s": "GKSL",
+    "n": "Gujarat Kidney And Super Special",
+    "c": 8.5,
+    "d": 35.4,
+    "p": 194.27
+   },
    {
-    "s": "PASHUPATI",
-    "n": "Pashupati Cotspin Limited",
-    "c": -18.68,
-    "d": 24.4,
-    "p": 75.4
+    "s": "OMNI",
+    "n": "Omnitech Engineering Limited",
+    "c": 7.91,
+    "d": 37.0,
+    "p": 608.65
+   },
+   {
+    "s": "MTNL",
+    "n": "Mahanagar Telephone Nigam Limite",
+    "c": 7.36,
+    "d": 46.1,
+    "p": 24.66
    },
    {
     "s": "ELEVATE",
     "n": "Elevate Campuses Limited",
-    "c": -10.79,
+    "c": 6.77,
     "d": 25.9,
-    "p": 322.95
+    "p": 344.8
    },
    {
-    "s": "INNOVACAP",
-    "n": "Innova Captab Limited",
-    "c": -8.76,
-    "d": 47.7,
-    "p": 1159.8
+    "s": "ATLANTAELE",
+    "n": "Atlanta Electricals Limited",
+    "c": 6.74,
+    "d": 56.6,
+    "p": 1716.5
+   }
+  ],
+  "losers": [
+   {
+    "s": "DELTACORP",
+    "n": "Delta Corp Limited",
+    "c": -8.73,
+    "d": 10.2,
+    "p": 73.48
    },
    {
-    "s": "VARMORA",
-    "n": "Varmora Granito Limited",
-    "c": -8.24,
-    "d": 20.6,
-    "p": 139.65
+    "s": "TURTLEMINT",
+    "n": "Turtlemint Fintech Solutions Lim",
+    "c": -8.7,
+    "d": 30.6,
+    "p": 69.79
    },
    {
-    "s": "BPLPHARMA",
-    "n": "Bharat Parenterals Limited",
-    "c": -6.92,
-    "d": 49.6,
-    "p": 1792.8
+    "s": "POLICYBZR",
+    "n": "PB Fintech Limited",
+    "c": -7.89,
+    "d": 37.8,
+    "p": 980.0
    },
    {
-    "s": "YATHARTH",
-    "n": "Yatharth Hospital & Trauma Care ",
-    "c": -6.81,
-    "d": 41.1,
-    "p": 1032.5
+    "s": "MUNJALAU",
+    "n": "Munjal Auto Industries Limited",
+    "c": -7.79,
+    "d": 6.3,
+    "p": 104.07
    },
    {
-    "s": "FORTIS",
-    "n": "Fortis Healthcare Limited",
-    "c": -6.33,
-    "d": 50.8,
-    "p": 770.0
+    "s": "BAJAJ-AUTO",
+    "n": "Bajaj Auto Limited",
+    "c": -7.62,
+    "d": 62.1,
+    "p": 10045.0
    },
    {
-    "s": "RSYSTEMS",
-    "n": "R Systems International Limited",
-    "c": -6.29,
-    "d": 11.2,
-    "p": 279.9
+    "s": "NIITMTS",
+    "n": "NIIT Learning Systems Limited",
+    "c": -6.57,
+    "d": 38.6,
+    "p": 191.08
    },
    {
-    "s": "MARKSANS",
-    "n": "Marksans Pharma Limited",
-    "c": -5.97,
-    "d": 48.5,
-    "p": 322.3
+    "s": "CHENNPETRO",
+    "n": "Chennai Petroleum Corporation Li",
+    "c": -6.26,
+    "d": 23.2,
+    "p": 1346.4
    },
    {
-    "s": "INDSWFTLAB",
-    "n": "Ind-Swift Laboratories Limited",
+    "s": "BHAGERIA",
+    "n": "Bhageria Industries Limited",
+    "c": -6.0,
+    "d": 49.5,
+    "p": 382.05
+   },
+   {
+    "s": "PRECAM",
+    "n": "Precision Camshafts Limited",
     "c": -5.89,
-    "d": 47.0,
-    "p": 388.75
+    "d": 50.4,
+    "p": 109.9
+   },
+   {
+    "s": "IRCON",
+    "n": "Ircon International Limited",
+    "c": -5.84,
+    "d": 6.8,
+    "p": 110.25
    }
   ],
   "delivery": [
@@ -830,70 +733,70 @@
     "n": "ESDS Software Solution Limited",
     "c": -5.0,
     "d": 100.0,
-    "p": 1509.5
+    "p": 1434.1
    },
    {
     "s": "ELCIDIN",
     "n": "EL CID Investments Limited",
-    "c": 0.0,
+    "c": -0.5,
     "d": 100.0,
-    "p": 102665.0
+    "p": 102155.0
    },
    {
     "s": "ZSARACOM",
     "n": "Saraswati Commercial India Limit",
-    "c": -0.91,
+    "c": -1.21,
     "d": 96.7,
-    "p": 10140.0
+    "p": 10017.0
    },
    {
     "s": "SUNRAKSHAK",
     "n": "Sunrakshakk Industries India Lim",
-    "c": -1.83,
+    "c": 0.0,
     "d": 94.4,
     "p": 358.9
    },
    {
     "s": "DISAQ",
     "n": "Disa India Limited",
-    "c": -0.07,
+    "c": -4.64,
     "d": 93.0,
-    "p": 11796.0
+    "p": 11249.0
    },
    {
     "s": "ASTRAZEN",
     "n": "AstraZeneca Pharma India Limited",
-    "c": -1.1,
+    "c": -2.51,
     "d": 91.2,
-    "p": 6186.0
+    "p": 6031.0
    },
    {
     "s": "THEMISMED",
     "n": "Themis Medicare Limited",
-    "c": -2.91,
+    "c": -2.81,
     "d": 90.5,
-    "p": 116.46
+    "p": 113.19
    },
    {
     "s": "MMWL",
     "n": "Media Matrix Worldwide Limited",
-    "c": 4.96,
+    "c": 4.99,
     "d": 90.3,
-    "p": 14.82
+    "p": 15.56
    },
    {
     "s": "KAPSTON",
     "n": "Kapston Services Limited",
-    "c": -0.96,
+    "c": -1.45,
     "d": 90.1,
-    "p": 550.35
+    "p": 542.35
    },
    {
     "s": "ELPROINTL",
     "n": "Elpro International Limited",
-    "c": 2.07,
+    "c": 0.18,
     "d": 89.1,
-    "p": 174.0
+    "p": 174.31
    }
   ]
  },
