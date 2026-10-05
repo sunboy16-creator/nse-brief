@@ -1,5 +1,5 @@
 {
- "generated": "04-Oct-2026 12:43",
+ "generated": "05-Oct-2026 19:19",
  "market_date": "2026-10-01",
  "stocks": [
   {
@@ -581,7 +581,24 @@
    "funds": 8
   }
  ],
- "digests": [],
+ "digests": [
+  {
+   "s": "LT",
+   "n": "Larsen & Toubro Limited",
+   "cat": "Bagging/Receiving of orders/contracts",
+   "when": "2026-10-05 09:35",
+   "sent": "positive",
+   "txt": "**1. Single Most Important Fact**  \nLarsen & Toubro\u2019s Power Transmission & Distribution (PT&D) business vertical has secured multiple EPC orders classified as **\"Mega\"** (aggregate value between **\u20b910,000 crore and \u20b915,000 crore**) across Saudi Arabia, the UAE, and India.\n\n---\n\n**2. Key Numbers Exactly as Stated**  \n* **Order Value Range:** Classified as **Mega\\*** = **\u20b910,000 crore to \u20b915,000 crore** (per L&T's internal order classification threshold).  \n* **Technical Specifications:**\n  * **Saudi Arabia:** 380 kV transmission and substation segments for transmission capacity augmentation and renewable energy evacuation.\n  * **UAE:** 132/11 kV substations and associated cabling works.\n  * **India (Visakhapatnam):** Transmission system (transmission lines and substations) from a leading private sector developer.\n* *(Note: P&L financials such as revenue, EBITDA, margin, and PAT were not part of this contract-win disclosure.)*\n\n---\n\n**3. Management Guidance / Forward Statement**  \nMr. Joji Sebastian, Executive Vice President & Head \u2013 PT&D, L&T, stated:  \n> *\"These order wins demonstrate the breadth of PT&D\u2019s engineering and execution capabilities and the ability to deliver complex power infrastructure solutions across geographies. With the growing demand for grid strengthening, renewable energy integration and associated infrastructure, we are leveraging our technology, project execution expertise and global presence to deliver value for our esteemed clients.\"*\n\n---\n\n**4. What a Shareholder Should Watch or Act On**  \n* **Order Book & Revenue Visibility:** Monitor the contribution of these mega orders to PT&D order inflow targets and execution timelines over the next 2\u20133 years.  \n* **Execution & Margin Delivery:** Track international EPC execution risks, supply chain pressures, and margin profile for Middle East utility contracts versus domestic private developer contracts.\n\n---\n\n**5. One-Line Net Read**  \n**Positive** \u2014 Secures significant multi-year revenue visibility with \u20b910,000\u2013\u20b915,000 Cr in high-voltage power transmission and grid-integration projects across key domestic and Middle East markets."
+  },
+  {
+   "s": "NYKAA",
+   "n": "FSN E-Commerce Ventures Limited",
+   "cat": "Updates",
+   "when": "2026-10-04 18:31",
+   "sent": "positive",
+   "txt": "**1. Single Most Important Fact**\nNykaa released its provisional Q2 FY2027 revenue update, reporting strong top-line momentum with expected Consolidated Net Revenue growth in the **late twenties (%) YoY**, Consolidated GMV growth **close to thirties (%) YoY**, and NSV growth in the **early thirties (%) YoY**.\n\n---\n\n**2. Key Numbers Exactly as Stated**\n*(Note: Absolute figures for revenue, EBITDA, and PAT were not disclosed; all growth rates are YoY percentage terms)*\n\n* **Consolidated:**\n  * **GMV Growth:** Expected to be close to thirties (~30%).\n  * **NSV Growth:** Expected in early thirties (~31\u201334%).\n  * **Net Revenue Growth:** Expected in late twenties (~27\u201329%).\n* **Beauty Vertical:**\n  * **NSV & Net Revenue Growth:** Expected in late twenties.\n  * **Like-for-like (LFL) Store Sales Growth:** Early twenties (highest in the last 6 quarters).\n  * **Store Network:** 14 net new store additions; total store count at 338 as of September 30, 2026.\n  * **House of Nykaa:** Grew ahead of the overall Beauty vertical.\n* **Fashion Vertical:**\n  * **NSV Growth:** Expected in late forties.\n  * **Net Revenue Growth:** Expected in early forties.\n  * **Assortment:** >250 brands added during the quarter.\n\n---\n\n**3. Management Guidance & Forward Statements**\n* **Festive Shift:** *\"With a larger part of the festive season falling in Q3 this year, some of the festive led growth has shifted from Q2 to Q3.\"*\n* **Outlook:** *\"We remain confident in the underlying growth drivers of the business and in delivering our long-term ambitions.\"*\n* **Partnerships:** The Nike partnership continued to see encouraging early traction supported by exclusive drops.\n\n---\n\n**4. What a Shareholder Should Watch or Act On**\n* **Detailed Q2 Financials:** Await audited/limited-review Q2 results to assess whether strong revenue growth translates into margin expansion, EBITDA, and net profitability.\n* **Q3 Festive Performance:** Track how much growth materializes in Q3 given the delayed timing of the festive season.\n\n---\n\n**5. One-Line Net Read**\n**Positive:** Accelerating growth momentum led by a sharp ramp-up in Fashion (>40% revenue growth) and resilient Beauty performance (6-quarter high LFL retail growth) despite the festive season shifting into Q3."
+  }
+ ],
  "movers": {
   "gainers": [
    {
@@ -803,208 +820,28 @@
  "fiidii": [
   {
    "cat": "DII",
-   "date": "30-Sep-2026",
-   "net": "11271.73",
-   "buy": "24413.76",
-   "sell": "13142.03"
+   "date": "05-Oct-2026",
+   "net": "5181.62",
+   "buy": "20492.93",
+   "sell": "15311.31"
   },
   {
    "cat": "FII/FPI",
-   "date": "30-Sep-2026",
-   "net": "-10148.41",
-   "buy": "14967.82",
-   "sell": "25116.23"
+   "date": "05-Oct-2026",
+   "net": "-4699.14",
+   "buy": "15674.61",
+   "sell": "20373.75"
   }
  ],
  "flows": [
   {
-   "s": "IRBINVIT",
+   "s": "HEROMOTORS",
    "kind": "bulk",
-   "who": "ARVESTA FINANCIAL SERVICES PRIVATE LIM",
+   "who": "JUMP TRADING FINANCIAL INDIA PRIVATE L",
    "bs": "SELL",
-   "qty": 36507937,
-   "px": 63.36,
-   "val": 231.31,
-   "mine": false
-  },
-  {
-   "s": "IRBINVIT",
-   "kind": "block",
-   "who": "ARVESTA FINANCIAL SERVICES PRIVATE LIM",
-   "bs": "SELL",
-   "qty": 36507937,
-   "px": 63.36,
-   "val": 231.31,
-   "mine": false
-  },
-  {
-   "s": "EBGNG",
-   "kind": "bulk",
-   "who": "VIDHI S KHANDELWAL",
-   "bs": "SELL",
-   "qty": 3420345,
-   "px": 674.8,
-   "val": 230.8,
-   "mine": false
-  },
-  {
-   "s": "EBGNG",
-   "kind": "block",
-   "who": "VIDHI S KHANDELWAL",
-   "bs": "SELL",
-   "qty": 3420345,
-   "px": 674.8,
-   "val": 230.8,
-   "mine": false
-  },
-  {
-   "s": "EBGNG",
-   "kind": "bulk",
-   "who": "UNIFI CAPITAL PRIVATE LIMITED",
-   "bs": "BUY",
-   "qty": 2012345,
-   "px": 674.8,
-   "val": 135.79,
-   "mine": false
-  },
-  {
-   "s": "EBGNG",
-   "kind": "block",
-   "who": "UNIFI CAPITAL PRIVATE LIMITED",
-   "bs": "BUY",
-   "qty": 2012345,
-   "px": 674.8,
-   "val": 135.79,
-   "mine": false
-  },
-  {
-   "s": "IRBINVIT",
-   "kind": "bulk",
-   "who": "NEO TREASURY PLUS FUND",
-   "bs": "SELL",
-   "qty": 19047618,
-   "px": 63.18,
-   "val": 120.34,
-   "mine": false
-  },
-  {
-   "s": "IRBINVIT",
-   "kind": "block",
-   "who": "NEO TREASURY PLUS FUND",
-   "bs": "SELL",
-   "qty": 19047618,
-   "px": 63.18,
-   "val": 120.34,
-   "mine": false
-  },
-  {
-   "s": "IRBINVIT",
-   "kind": "bulk",
-   "who": "L & T WELFARE COMPANY LIMITED",
-   "bs": "BUY",
-   "qty": 15887214,
-   "px": 63.36,
-   "val": 100.66,
-   "mine": false
-  },
-  {
-   "s": "IRBINVIT",
-   "kind": "bulk",
-   "who": "L AND T EMPLOYEES WELFARE FOUNDATION P",
-   "bs": "BUY",
-   "qty": 15887214,
-   "px": 63.36,
-   "val": 100.66,
-   "mine": false
-  },
-  {
-   "s": "IRBINVIT",
-   "kind": "block",
-   "who": "L & T WELFARE COMPANY LIMITED",
-   "bs": "BUY",
-   "qty": 15887214,
-   "px": 63.36,
-   "val": 100.66,
-   "mine": false
-  },
-  {
-   "s": "IRBINVIT",
-   "kind": "block",
-   "who": "L AND T EMPLOYEES WELFARE FOUNDATION P",
-   "bs": "BUY",
-   "qty": 15887214,
-   "px": 63.36,
-   "val": 100.66,
-   "mine": false
-  },
-  {
-   "s": "IRBINVIT",
-   "kind": "bulk",
-   "who": "LTM LIMITED",
-   "bs": "BUY",
-   "qty": 15823923,
-   "px": 63.23,
-   "val": 100.05,
-   "mine": false
-  },
-  {
-   "s": "IRBINVIT",
-   "kind": "block",
-   "who": "LTM LIMITED",
-   "bs": "BUY",
-   "qty": 15823923,
-   "px": 63.23,
-   "val": 100.05,
-   "mine": false
-  },
-  {
-   "s": "ELEVATE",
-   "kind": "bulk",
-   "who": "BOFA SECURITIES EUROPE SA",
-   "bs": "SELL",
-   "qty": 1882148,
-   "px": 349.58,
-   "val": 65.8,
-   "mine": false
-  },
-  {
-   "s": "EBGNG",
-   "kind": "bulk",
-   "who": "BLEND FUND 2",
-   "bs": "BUY",
-   "qty": 888000,
-   "px": 674.8,
-   "val": 59.92,
-   "mine": false
-  },
-  {
-   "s": "EBGNG",
-   "kind": "block",
-   "who": "BLEND FUND 2",
-   "bs": "BUY",
-   "qty": 888000,
-   "px": 674.8,
-   "val": 59.92,
-   "mine": false
-  },
-  {
-   "s": "SSRETAIL",
-   "kind": "bulk",
-   "who": "PLUTUS WEALTH MANAGEMENT LLP",
-   "bs": "SELL",
-   "qty": 777629,
-   "px": 742.96,
-   "val": 57.77,
-   "mine": false
-  },
-  {
-   "s": "SSRETAIL",
-   "kind": "bulk",
-   "who": "PLUTUS WEALTH MANAGEMENT LLP",
-   "bs": "BUY",
-   "qty": 777629,
-   "px": 742.73,
-   "val": 57.76,
+   "qty": 7636321,
+   "px": 168.66,
+   "val": 128.79,
    "mine": false
   },
   {
@@ -1012,9 +849,189 @@
    "kind": "bulk",
    "who": "JUMP TRADING FINANCIAL INDIA PRIVATE L",
    "bs": "BUY",
-   "qty": 3708808,
-   "px": 147.68,
-   "val": 54.77,
+   "qty": 6372732,
+   "px": 167.61,
+   "val": 106.81,
+   "mine": false
+  },
+  {
+   "s": "HEROMOTORS",
+   "kind": "bulk",
+   "who": "MICROCURVES TRADING PRIVATE LIMITED",
+   "bs": "SELL",
+   "qty": 4934676,
+   "px": 167.83,
+   "val": 82.82,
+   "mine": false
+  },
+  {
+   "s": "HEROMOTORS",
+   "kind": "bulk",
+   "who": "MICROCURVES TRADING PRIVATE LIMITED",
+   "bs": "BUY",
+   "qty": 4934676,
+   "px": 167.64,
+   "val": 82.72,
+   "mine": false
+  },
+  {
+   "s": "HEROMOTORS",
+   "kind": "bulk",
+   "who": "NK SECURITIES RESEARCH PRIVATE LIMITED",
+   "bs": "SELL",
+   "qty": 4832854,
+   "px": 169.1,
+   "val": 81.72,
+   "mine": false
+  },
+  {
+   "s": "HEROMOTORS",
+   "kind": "bulk",
+   "who": "NK SECURITIES RESEARCH PRIVATE LIMITED",
+   "bs": "BUY",
+   "qty": 4830376,
+   "px": 169.0,
+   "val": 81.63,
+   "mine": false
+  },
+  {
+   "s": "KANOHAR",
+   "kind": "bulk",
+   "who": "QE SECURITIES LLP",
+   "bs": "BUY",
+   "qty": 802433,
+   "px": 977.44,
+   "val": 78.43,
+   "mine": false
+  },
+  {
+   "s": "KANOHAR",
+   "kind": "bulk",
+   "who": "QE SECURITIES LLP",
+   "bs": "SELL",
+   "qty": 787837,
+   "px": 977.31,
+   "val": 77.0,
+   "mine": false
+  },
+  {
+   "s": "KANOHAR",
+   "kind": "bulk",
+   "who": "PLUTUS WEALTH MANAGEMENT LLP",
+   "bs": "SELL",
+   "qty": 743206,
+   "px": 986.82,
+   "val": 73.34,
+   "mine": false
+  },
+  {
+   "s": "KANOHAR",
+   "kind": "bulk",
+   "who": "PLUTUS WEALTH MANAGEMENT LLP",
+   "bs": "BUY",
+   "qty": 743206,
+   "px": 986.35,
+   "val": 73.31,
+   "mine": false
+  },
+  {
+   "s": "HEROMOTORS",
+   "kind": "bulk",
+   "who": "IRAGE BROKING SERVICES LLP",
+   "bs": "BUY",
+   "qty": 4069437,
+   "px": 170.0,
+   "val": 69.18,
+   "mine": false
+  },
+  {
+   "s": "HEROMOTORS",
+   "kind": "bulk",
+   "who": "JUNOMONETA FINSOL PRIVATE LIMITED",
+   "bs": "BUY",
+   "qty": 3834341,
+   "px": 168.41,
+   "val": 64.57,
+   "mine": false
+  },
+  {
+   "s": "KANOHAR",
+   "kind": "bulk",
+   "who": "ALPHAGREP SECURITIES PRIVATE LIMITED",
+   "bs": "SELL",
+   "qty": 649796,
+   "px": 979.34,
+   "val": 63.64,
+   "mine": false
+  },
+  {
+   "s": "KANOHAR",
+   "kind": "bulk",
+   "who": "ALPHAGREP SECURITIES PRIVATE LIMITED",
+   "bs": "BUY",
+   "qty": 649796,
+   "px": 978.57,
+   "val": 63.59,
+   "mine": false
+  },
+  {
+   "s": "HEROMOTORS",
+   "kind": "bulk",
+   "who": "JUNOMONETA FINSOL PRIVATE LIMITED",
+   "bs": "SELL",
+   "qty": 3745073,
+   "px": 168.54,
+   "val": 63.12,
+   "mine": false
+  },
+  {
+   "s": "HEROMOTORS",
+   "kind": "bulk",
+   "who": "BLITZQUANT RESEARCH LLP",
+   "bs": "SELL",
+   "qty": 3385167,
+   "px": 168.83,
+   "val": 57.15,
+   "mine": false
+  },
+  {
+   "s": "HEROMOTORS",
+   "kind": "bulk",
+   "who": "BLITZQUANT RESEARCH LLP",
+   "bs": "BUY",
+   "qty": 3385167,
+   "px": 168.74,
+   "val": 57.12,
+   "mine": false
+  },
+  {
+   "s": "SMCGLOBAL",
+   "kind": "bulk",
+   "who": "ARIHANT CAPITAL MARKETS LIMITED",
+   "bs": "SELL",
+   "qty": 5150060,
+   "px": 110.86,
+   "val": 57.09,
+   "mine": false
+  },
+  {
+   "s": "SMCGLOBAL",
+   "kind": "bulk",
+   "who": "ARIHANT CAPITAL MARKETS LIMITED",
+   "bs": "BUY",
+   "qty": 5150060,
+   "px": 108.31,
+   "val": 55.78,
+   "mine": false
+  },
+  {
+   "s": "HEROMOTORS",
+   "kind": "bulk",
+   "who": "IRAGE BROKING SERVICES LLP",
+   "bs": "SELL",
+   "qty": 3280117,
+   "px": 168.39,
+   "val": 55.23,
    "mine": false
   }
  ]
