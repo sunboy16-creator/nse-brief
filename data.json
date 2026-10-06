@@ -1,146 +1,321 @@
 {
- "generated": "05-Oct-2026 19:19",
- "market_date": "2026-10-01",
+ "generated": "06-Oct-2026 07:01",
+ "market_date": "2026-10-05",
  "stocks": [
   {
-   "s": "MOREPENLAB",
-   "n": "Morepen Laboratories Limited",
-   "c": 6.14,
-   "d": 31.7,
-   "p": 133.72
-  },
-  {
-   "s": "COFORGE",
-   "n": "Coforge Limited",
-   "c": 4.4,
-   "d": 32.5,
-   "p": 1826.0
-  },
-  {
-   "s": "INFY",
-   "n": "Infosys Limited",
-   "c": 4.11,
-   "d": 55.5,
-   "p": 1035.0
-  },
-  {
-   "s": "HDFCBANK",
-   "n": "HDFC Bank Limited",
-   "c": 1.76,
-   "d": 66.6,
-   "p": 721.2
-  },
-  {
-   "s": "INDIASHLTR",
-   "n": "India Shelter Finance Corporation Limite",
-   "c": 1.57,
-   "d": 61.7,
-   "p": 645.6
+   "s": "ITC",
+   "n": "ITC Limited",
+   "c": 5.08,
+   "d": 60.2,
+   "p": 268.9
   },
   {
    "s": "NYKAA",
    "n": "FSN E-Commerce Ventures Limited",
-   "c": 1.55,
-   "d": 65.8,
-   "p": 324.95
+   "c": 4.49,
+   "d": 61.6,
+   "p": 339.55
   },
   {
-   "s": "AARTIPHARM",
-   "n": "Aarti Pharmalabs Limited",
-   "c": 1.55,
-   "d": 37.0,
-   "p": 968.5
+   "s": "BSE",
+   "n": "BSE Limited",
+   "c": 4.39,
+   "d": 48.2,
+   "p": 3179.6
   },
   {
-   "s": "SBILIFE",
-   "n": "SBI Life Insurance Company Limited",
-   "c": 1.49,
-   "d": 64.1,
-   "p": 1721.6
+   "s": "HINDCOPPER",
+   "n": "Hindustan Copper Limited",
+   "c": 3.57,
+   "d": 43.5,
+   "p": 478.65
   },
   {
-   "s": "BUILDPRO",
-   "n": "Shankara Buildpro Limited",
-   "c": 1.48,
-   "d": 86.9,
-   "p": 1249.2
+   "s": "VBL",
+   "n": "Varun Beverages Limited",
+   "c": 3.36,
+   "d": 55.9,
+   "p": 439.6
+  },
+  {
+   "s": "TMPV",
+   "n": "Tata Motors Passenger Vehicles Limited",
+   "c": 3.31,
+   "d": 50.7,
+   "p": 288.65
+  },
+  {
+   "s": "LGEINDIA",
+   "n": "LG Electronics India Limited",
+   "c": 2.85,
+   "d": 54.5,
+   "p": 1770.9
+  },
+  {
+   "s": "TMCV",
+   "n": "Tata Motors Limited",
+   "c": 2.72,
+   "d": 44.5,
+   "p": 426.8
+  },
+  {
+   "s": "ABDL",
+   "n": "Allied Blenders and Distillers Limited",
+   "c": 2.55,
+   "d": 57.0,
+   "p": 696.75
+  },
+  {
+   "s": "PNB",
+   "n": "Punjab National Bank",
+   "c": 2.54,
+   "d": 42.9,
+   "p": 112.35
+  },
+  {
+   "s": "BAJFINANCE",
+   "n": "Bajaj Finance Limited",
+   "c": 2.29,
+   "d": 59.4,
+   "p": 970.0
+  },
+  {
+   "s": "IDFCFIRSTB",
+   "n": "IDFC First Bank Limited",
+   "c": 2.28,
+   "d": 55.8,
+   "p": 82.22
+  },
+  {
+   "s": "ETERNAL",
+   "n": "ETERNAL LIMITED",
+   "c": 2.2,
+   "d": 51.6,
+   "p": 320.8
+  },
+  {
+   "s": "NTPC",
+   "n": "NTPC Limited",
+   "c": 2.13,
+   "d": 61.5,
+   "p": 321.8
   },
   {
    "s": "TCS",
    "n": "Tata Consultancy Services Limited",
-   "c": 1.19,
-   "d": 50.5,
-   "p": 2075.0
-  },
-  {
-   "s": "IOLCP",
-   "n": "IOL Chemicals and Pharmaceuticals Limite",
-   "c": 1.12,
-   "d": 32.5,
-   "p": 209.39
-  },
-  {
-   "s": "BAJAJHFL",
-   "n": "Bajaj Housing Finance Limited",
-   "c": 1.11,
-   "d": 57.9,
-   "p": 82.91
+   "c": 1.9,
+   "d": 54.9,
+   "p": 2114.4
   },
   {
    "s": "MARKSANS",
    "n": "Marksans Pharma Limited",
-   "c": 1.02,
-   "d": 48.5,
-   "p": 325.6
+   "c": 1.86,
+   "d": 39.7,
+   "p": 331.65
+  },
+  {
+   "s": "PIDILITIND",
+   "n": "Pidilite Industries Limited",
+   "c": 1.62,
+   "d": 60.8,
+   "p": 1487.7
+  },
+  {
+   "s": "RELIANCE",
+   "n": "Reliance Industries Limited",
+   "c": 1.6,
+   "d": 61.2,
+   "p": 1186.4
+  },
+  {
+   "s": "LT",
+   "n": "Larsen & Toubro Limited",
+   "c": 1.53,
+   "d": 59.8,
+   "p": 3750.0
+  },
+  {
+   "s": "ZENTEC",
+   "n": "Zen Technologies Limited",
+   "c": 1.48,
+   "d": 44.6,
+   "p": 1599.5
+  },
+  {
+   "s": "TITAN",
+   "n": "Titan Company Limited",
+   "c": 1.42,
+   "d": 57.7,
+   "p": 4580.0
+  },
+  {
+   "s": "COFORGE",
+   "n": "Coforge Limited",
+   "c": 1.42,
+   "d": 41.3,
+   "p": 1852.0
+  },
+  {
+   "s": "IGIL",
+   "n": "International Gemological Institute Limi",
+   "c": 1.38,
+   "d": 46.0,
+   "p": 316.25
+  },
+  {
+   "s": "BUILDPRO",
+   "n": "Shankara Buildpro Limited",
+   "c": 1.34,
+   "d": 62.2,
+   "p": 1265.9
+  },
+  {
+   "s": "AARTIIND",
+   "n": "Aarti Industries Limited",
+   "c": 1.24,
+   "d": 50.7,
+   "p": 470.85
+  },
+  {
+   "s": "MOREPENLAB",
+   "n": "Morepen Laboratories Limited",
+   "c": 1.17,
+   "d": 20.5,
+   "p": 135.29
+  },
+  {
+   "s": "COALINDIA",
+   "n": "Coal India Limited",
+   "c": 1.12,
+   "d": 52.9,
+   "p": 425.1
   },
   {
    "s": "CAMS",
    "n": "Computer Age Management Services Limited",
-   "c": 0.93,
-   "d": 59.0,
-   "p": 677.25
+   "c": 0.97,
+   "d": 56.7,
+   "p": 683.85
+  },
+  {
+   "s": "IDEA",
+   "n": "Vodafone Idea Limited",
+   "c": 0.79,
+   "d": 33.8,
+   "p": 12.74
+  },
+  {
+   "s": "BDL",
+   "n": "Bharat Dynamics Limited",
+   "c": 0.76,
+   "d": 38.5,
+   "p": 1096.2
+  },
+  {
+   "s": "HDBFS",
+   "n": "HDB Financial Services Limited",
+   "c": 0.7,
+   "d": 56.1,
+   "p": 622.55
+  },
+  {
+   "s": "CDSL",
+   "n": "Central Depository Services (India) Limi",
+   "c": 0.6,
+   "d": 38.6,
+   "p": 1250.0
+  },
+  {
+   "s": "MAZDOCK",
+   "n": "Mazagon Dock Shipbuilders Limited",
+   "c": 0.48,
+   "d": 40.0,
+   "p": 2074.0
+  },
+  {
+   "s": "BEL",
+   "n": "Bharat Electronics Limited",
+   "c": 0.46,
+   "d": 55.1,
+   "p": 384.85
   },
   {
    "s": "IPCALAB",
    "n": "IPCA Laboratories Limited",
-   "c": 0.84,
-   "d": 61.2,
-   "p": 1943.2
+   "c": 0.42,
+   "d": 57.5,
+   "p": 1951.3
   },
   {
-   "s": "TATACONSUM",
-   "n": "TATA CONSUMER PRODUCTS LIMITED",
-   "c": 0.79,
-   "d": 68.6,
-   "p": 957.0
+   "s": "SBIN",
+   "n": "State Bank of India",
+   "c": 0.41,
+   "d": 50.7,
+   "p": 958.0
+  },
+  {
+   "s": "DIXON",
+   "n": "Dixon Technologies (India) Limited",
+   "c": 0.38,
+   "d": 34.8,
+   "p": 12748.0
+  },
+  {
+   "s": "SWIGGY",
+   "n": "Swiggy Limited",
+   "c": 0.34,
+   "d": 44.9,
+   "p": 238.8
+  },
+  {
+   "s": "BHARTIHEXA",
+   "n": "Bharti Hexacom Limited",
+   "c": 0.28,
+   "d": 52.1,
+   "p": 1383.1
+  },
+  {
+   "s": "ITCHOTELS",
+   "n": "ITC Hotels Limited",
+   "c": 0.28,
+   "d": 51.4,
+   "p": 158.96
+  },
+  {
+   "s": "DEEPAKNTR",
+   "n": "Deepak Nitrite Limited",
+   "c": 0.28,
+   "d": 52.7,
+   "p": 1497.0
   },
   {
    "s": "TECHM",
    "n": "Tech Mahindra Limited",
-   "c": 0.59,
-   "d": 57.4,
-   "p": 1533.0
+   "c": 0.19,
+   "d": 48.4,
+   "p": 1535.9
   },
   {
-   "s": "IDEAFORGE",
-   "n": "Ideaforge Technology Limited",
-   "c": 0.55,
-   "d": 48.0,
-   "p": 735.0
+   "s": "PATANJALI",
+   "n": "Patanjali Foods Limited",
+   "c": 0.15,
+   "d": 30.2,
+   "p": 355.7
   },
   {
-   "s": "GAIL",
-   "n": "GAIL (India) Limited",
-   "c": 0.39,
-   "d": 71.5,
-   "p": 171.22
+   "s": "INDIASHLTR",
+   "n": "India Shelter Finance Corporation Limite",
+   "c": 0.15,
+   "d": 54.5,
+   "p": 646.6
   },
   {
-   "s": "EMCURE",
-   "n": "Emcure Pharmaceuticals Limited",
-   "c": 0.08,
-   "d": 53.4,
-   "p": 1944.6
+   "s": "TRENT",
+   "n": "Trent Limited",
+   "c": 0.0,
+   "d": 56.4,
+   "p": 2580.0
   },
   {
    "s": "HFCL",
@@ -150,438 +325,271 @@
    "p": 0.0
   },
   {
-   "s": "PIDILITIND",
-   "n": "Pidilite Industries Limited",
-   "c": -0.08,
-   "d": 68.1,
-   "p": 1464.0
+   "s": "BAJAJHFL",
+   "n": "Bajaj Housing Finance Limited",
+   "c": -0.14,
+   "d": 54.3,
+   "p": 82.79
   },
   {
-   "s": "LGEINDIA",
-   "n": "LG Electronics India Limited",
-   "c": -0.1,
-   "d": 60.1,
-   "p": 1721.8
+   "s": "TATATECH",
+   "n": "Tata Technologies Limited",
+   "c": -0.18,
+   "d": 39.5,
+   "p": 697.55
+  },
+  {
+   "s": "JIOFIN",
+   "n": "Jio Financial Services Limited",
+   "c": -0.24,
+   "d": 41.2,
+   "p": 212.0
   },
   {
    "s": "IRCTC",
    "n": "Indian Railway Catering And Tourism Corp",
    "c": -0.29,
-   "d": 33.9,
-   "p": 454.1
+   "d": 41.8,
+   "p": 452.8
+  },
+  {
+   "s": "TATACONSUM",
+   "n": "TATA CONSUMER PRODUCTS LIMITED",
+   "c": -0.34,
+   "d": 62.5,
+   "p": 953.75
+  },
+  {
+   "s": "EMCURE",
+   "n": "Emcure Pharmaceuticals Limited",
+   "c": -0.39,
+   "d": 55.9,
+   "p": 1937.1
   },
   {
    "s": "ANTHEM",
    "n": "Anthem Biosciences Limited",
-   "c": -0.33,
-   "d": 54.0,
-   "p": 855.75
-  },
-  {
-   "s": "HDBFS",
-   "n": "HDB Financial Services Limited",
-   "c": -0.5,
-   "d": 59.7,
-   "p": 618.2
-  },
-  {
-   "s": "SBIN",
-   "n": "State Bank of India",
-   "c": -0.56,
-   "d": 57.5,
-   "p": 954.1
-  },
-  {
-   "s": "IREDA",
-   "n": "Indian Renewable Energy Development Agen",
-   "c": -0.61,
-   "d": 33.6,
-   "p": 111.0
-  },
-  {
-   "s": "IEX",
-   "n": "Indian Energy Exchange Limited",
-   "c": -0.95,
-   "d": 44.5,
-   "p": 105.98
-  },
-  {
-   "s": "COALINDIA",
-   "n": "Coal India Limited",
-   "c": -1.08,
-   "d": 56.5,
-   "p": 420.4
-  },
-  {
-   "s": "BAJFINANCE",
-   "n": "Bajaj Finance Limited",
-   "c": -1.16,
-   "d": 65.9,
-   "p": 948.3
-  },
-  {
-   "s": "TATATECH",
-   "n": "Tata Technologies Limited",
-   "c": -1.23,
-   "d": 33.0,
-   "p": 698.8
-  },
-  {
-   "s": "IGIL",
-   "n": "International Gemological Institute Limi",
-   "c": -1.25,
-   "d": 54.4,
-   "p": 311.95
-  },
-  {
-   "s": "IDFCFIRSTB",
-   "n": "IDFC First Bank Limited",
-   "c": -1.29,
-   "d": 48.6,
-   "p": 80.39
-  },
-  {
-   "s": "BEL",
-   "n": "Bharat Electronics Limited",
-   "c": -1.34,
-   "d": 62.0,
-   "p": 383.1
-  },
-  {
-   "s": "TMPV",
-   "n": "Tata Motors Passenger Vehicles Limited",
-   "c": -1.45,
-   "d": 53.2,
-   "p": 279.4
-  },
-  {
-   "s": "TMCV",
-   "n": "Tata Motors Limited",
-   "c": -1.46,
-   "d": 60.6,
-   "p": 415.5
-  },
-  {
-   "s": "BSE",
-   "n": "BSE Limited",
-   "c": -1.49,
-   "d": 30.9,
-   "p": 3046.0
-  },
-  {
-   "s": "TITAN",
-   "n": "Titan Company Limited",
-   "c": -1.55,
-   "d": 64.5,
-   "p": 4515.7
-  },
-  {
-   "s": "VBL",
-   "n": "Varun Beverages Limited",
-   "c": -1.55,
-   "d": 67.9,
-   "p": 425.3
-  },
-  {
-   "s": "SHAKTIPUMP",
-   "n": "Shakti Pumps (India) Limited",
-   "c": -1.57,
-   "d": 36.5,
-   "p": 454.1
-  },
-  {
-   "s": "TRENT",
-   "n": "Trent Limited",
-   "c": -1.59,
-   "d": 61.6,
-   "p": 2580.0
-  },
-  {
-   "s": "MOSCHIP",
-   "n": "Moschip Technologies Limited",
-   "c": -1.6,
-   "d": 35.5,
-   "p": 198.03
-  },
-  {
-   "s": "RELIANCE",
-   "n": "Reliance Industries Limited",
-   "c": -1.63,
-   "d": 69.7,
-   "p": 1167.7
-  },
-  {
-   "s": "ICICIAMC",
-   "n": "ICICI Prudential Asset Management Compan",
-   "c": -1.67,
-   "d": 60.7,
-   "p": 3084.4
-  },
-  {
-   "s": "CDSL",
-   "n": "Central Depository Services (India) Limi",
-   "c": -1.7,
-   "d": 42.3,
-   "p": 1242.5
-  },
-  {
-   "s": "TRITURBINE",
-   "n": "Triveni Turbine Limited",
-   "c": -1.74,
-   "d": 56.6,
-   "p": 530.0
-  },
-  {
-   "s": "LT",
-   "n": "Larsen & Toubro Limited",
-   "c": -1.77,
-   "d": 70.2,
-   "p": 3693.4
-  },
-  {
-   "s": "ZENTEC",
-   "n": "Zen Technologies Limited",
-   "c": -1.81,
-   "d": 48.1,
-   "p": 1576.1
-  },
-  {
-   "s": "ETERNAL",
-   "n": "ETERNAL LIMITED",
-   "c": -1.91,
-   "d": 65.6,
-   "p": 313.9
-  },
-  {
-   "s": "ROUTE",
-   "n": "ROUTE MOBILE LIMITED",
-   "c": -1.93,
-   "d": 52.6,
-   "p": 436.4
-  },
-  {
-   "s": "BDL",
-   "n": "Bharat Dynamics Limited",
-   "c": -2.0,
-   "d": 38.4,
-   "p": 1087.9
-  },
-  {
-   "s": "JIOFIN",
-   "n": "Jio Financial Services Limited",
-   "c": -2.02,
-   "d": 47.5,
-   "p": 212.5
-  },
-  {
-   "s": "PATANJALI",
-   "n": "Patanjali Foods Limited",
-   "c": -2.16,
-   "d": 29.8,
-   "p": 355.15
-  },
-  {
-   "s": "HINDCOPPER",
-   "n": "Hindustan Copper Limited",
-   "c": -2.22,
-   "d": 46.2,
-   "p": 462.15
-  },
-  {
-   "s": "AARTIIND",
-   "n": "Aarti Industries Limited",
-   "c": -2.23,
-   "d": 32.1,
-   "p": 465.1
-  },
-  {
-   "s": "MAZDOCK",
-   "n": "Mazagon Dock Shipbuilders Limited",
-   "c": -2.32,
-   "d": 30.6,
-   "p": 2064.0
-  },
-  {
-   "s": "NTPC",
-   "n": "NTPC Limited",
-   "c": -2.37,
-   "d": 69.4,
-   "p": 315.1
-  },
-  {
-   "s": "IDEA",
-   "n": "Vodafone Idea Limited",
-   "c": -2.39,
-   "d": 37.8,
-   "p": 12.64
-  },
-  {
-   "s": "DEEPAKNTR",
-   "n": "Deepak Nitrite Limited",
-   "c": -2.42,
-   "d": 50.1,
-   "p": 1492.8
-  },
-  {
-   "s": "ITC",
-   "n": "ITC Limited",
-   "c": -2.61,
-   "d": 64.4,
-   "p": 255.9
+   "c": -0.45,
+   "d": 59.0,
+   "p": 851.9
   },
   {
    "s": "IOC",
    "n": "Indian Oil Corporation Limited",
-   "c": -2.66,
-   "d": 52.6,
-   "p": 131.34
+   "c": -0.64,
+   "d": 51.6,
+   "p": 130.5
+  },
+  {
+   "s": "SBILIFE",
+   "n": "SBI Life Insurance Company Limited",
+   "c": -0.7,
+   "d": 63.8,
+   "p": 1709.5
+  },
+  {
+   "s": "TRITURBINE",
+   "n": "Triveni Turbine Limited",
+   "c": -0.74,
+   "d": 70.5,
+   "p": 526.1
+  },
+  {
+   "s": "ICICIAMC",
+   "n": "ICICI Prudential Asset Management Compan",
+   "c": -0.75,
+   "d": 67.3,
+   "p": 3061.2
   },
   {
    "s": "PARAS",
    "n": "Paras Defence and Space Technologies Lim",
-   "c": -2.67,
-   "d": 23.7,
-   "p": 1276.0
+   "c": -0.77,
+   "d": 31.1,
+   "p": 1266.2
   },
   {
    "s": "SBIFUNDS",
    "n": "SBI Funds Management Limited",
-   "c": -3.04,
-   "d": 59.7,
-   "p": 500.35
+   "c": -0.99,
+   "d": 64.2,
+   "p": 495.4
   },
   {
-   "s": "DIXON",
-   "n": "Dixon Technologies (India) Limited",
-   "c": -3.05,
-   "d": 46.2,
-   "p": 12700.0
+   "s": "MOSCHIP",
+   "n": "Moschip Technologies Limited",
+   "c": -1.11,
+   "d": 38.4,
+   "p": 195.84
   },
   {
-   "s": "PNB",
-   "n": "Punjab National Bank",
-   "c": -3.09,
-   "d": 47.2,
-   "p": 109.57
+   "s": "ROUTE",
+   "n": "ROUTE MOBILE LIMITED",
+   "c": -1.21,
+   "d": 46.3,
+   "p": 431.1
   },
   {
-   "s": "BHARTIHEXA",
-   "n": "Bharti Hexacom Limited",
-   "c": -3.18,
-   "d": 65.9,
-   "p": 1379.2
+   "s": "INFY",
+   "n": "Infosys Limited",
+   "c": -1.4,
+   "d": 52.0,
+   "p": 1020.5
   },
   {
-   "s": "ITCHOTELS",
-   "n": "ITC Hotels Limited",
-   "c": -3.42,
-   "d": 54.9,
-   "p": 158.51
+   "s": "IEX",
+   "n": "Indian Energy Exchange Limited",
+   "c": -1.59,
+   "d": 40.8,
+   "p": 104.3
   },
   {
-   "s": "SWIGGY",
-   "n": "Swiggy Limited",
-   "c": -4.84,
-   "d": 43.4,
-   "p": 238.0
+   "s": "IOLCP",
+   "n": "IOL Chemicals and Pharmaceuticals Limite",
+   "c": -1.76,
+   "d": 30.4,
+   "p": 205.71
   },
   {
-   "s": "ABDL",
-   "n": "Allied Blenders and Distillers Limited",
-   "c": -5.49,
-   "d": 35.6,
-   "p": 679.45
+   "s": "IREDA",
+   "n": "Indian Renewable Energy Development Agen",
+   "c": -1.8,
+   "d": 41.0,
+   "p": 109.0
+  },
+  {
+   "s": "GAIL",
+   "n": "GAIL (India) Limited",
+   "c": -2.17,
+   "d": 58.4,
+   "p": 167.5
+  },
+  {
+   "s": "AARTIPHARM",
+   "n": "Aarti Pharmalabs Limited",
+   "c": -2.26,
+   "d": 41.6,
+   "p": 946.6
+  },
+  {
+   "s": "HDFCBANK",
+   "n": "HDFC Bank Limited",
+   "c": -2.27,
+   "d": 63.3,
+   "p": 704.8
+  },
+  {
+   "s": "SHAKTIPUMP",
+   "n": "Shakti Pumps (India) Limited",
+   "c": -2.36,
+   "d": 41.1,
+   "p": 443.4
+  },
+  {
+   "s": "IDEAFORGE",
+   "n": "Ideaforge Technology Limited",
+   "c": -4.54,
+   "d": 43.5,
+   "p": 701.65
   }
  ],
  "watch": [
   {
-   "s": "KIRLPNU",
-   "n": "Kirloskar Pneumatic Company Limited",
-   "c": 0.78,
-   "d": 51.6,
-   "p": 681.95
-  },
-  {
    "s": "NETWEB",
    "n": "Netweb Technologies India Limited",
-   "c": -0.61,
-   "d": 23.4,
-   "p": 4520.3
-  },
-  {
-   "s": "THERMAX",
-   "n": "Thermax Limited",
-   "c": -0.93,
-   "d": 73.4,
-   "p": 3360.6
+   "c": 5.42,
+   "d": 20.0,
+   "p": 4765.1
   },
   {
    "s": "KRBL",
    "n": "KRBL Limited",
-   "c": -1.49,
-   "d": 44.4,
-   "p": 375.9
-  },
-  {
-   "s": "NEPHROPLUS",
-   "n": "Nephrocare Health Services Limited",
-   "c": -1.64,
-   "d": 72.2,
-   "p": 648.95
-  },
-  {
-   "s": "HSCL",
-   "n": "Himadri Speciality Chemical Limited",
-   "c": -1.87,
-   "d": 38.9,
-   "p": 665.15
-  },
-  {
-   "s": "UNIPARTS",
-   "n": "Uniparts India Limited",
-   "c": -2.0,
-   "d": 45.0,
-   "p": 819.3
+   "c": 1.66,
+   "d": 42.8,
+   "p": 382.15
   },
   {
    "s": "ANANTRAJ",
    "n": "Anant Raj Limited",
-   "c": -3.51,
-   "d": 41.4,
-   "p": 577.85
+   "c": 1.65,
+   "d": 39.9,
+   "p": 587.4
+  },
+  {
+   "s": "UNIPARTS",
+   "n": "Uniparts India Limited",
+   "c": 0.82,
+   "d": 52.6,
+   "p": 826.05
+  },
+  {
+   "s": "KIRLPNU",
+   "n": "Kirloskar Pneumatic Company Limited",
+   "c": -0.64,
+   "d": 48.3,
+   "p": 677.6
+  },
+  {
+   "s": "HSCL",
+   "n": "Himadri Speciality Chemical Limited",
+   "c": -0.8,
+   "d": 45.1,
+   "p": 659.85
+  },
+  {
+   "s": "NEPHROPLUS",
+   "n": "Nephrocare Health Services Limited",
+   "c": -1.74,
+   "d": 52.4,
+   "p": 637.65
   },
   {
    "s": "FIEMIND",
    "n": "Fiem Industries Limited",
-   "c": -4.41,
-   "d": 60.0,
-   "p": 1794.8
+   "c": -1.77,
+   "d": 54.8,
+   "p": 1763.1
+  },
+  {
+   "s": "THERMAX",
+   "n": "Thermax Limited",
+   "c": -3.94,
+   "d": 64.6,
+   "p": 3228.2
   }
  ],
  "perf": {
   "n": 76,
-  "day": -0.2,
-  "overall": 19.98
+  "day": 1.51,
+  "overall": 20.93
  },
  "wperf": {
   "n": 9,
-  "day": -1.74
+  "day": 0.07
  },
  "mf": [
   {
    "who": "KB",
-   "overall": 47.9,
-   "day": -0.94,
+   "overall": 48.12,
+   "day": 0.09,
    "funds": 10
   },
   {
    "who": "PT",
-   "overall": 26.58,
-   "day": -0.4,
+   "overall": 27.09,
+   "day": 0.39,
    "funds": 8
   }
  ],
  "digests": [
+  {
+   "s": "ICICIAMC",
+   "n": "ICICI Prudential Asset Management Compan",
+   "cat": "Change in Director(s)",
+   "when": "2026-10-05 22:28",
+   "sent": "neutral",
+   "txt": "**1. Most Important Fact**  \nThe Board of Directors accepted the resignation of Mr. Sidharatha Mishra as Non-Executive Director (effective close of business October 5, 2026, due to his appointment at ICICI Life Insurance Limited) and approved the appointment of Mr. Anindya Banerjee (Group CFO of ICICI Bank) as Non-Executive (Additional) Director effective October 6, 2026, subject to shareholder approval.\n\n**2. Key Numbers**  \n*None stated.* (This filing is strictly a corporate governance/directorate change notification and contains no financial figures or performance metrics).\n\n**3. Management Guidance / Outlook**  \n*None stated.*\n\n**4. What a Shareholder Should Watch or Act On**  \nWatch for the upcoming shareholder resolution/voting to approve the appointment of Mr. Anindya Banerjee as Non-Executive Director.\n\n**5. One-Line Net Read**  \n**Neutral** \u2014 Routine intra-group board reshuffle replacing one ICICI Group nominee director with the Group CFO of ICICI Bank, posing no operational or financial disruption."
+  },
   {
    "s": "LT",
    "n": "Larsen & Toubro Limited",
@@ -602,146 +610,146 @@
  "movers": {
   "gainers": [
    {
-    "s": "MONEYVIEW",
-    "n": "Moneyview Limited",
-    "c": 58.47,
+    "s": "ORIENTCABL",
+    "n": "Orient Cables (India) Limited",
+    "c": 48.9,
     "d": null,
-    "p": 53.88
+    "p": 405.0
    },
    {
-    "s": "MOLBIO",
-    "n": "Molbio Diagnostics Limited",
-    "c": 15.6,
-    "d": 12.0,
-    "p": 1513.1
+    "s": "KRISHNADEF",
+    "n": "Krishna Defence And Allied Indus",
+    "c": 19.99,
+    "d": 46.4,
+    "p": 1201.0
    },
    {
-    "s": "HEROMOTORS",
-    "n": "Hero Motors Limited",
-    "c": 10.0,
-    "d": 14.7,
-    "p": 167.8
+    "s": "DELTACORP",
+    "n": "Delta Corp Limited",
+    "c": 16.26,
+    "d": 13.9,
+    "p": 85.43
    },
    {
-    "s": "AUGMONT",
-    "n": "Augmont Enterprises Limited",
-    "c": 10.0,
-    "d": 32.2,
-    "p": 1195.2
+    "s": "SMCGLOBAL",
+    "n": "SMC Global Securities Limited",
+    "c": 15.59,
+    "d": 19.5,
+    "p": 114.5
    },
    {
-    "s": "LGHL",
-    "n": "Laxmi Goldorna House Limited",
-    "c": 9.71,
-    "d": 49.7,
-    "p": 219.47
+    "s": "DCMSHRIRAM",
+    "n": "DCM Shriram Limited",
+    "c": 15.18,
+    "d": 54.7,
+    "p": 1044.55
    },
    {
-    "s": "GKSL",
-    "n": "Gujarat Kidney And Super Special",
-    "c": 8.5,
-    "d": 35.4,
-    "p": 194.27
+    "s": "5PAISA",
+    "n": "5Paisa Capital Limited",
+    "c": 14.08,
+    "d": 45.0,
+    "p": 360.9
    },
    {
-    "s": "OMNI",
-    "n": "Omnitech Engineering Limited",
-    "c": 7.91,
-    "d": 37.0,
-    "p": 608.65
+    "s": "SHUKRAPHAR",
+    "n": "Shukra Pharmaceuticals Limited",
+    "c": 14.06,
+    "d": 21.3,
+    "p": 70.49
    },
    {
-    "s": "MTNL",
-    "n": "Mahanagar Telephone Nigam Limite",
-    "c": 7.36,
-    "d": 46.1,
-    "p": 24.66
+    "s": "DPABHUSHAN",
+    "n": "D. P. Abhushan Limited",
+    "c": 13.69,
+    "d": 14.5,
+    "p": 2130.5
    },
    {
-    "s": "ELEVATE",
-    "n": "Elevate Campuses Limited",
-    "c": 6.77,
-    "d": 25.9,
-    "p": 344.8
+    "s": "KANOHAR",
+    "n": "Kanohar Electricals Limited",
+    "c": 12.57,
+    "d": 14.5,
+    "p": 1020.25
    },
    {
-    "s": "ATLANTAELE",
-    "n": "Atlanta Electricals Limited",
-    "c": 6.74,
-    "d": 56.6,
-    "p": 1716.5
+    "s": "PREMIERPOL",
+    "n": "Premier Polyfilm Limited",
+    "c": 12.03,
+    "d": 44.1,
+    "p": 101.54
    }
   ],
   "losers": [
    {
-    "s": "DELTACORP",
-    "n": "Delta Corp Limited",
-    "c": -8.73,
-    "d": 10.2,
-    "p": 73.48
+    "s": "ACEVECTOR",
+    "n": "AceVector Limited",
+    "c": -18.5,
+    "d": null,
+    "p": 26.08
    },
    {
-    "s": "TURTLEMINT",
-    "n": "Turtlemint Fintech Solutions Lim",
-    "c": -8.7,
-    "d": 30.6,
-    "p": 69.79
+    "s": "V2RETAIL",
+    "n": "V2 Retail Limited",
+    "c": -15.94,
+    "d": 59.4,
+    "p": 169.28
    },
    {
-    "s": "POLICYBZR",
-    "n": "PB Fintech Limited",
-    "c": -7.89,
-    "d": 37.8,
-    "p": 980.0
+    "s": "TEXRAIL",
+    "n": "Texmaco Rail & Engineering Limit",
+    "c": -7.63,
+    "d": 35.4,
+    "p": 117.18
    },
    {
-    "s": "MUNJALAU",
-    "n": "Munjal Auto Industries Limited",
-    "c": -7.79,
-    "d": 6.3,
-    "p": 104.07
+    "s": "SPORTKING",
+    "n": "Sportking India Limited",
+    "c": -7.2,
+    "d": 55.0,
+    "p": 193.53
    },
    {
-    "s": "BAJAJ-AUTO",
-    "n": "Bajaj Auto Limited",
-    "c": -7.62,
-    "d": 62.1,
-    "p": 10045.0
+    "s": "KPIGREEN",
+    "n": "KPI Green Energy Limited",
+    "c": -6.87,
+    "d": 27.1,
+    "p": 321.85
    },
    {
-    "s": "NIITMTS",
-    "n": "NIIT Learning Systems Limited",
-    "c": -6.57,
-    "d": 38.6,
-    "p": 191.08
+    "s": "AONESTEELS",
+    "n": "A-One Steels India Limited",
+    "c": -6.52,
+    "d": 40.8,
+    "p": 389.4
    },
    {
-    "s": "CHENNPETRO",
-    "n": "Chennai Petroleum Corporation Li",
-    "c": -6.26,
-    "d": 23.2,
-    "p": 1346.4
+    "s": "DMART",
+    "n": "Avenue Supermarts Limited",
+    "c": -6.45,
+    "d": 49.4,
+    "p": 3567.0
    },
    {
-    "s": "BHAGERIA",
-    "n": "Bhageria Industries Limited",
-    "c": -6.0,
-    "d": 49.5,
-    "p": 382.05
+    "s": "JSLL",
+    "n": "Jeena Sikho Lifecare Limited",
+    "c": -6.43,
+    "d": 45.8,
+    "p": 449.9
    },
    {
-    "s": "PRECAM",
-    "n": "Precision Camshafts Limited",
-    "c": -5.89,
-    "d": 50.4,
-    "p": 109.9
+    "s": "SAKAR",
+    "n": "Sakar Healthcare Limited",
+    "c": -6.34,
+    "d": 43.5,
+    "p": 1006.8
    },
    {
-    "s": "IRCON",
-    "n": "Ircon International Limited",
-    "c": -5.84,
-    "d": 6.8,
-    "p": 110.25
+    "s": "PASHUPATI",
+    "n": "Pashupati Cotspin Limited",
+    "c": -6.28,
+    "d": 49.8,
+    "p": 74.03
    }
   ],
   "delivery": [
@@ -750,70 +758,70 @@
     "n": "ESDS Software Solution Limited",
     "c": -5.0,
     "d": 100.0,
-    "p": 1434.1
-   },
-   {
-    "s": "ELCIDIN",
-    "n": "EL CID Investments Limited",
-    "c": -0.5,
-    "d": 100.0,
-    "p": 102155.0
-   },
-   {
-    "s": "ZSARACOM",
-    "n": "Saraswati Commercial India Limit",
-    "c": -1.21,
-    "d": 96.7,
-    "p": 10017.0
-   },
-   {
-    "s": "SUNRAKSHAK",
-    "n": "Sunrakshakk Industries India Lim",
-    "c": 0.0,
-    "d": 94.4,
-    "p": 358.9
-   },
-   {
-    "s": "DISAQ",
-    "n": "Disa India Limited",
-    "c": -4.64,
-    "d": 93.0,
-    "p": 11249.0
-   },
-   {
-    "s": "ASTRAZEN",
-    "n": "AstraZeneca Pharma India Limited",
-    "c": -2.51,
-    "d": 91.2,
-    "p": 6031.0
-   },
-   {
-    "s": "THEMISMED",
-    "n": "Themis Medicare Limited",
-    "c": -2.81,
-    "d": 90.5,
-    "p": 113.19
+    "p": 1362.4
    },
    {
     "s": "MMWL",
     "n": "Media Matrix Worldwide Limited",
-    "c": 4.99,
+    "c": 4.95,
+    "d": 100.0,
+    "p": 16.33
+   },
+   {
+    "s": "RHETAN",
+    "n": "Rhetan TMT Limited",
+    "c": -4.99,
+    "d": 100.0,
+    "p": 15.81
+   },
+   {
+    "s": "AHCL",
+    "n": "Anlon Healthcare Limited",
+    "c": -4.99,
+    "d": 100.0,
+    "p": 31.22
+   },
+   {
+    "s": "AFSL",
+    "n": "Abans Financial Services Limited",
+    "c": 0.0,
+    "d": 97.2,
+    "p": 201.0
+   },
+   {
+    "s": "INDPRUD",
+    "n": "Industrial & Prudential Investme",
+    "c": 1.51,
+    "d": 95.9,
+    "p": 6350.0
+   },
+   {
+    "s": "BENARAS",
+    "n": "Benares Hotels Limited",
+    "c": -0.81,
+    "d": 92.7,
+    "p": 10166.0
+   },
+   {
+    "s": "CREST",
+    "n": "Crest Ventures Limited",
+    "c": 0.19,
+    "d": 92.4,
+    "p": 363.05
+   },
+   {
+    "s": "GANESHHOU",
+    "n": "GANESH HOUSING LIMITED",
+    "c": 0.39,
+    "d": 90.7,
+    "p": 701.85
+   },
+   {
+    "s": "GNRL",
+    "n": "Gujarat Natural Resources Limite",
+    "c": -0.42,
     "d": 90.3,
-    "p": 15.56
-   },
-   {
-    "s": "KAPSTON",
-    "n": "Kapston Services Limited",
-    "c": -1.45,
-    "d": 90.1,
-    "p": 542.35
-   },
-   {
-    "s": "ELPROINTL",
-    "n": "Elpro International Limited",
-    "c": 0.18,
-    "d": 89.1,
-    "p": 174.31
+    "p": 96.77
    }
   ]
  },
