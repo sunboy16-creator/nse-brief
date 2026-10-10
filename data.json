@@ -1,5 +1,5 @@
 {
- "generated": "09-Oct-2026 08:57",
+ "generated": "10-Oct-2026 13:20",
  "market_date": "2026-10-08",
  "stocks": [
   {
@@ -570,25 +570,57 @@
  "mf": [
   {
    "who": "KB",
-   "overall": 46.47,
-   "day": -1.84,
+   "overall": 47.48,
+   "day": 0.69,
    "funds": 10
   },
   {
    "who": "PT",
-   "overall": 25.53,
-   "day": -1.85,
+   "overall": 26.6,
+   "day": 0.86,
    "funds": 8
   }
  ],
  "digests": [
   {
-   "s": "RELIANCE",
-   "n": "Reliance Industries Limited",
-   "cat": "Action(s) taken or orders passed",
-   "when": "2026-10-07 22:36",
+   "s": "PNB",
+   "n": "Punjab National Bank",
+   "cat": "Change in Director(s)",
+   "when": "2026-10-09 21:26",
    "sent": "neutral",
-   "txt": "**1. Single Most Important Fact**\nReliance Industries Limited received an order dated October 6, 2026, from the Joint Commissioner of Customs (Import), ACC, Mumbai, imposing a redemption fine and penalty aggregating **Rs. 18,74,978** alleging lower customs duty payment due to incorrect classification of imported goods.\n\n**2. Key Numbers Exactly as Stated**\n* **Redemption fine and penalty levied:** Rs. 18,74,978\n*(No other financial figures such as revenue, EBITDA, or PAT are stated in the filing).*\n\n**3. Management Guidance, Outlook, or Forward Statement**\n* The Company intends to file an appeal against the Order.\n* Financial impact is restricted solely to the fine and penalty amount (Rs. 18.75 lakh), with no impact on operations or other activities of the Company.\n\n**4. What a Shareholder Should Watch or Act on**\n* Monitor the outcome of the appeal; no immediate action is needed given the financially negligible sum involved.\n\n**5. One-Line Net Read**\n* **Neutral**: The penalty of ~Rs. 18.75 lakh is entirely immaterial to a company of Reliance's scale and carries zero operational disruption."
+   "txt": "**1. Most Important Fact**  \nThe Department of Financial Services, Ministry of Finance, Government of India, has nominated **Shri Sushil Katara** as a Part-Time Non-Official Director on the Board of Punjab National Bank for a period of three years from October 9, 2026 (or until further orders, whichever is earlier).\n\n**2. Key Numbers**  \n* None stated in the filing (no financial metrics or transaction values are reported).\n\n**3. Management Guidance / Forward Statements**  \n* None provided. The filing mentions that the brief profile of Shri Sushil Katara will be submitted separately.\n\n**4. What a Shareholder Should Watch or Act On**  \n* No immediate action required. Shareholders should look out for the upcoming separate disclosure detailing Shri Sushil Katara's professional background and profile.\n\n**5. One-Line Net Read**  \n* **Neutral**: Routine, government-mandated board appointment for a public sector bank with no operational or financial impact."
+  },
+  {
+   "s": "HINDCOPPER",
+   "n": "Hindustan Copper Limited",
+   "cat": "Change in Management",
+   "when": "2026-10-09 17:00",
+   "sent": "neutral",
+   "txt": "**1. Most Important Fact**\nShri Tarak Nath Nayak, General Manager (Engineering Services), has taken over charge as Unit Head of both the Taloja Copper Project (TCP) and the Gujarat Copper Project (GCP), effective October 9, 2024.\n\n**2. Key Numbers**\n* No financial metrics, contract values, or operating numbers were disclosed in this filing.\n\n**3. Management Guidance / Outlook**\n* None provided.\n\n**4. What a Shareholder Should Watch or Act On**\n* No action required; monitor standard operational performance and execution at the Taloja and Gujarat units under the new unit head.\n\n**5. One-Line Net Read**\n* **Neutral**: Routine internal transfer/appointment of an operating unit head with no direct financial impact."
+  },
+  {
+   "s": "HSCL",
+   "n": "Himadri Speciality Chemical Limited",
+   "cat": "Press Release",
+   "when": "2026-10-08 19:09",
+   "sent": "positive",
+   "txt": "**1. Single Most Important Fact**\nHimadri Speciality Chemical Ltd has won the Golden Peacock Award for Sustainability (GPAS) 2026 in the Chemical sector, awarded by the Institute of Directors (IOD), India (to be formally presented on November 18, 2026, in London).\n\n---\n\n**2. Key Numbers Exactly as Stated**\n*Financial metrics (revenue, EBITDA, margins, PAT, order value) are **not reported** in this filing.*\n\nReported operational/award metrics:\n- **Award selection pool:** 456 nominations received, 197 organisations shortlisted.\n- **Global reach:** Products trusted across **61 countries**.\n- **Environmental operations:** Operates **8 zero-liquid-discharge** manufacturing facilities.\n- **Power self-sufficiency:** Meets **100% of its electrical energy requirements** through in-house clean power generation.\n\n---\n\n**3. Management Guidance / Forward-Looking Statements**\n- **Mr. Anurag Choudhary (CMD & CEO):** *\"For us, sustainability is not a standalone initiative but a guiding principle that shapes how we create value, manage risk and serve our stakeholders. This award reflects the dedication of our teams and reinforces our resolve to build a resilient, responsible and future-ready enterprise.\"*\n- Company stated it continues to strengthen capabilities across the lithium-ion battery value chain through ongoing R&D and product innovation, pursuing transformative growth anchored in *\"scale, scope, sophistication, and sustainability.\"*\n\n---\n\n**4. What a Shareholder Should Watch or Act On**\n- **Action:** None required; this is a non-material, informational press release.\n- **Monitor:** Validation of the company's ESG profile (100% green power self-sufficiency and zero liquid discharge across 8 plants), which helps institutional ESG compliance and global customer qualification in the EV/battery supply chain.\n\n---\n\n**5. One-Line Net Read**\n**Neutral**: Positive for corporate reputation and ESG positioning, but has no direct or immediate impact on revenue or earnings."
+  },
+  {
+   "s": "IDFCFIRSTB",
+   "n": "IDFC First Bank Limited",
+   "cat": "Credit Rating- New",
+   "when": "2026-10-08 18:49",
+   "sent": "positive",
+   "txt": "### 1. Most Important Fact\nBrickwork Ratings (BWR) has **re-affirmed its rating of 'BWR AA+ / Stable'** on IDFC FIRST Bank Limited's outstanding Non-Convertible Debentures (NCDs) aggregating to **\u20b9406.90 crore** (reduced from \u20b9621.00 crore on account of redemptions upon maturity).\n\n---\n\n### 2. Key Numbers Exactly as Stated\n\n#### Headline Financial Indicators (Standalone)\n| Metric | FY 2025 (A) | FY 2026 (A) | Q1/3M FY 2027 (UA) |\n| :--- | :---: | :---: | :---: |\n| **Total Business** | \u20b94,93,991 cr | \u20b95,84,753 cr | \u20b96,17,262 cr |\n| **Net Interest Income (NII)** | \u20b919,292 cr | \u20b921,215 cr | \u20b95,972 cr |\n| **Net Profit / PAT** | \u20b91,525 cr | \u20b91,636 cr | \u20b91,075 cr |\n| **Gross NPA** | 1.87% | 1.61% | 1.51% |\n| **PCR (incl. technical w/o)** | 90.51% | 92.17% | 92.75% |\n| **Total CRAR** | 15.48% | 15.60% | 15.05% |\n\n#### Additional Key Figures as of June 30, 2026 (Q1 FY27)\n* **Total Customer Deposits:** \u20b93.12 lakh crore (\u20b93,11,892 crore), up **17.71% YoY** (from \u20b92.65 lakh crore as of 30 June 2025).\n* **Retail Deposits:** \u20b92.38 lakh crore (\u20b92,38,090 crore), up **16.6% YoY** (80% of total customer deposits).\n* **CASA Deposits:** \u20b91.58 lakh crore, up **25% YoY**; **CASA Ratio:** **50.8%** (vs. 48% as of 30 June 2025).\n* **Gross Funded Assets:** \u20b93.05 lakh crore (vs. \u20b92.53 lakh crore as of 30 June 2025).\n  * Retail finance book: \u20b91,79,192 crore, up **21.5% YoY** (59% of funded advances).\n  * Business finance book: \u20b91,01,751 crore, up **24.40% YoY**.\n  * Infrastructure financing: \u20b91,950 crore (down to 0.64% of total funded assets).\n* **Asset Quality:** Net NPA at **0.44%**; Provision Coverage Ratio at **71.48%** (excl. technical w/o). Provisions for Q1 stood at \u20b91,659 crore.\n* **Return Metrics (Q1 FY27):** Return on Assets (RoA) at **1.06%**; Return on Equity (RoE) at **8.98%**.\n* **Capital Adequacy:** CET-1 ratio at **13.33%**; Total CRAR at **15.05%**; Net worth stood at \u20b948,651 crore.\n* **Credit-to-Deposit Ratio:** Improved to **95.50%** (from 137% at the time of merger).\n* **Cost-to-Income Ratio:** **70.70%** (70.73%) as of 30 June 2026 (down from 73.50% in FY26 and 72.80% in FY25).\n\n---\n\n### 3. Management Guidance & Forward Statements\n* **Capital Raising:** The Bank has enabling shareholder approval to raise fresh equity capital of **\u20b97,500 crore**, likely to be completed in the next **2\u20133 quarters**, which is expected to further improve capitalisation ratios above FY26 levels.\n* **Credit Cards & Retail Liabilities:** The Retail Liability business is moving towards break-even with scale; the Credit Card business achieved operational break-even in 4 years and is expected to positively impact overall bank profitability going forward.\n* **Legacy Run-down:** The Bank will continue to run down its legacy infrastructure financing book.\n\n---\n\n### 4. What a Shareholder Should Watch or Act On\n* **Microfinance Slippages & Asset Quality:** BWR highlighted slippages in the microfinance book (Q1 credit cost was ~2.0% vs ~1.8% in FY25) and noted an unutilized MFI provision buffer of \u20b9315 crore. Monitor collections and slippages in retail/microfinance loans.\n* **High Credit-to-Deposit Ratio:** At 95.50%, the CD ratio remains high compared to industry peers.\n* **Cost-to-Income Trajectory:** Stood high at 70.70% (well above industry average of ~50%); watch for promised operational leverage and cost reduction.\n* **Equity Dilution:** Watch execution and pricing of the planned \u20b97,500 crore equity capital raise over the next 2\u20133 quarters.\n* **Rating Triggers:** Downgrade risk if Gross NPA rises above 4%, capital cushion over regulatory minimum narrows to <1%, or ROA/ROE deteriorate.\n\n---\n\n### 5. Net Read\n**Neutral to mildly positive:** Reaffirmation of 'BWR AA+/Stable' reflects solid deposit momentum, healthy CASA (50.8%), and stable asset quality, but elevated credit-to-deposit and cost-to-income ratios remain key constraints."
+  },
+  {
+   "s": "SHAKTIPUMP",
+   "n": "Shakti Pumps (India) Limited",
+   "cat": "Acquisition",
+   "when": "2026-10-08 15:47",
+   "sent": "positive",
+   "txt": "**1. Single Most Important Fact**  \nShakti Pumps (India) Limited has invested \u20b910.00 crore in its wholly owned subsidiary, Shakti Energy Solutions Limited (SESL), to set up a greenfield 2.20 GW high-efficiency Solar DCR cell and Solar PV modules manufacturing plant in Pithampur, Madhya Pradesh.\n\n---\n\n**2. Key Numbers Exactly as Stated**  \n* **Investment Amount:** \u20b910,00,00,000/- (\u20b910.00 Crores) via cash subscription to equity shares.  \n* **Planned Plant Capacity:** 2.20 GW (Solar DCR cells and Solar PV modules).  \n* **SESL Historical Turnover (as stated in document):**  \n  * FY 2026: \u20b9239.11 Crores  \n  * FY 2025: \u20b9216.53 Crores  \n  * FY 2024: \u20b9139.59 Crores  \n  *(Note: No EBITDA, PAT, margins, or delta percentages are provided in the filing).*\n\n---\n\n**3. Management Guidance & Forward Statements**  \n* Shakti Energy Solutions Limited is expanding from manufacturing solar structures and solar rooftop solutions into establishing a greenfield high-efficiency Solar DCR cell and Solar PV modules manufacturing plant in Pithampur, Madhya Pradesh, with a capacity of 2.20 GW.  \n* Equity shares in the subsidiary will be issued from time to time as per agreement.\n\n---\n\n**4. What a Shareholder Should Watch or Act On**  \n* **Execution & Total Capex:** \u20b910 crore is likely an initial tranche; track total capital expenditure, project funding structure, commercial operational date (COD), and ramp-up timeline for the sizable 2.20 GW cell and module facility.  \n* **Backward Integration Benefits:** Watch how domestic cell/module manufacturing impacts captive supply and margins for Shakti Pumps\u2019 solar pump business.\n\n---\n\n**5. One-Line Net Read**  \n**Positive:** Strategic backward integration into a high-capacity (2.20 GW) solar cell and module facility strengthens supply chain control for its solar pump solutions, funded initially through a modest \u20b910 crore equity infusion."
   }
  ],
  "movers": {
@@ -827,193 +859,63 @@
  ],
  "flows": [
   {
-   "s": "RELIANCE",
-   "kind": "block",
-   "who": "PI OPPORTUNITIES AIF V LLP",
-   "bs": "BUY",
-   "qty": 2040212,
-   "px": 1176.0,
-   "val": 239.93,
-   "mine": true
-  },
-  {
-   "s": "RELIANCE",
-   "kind": "block",
-   "who": "PIONEER INVESTMENT FUND SCHEME II",
-   "bs": "SELL",
-   "qty": 2040212,
-   "px": 1176.0,
-   "val": 239.93,
-   "mine": true
-  },
-  {
-   "s": "SBILIFE",
-   "kind": "block",
-   "who": "PI OPPORTUNITIES AIF V LLP",
-   "bs": "BUY",
-   "qty": 642153,
-   "px": 1671.0,
-   "val": 107.3,
-   "mine": true
-  },
-  {
-   "s": "SBILIFE",
-   "kind": "block",
-   "who": "PIONEER INVESTMENT FUND SCHEME II",
-   "bs": "SELL",
-   "qty": 642153,
-   "px": 1671.0,
-   "val": 107.3,
-   "mine": true
-  },
-  {
-   "s": "ICICIBANK",
-   "kind": "block",
-   "who": "PI OPPORTUNITIES AIF V LLP",
-   "bs": "BUY",
-   "qty": 1921581,
-   "px": 1343.0,
-   "val": 258.07,
-   "mine": false
-  },
-  {
-   "s": "ICICIBANK",
-   "kind": "block",
-   "who": "PIONEER INVESTMENT FUND SCHEME II",
-   "bs": "SELL",
-   "qty": 1921581,
-   "px": 1343.0,
-   "val": 258.07,
-   "mine": false
-  },
-  {
-   "s": "KAJARIACER",
+   "s": "MONEYVIEW",
    "kind": "bulk",
-   "who": "PI OPPORTUNITIES AIF V LLP",
-   "bs": "BUY",
-   "qty": 1128464,
-   "px": 1211.0,
-   "val": 136.66,
-   "mine": false
-  },
-  {
-   "s": "KAJARIACER",
-   "kind": "bulk",
-   "who": "PIONEER INVESTMENT FUND SCHEME II",
+   "who": "MICROCURVES TRADING PRIVATE LIMITED",
    "bs": "SELL",
-   "qty": 1128464,
-   "px": 1211.0,
-   "val": 136.66,
-   "mine": false
-  },
-  {
-   "s": "KAJARIACER",
-   "kind": "block",
-   "who": "PI OPPORTUNITIES AIF V LLP",
-   "bs": "BUY",
-   "qty": 1128464,
-   "px": 1211.0,
-   "val": 136.66,
-   "mine": false
-  },
-  {
-   "s": "KAJARIACER",
-   "kind": "block",
-   "who": "PIONEER INVESTMENT FUND SCHEME II",
-   "bs": "SELL",
-   "qty": 1128464,
-   "px": 1211.0,
-   "val": 136.66,
-   "mine": false
-  },
-  {
-   "s": "KANOHAR",
-   "kind": "bulk",
-   "who": "QE SECURITIES LLP",
-   "bs": "SELL",
-   "qty": 1116687,
-   "px": 1132.08,
-   "val": 126.42,
-   "mine": false
-  },
-  {
-   "s": "KANOHAR",
-   "kind": "bulk",
-   "who": "QE SECURITIES LLP",
-   "bs": "BUY",
-   "qty": 1101408,
-   "px": 1133.0,
-   "val": 124.79,
-   "mine": false
-  },
-  {
-   "s": "INDGN",
-   "kind": "bulk",
-   "who": "PI OPPORTUNITIES AIF V LLP",
-   "bs": "BUY",
-   "qty": 2018426,
-   "px": 590.0,
-   "val": 119.09,
-   "mine": false
-  },
-  {
-   "s": "INDGN",
-   "kind": "bulk",
-   "who": "PIONEER INVESTMENT FUND SCHEME II",
-   "bs": "SELL",
-   "qty": 2018426,
-   "px": 590.0,
-   "val": 119.09,
-   "mine": false
-  },
-  {
-   "s": "INDGN",
-   "kind": "block",
-   "who": "PI OPPORTUNITIES AIF V LLP",
-   "bs": "BUY",
-   "qty": 2018426,
-   "px": 590.0,
-   "val": 119.09,
-   "mine": false
-  },
-  {
-   "s": "INDGN",
-   "kind": "block",
-   "who": "PIONEER INVESTMENT FUND SCHEME II",
-   "bs": "SELL",
-   "qty": 2018426,
-   "px": 590.0,
-   "val": 119.09,
-   "mine": false
-  },
-  {
-   "s": "KANOHAR",
-   "kind": "bulk",
-   "who": "PLUTUS WEALTH MANAGEMENT LLP",
-   "bs": "SELL",
-   "qty": 865813,
-   "px": 1138.8,
-   "val": 98.6,
-   "mine": false
-  },
-  {
-   "s": "KANOHAR",
-   "kind": "bulk",
-   "who": "PLUTUS WEALTH MANAGEMENT LLP",
-   "bs": "BUY",
-   "qty": 865813,
-   "px": 1138.36,
-   "val": 98.56,
+   "qty": 19124264,
+   "px": 60.61,
+   "val": 115.91,
    "mine": false
   },
   {
    "s": "MONEYVIEW",
    "kind": "bulk",
-   "who": "JUMP TRADING FINANCIAL INDIA PRIVATE L",
+   "who": "MICROCURVES TRADING PRIVATE LIMITED",
+   "bs": "BUY",
+   "qty": 19124264,
+   "px": 60.57,
+   "val": 115.84,
+   "mine": false
+  },
+  {
+   "s": "MONEYVIEW",
+   "kind": "bulk",
+   "who": "ALPHAGREP SECURITIES PRIVATE LIMITED",
    "bs": "SELL",
-   "qty": 15456742,
-   "px": 60.96,
-   "val": 94.22,
+   "qty": 16987400,
+   "px": 60.59,
+   "val": 102.93,
+   "mine": false
+  },
+  {
+   "s": "MONEYVIEW",
+   "kind": "bulk",
+   "who": "ALPHAGREP SECURITIES PRIVATE LIMITED",
+   "bs": "BUY",
+   "qty": 16987400,
+   "px": 60.53,
+   "val": 102.82,
+   "mine": false
+  },
+  {
+   "s": "MONEYVIEW",
+   "kind": "bulk",
+   "who": "PLUTUS WEALTH MANAGEMENT LLP",
+   "bs": "SELL",
+   "qty": 15257999,
+   "px": 59.99,
+   "val": 91.53,
+   "mine": false
+  },
+  {
+   "s": "MONEYVIEW",
+   "kind": "bulk",
+   "who": "PLUTUS WEALTH MANAGEMENT LLP",
+   "bs": "BUY",
+   "qty": 15257999,
+   "px": 59.97,
+   "val": 91.5,
    "mine": false
   },
   {
@@ -1021,9 +923,139 @@
    "kind": "bulk",
    "who": "JUMP TRADING FINANCIAL INDIA PRIVATE L",
    "bs": "BUY",
-   "qty": 67388003,
-   "px": 13.96,
-   "val": 94.07,
+   "qty": 58687956,
+   "px": 14.59,
+   "val": 85.63,
+   "mine": false
+  },
+  {
+   "s": "PCJEWELLER",
+   "kind": "bulk",
+   "who": "JUMP TRADING FINANCIAL INDIA PRIVATE L",
+   "bs": "SELL",
+   "qty": 58687956,
+   "px": 14.53,
+   "val": 85.27,
+   "mine": false
+  },
+  {
+   "s": "PCJEWELLER",
+   "kind": "bulk",
+   "who": "HRTI PRIVATE LIMITED",
+   "bs": "BUY",
+   "qty": 54096492,
+   "px": 14.64,
+   "val": 79.2,
+   "mine": false
+  },
+  {
+   "s": "MONEYVIEW",
+   "kind": "bulk",
+   "who": "JUMP TRADING FINANCIAL INDIA PRIVATE L",
+   "bs": "BUY",
+   "qty": 12476438,
+   "px": 60.39,
+   "val": 75.35,
+   "mine": false
+  },
+  {
+   "s": "MONEYVIEW",
+   "kind": "bulk",
+   "who": "JUMP TRADING FINANCIAL INDIA PRIVATE L",
+   "bs": "SELL",
+   "qty": 12476438,
+   "px": 58.7,
+   "val": 73.24,
+   "mine": false
+  },
+  {
+   "s": "MONEYVIEW",
+   "kind": "bulk",
+   "who": "NK SECURITIES RESEARCH PRIVATE LIMITED",
+   "bs": "SELL",
+   "qty": 11907309,
+   "px": 61.31,
+   "val": 73.0,
+   "mine": false
+  },
+  {
+   "s": "MONEYVIEW",
+   "kind": "bulk",
+   "who": "NK SECURITIES RESEARCH PRIVATE LIMITED",
+   "bs": "BUY",
+   "qty": 11907309,
+   "px": 61.29,
+   "val": 72.98,
+   "mine": false
+  },
+  {
+   "s": "PCJEWELLER",
+   "kind": "bulk",
+   "who": "HRTI PRIVATE LIMITED",
+   "bs": "SELL",
+   "qty": 47276892,
+   "px": 14.53,
+   "val": 68.69,
+   "mine": false
+  },
+  {
+   "s": "MONEYVIEW",
+   "kind": "bulk",
+   "who": "QE SECURITIES LLP",
+   "bs": "SELL",
+   "qty": 10531540,
+   "px": 60.25,
+   "val": 63.45,
+   "mine": false
+  },
+  {
+   "s": "MONEYVIEW",
+   "kind": "bulk",
+   "who": "JUNOMONETA FINSOL PRIVATE LIMITED",
+   "bs": "SELL",
+   "qty": 10007214,
+   "px": 60.79,
+   "val": 60.83,
+   "mine": false
+  },
+  {
+   "s": "MONEYVIEW",
+   "kind": "bulk",
+   "who": "JUNOMONETA FINSOL PRIVATE LIMITED",
+   "bs": "BUY",
+   "qty": 10005117,
+   "px": 60.75,
+   "val": 60.78,
+   "mine": false
+  },
+  {
+   "s": "MONEYVIEW",
+   "kind": "bulk",
+   "who": "QE SECURITIES LLP",
+   "bs": "BUY",
+   "qty": 9694418,
+   "px": 59.93,
+   "val": 58.1,
+   "mine": false
+  },
+  {
+   "s": "SMCGLOBAL",
+   "kind": "bulk",
+   "who": "JUNOMONETA FINSOL PRIVATE LIMITED",
+   "bs": "BUY",
+   "qty": 4750934,
+   "px": 118.48,
+   "val": 56.29,
+   "mine": false
+  },
+  {
+   "s": "SMCGLOBAL",
+   "kind": "bulk",
+   "who": "JUNOMONETA FINSOL PRIVATE LIMITED",
+   "bs": "SELL",
+   "qty": 4712375,
+   "px": 118.57,
+   "val": 55.87,
    "mine": false
   }
  ]
