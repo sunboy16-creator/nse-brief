@@ -55,12 +55,16 @@
        border:1px solid var(--bdr);border-radius:5px;padding:1px 5px;margin-left:5px}
   .empty{color:var(--t3);font-size:13px;padding:10px 0}
   footer{text-align:center;color:var(--t3);font-size:11px;margin-top:20px}
-  .rf{position:absolute;right:0;top:10px;border:0;background:none;color:var(--blu);  /* P43 */
-      font-size:26px;line-height:1;padding:6px 8px;cursor:pointer}
-  .rf.spin{animation:rfs .8s linear infinite}@keyframes rfs{to{transform:rotate(360deg)}}
-  @media (prefers-reduced-motion:reduce){.rf.spin{animation:none;opacity:.5}}
+  header{padding-top:calc(env(safe-area-inset-top,0px) + 14px)}   /* P43b: clear the status bar */
+  .stamprow{display:flex;align-items:center;justify-content:space-between;gap:10px;margin-top:4px}
+  .stamprow .sub{min-width:0}
+  .rf{flex:none;min-height:40px;padding:0 14px;border:1px solid var(--bdr);border-radius:10px;
+      background:var(--card);color:var(--blu);font:600 15px/1 inherit;cursor:pointer}
+  .rf .ic{display:inline-block;font-size:18px;margin-right:4px;vertical-align:-1px}
+  .rf.spin .ic{animation:rfs .8s linear infinite}@keyframes rfs{to{transform:rotate(360deg)}}
+  @media (prefers-reduced-motion:reduce){.rf.spin .ic{animation:none;opacity:.5}}
 </style></head><body>
-<header><h1>Market Brief</h1><div class="sub" id="stamp">loading...</div><button class="rf" id="rf" aria-label="Refresh">&#x21bb;</button></header>
+<header><h1>Market Brief</h1><div class="stamprow"><div class="sub" id="stamp">loading...</div><button class="rf" id="rf" aria-label="Refresh"><span class="ic">&#x21bb;</span>Refresh</button></div></header>
 <div id="app"></div>
 <footer>Percentages only &middot; no portfolio values published<br>Generated on the NSE Dashboard &middot; not investment advice</footer>
 <script>
