@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+<meta charset="utf-8">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'unsafe-inline'; img-src 'self' data:; connect-src 'self' https://api.mfapi.in; manifest-src 'self'; worker-src 'self'; base-uri 'none'; form-action 'none'">
+<meta name="robots" content="noindex,nofollow">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>MF Portfolio</title>
+<!-- P42 encrypted MF page -->
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="apple-touch-icon" href="icon-180.png">
+<link rel="icon" type="image/png" sizes="192x192" href="icon-192.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta name="apple-mobile-web-app-title" content="MF Portfolio">
+<meta name="theme-color" content="#f2f2f7">
+<style>
+:root{--bg:#f2f2f7;--card:#fff;--bdr:#e3e3e8;--t1:#111;--t2:#8a8a8e;--acc:#1a73e8;
+      --gbg:#2e7d32;--rbg:#c62828;--g:#2e7d32;--r:#b3261e}
+@media (prefers-color-scheme:dark){:root{--bg:#000;--card:#1c1c1e;--bdr:#2c2c2e;--t1:#f2f2f7;--t2:#8e8e93;
+      --acc:#4c9bff;--gbg:#2e7d32;--rbg:#b3261e;--g:#4cc265;--r:#ff6b60}}
+*{box-sizing:border-box;-webkit-tap-highlight-color:transparent}
+html,body{margin:0;background:var(--bg);color:var(--t1);
+  font:16px/1.35 -apple-system,BlinkMacSystemFont,"SF Pro Text","Segoe UI",Roboto,sans-serif}
+header{position:sticky;top:0;z-index:5;background:var(--bg);
+  padding:calc(env(safe-area-inset-top) + 10px) 16px 8px;border-bottom:1px solid var(--bdr)}
+h1{margin:0;text-align:center;font-size:19px;font-weight:700}
+.seg{display:flex;gap:6px;margin-top:10px;overflow-x:auto}
+.seg button{flex:1 0 auto;border:1px solid var(--bdr);background:var(--card);color:var(--t1);
+  border-radius:9px;padding:6px 12px;font-size:14px;font-weight:600}
+.seg button.on{background:var(--acc);border-color:var(--acc);color:#fff}
+main{padding-bottom:calc(env(safe-area-inset-bottom) + 70px)}
+.card{background:var(--card);border-bottom:1px solid var(--bdr);padding:12px 16px}
+.sum{margin:12px 0}
+.row{display:flex;justify-content:space-between;align-items:center;gap:10px}
+.row+.row{margin-top:3px}
+.l{color:var(--t2);font-size:15px}
+.v{font-size:15px;text-align:right;font-variant-numeric:tabular-nums;white-space:nowrap}
+.big{font-size:18px;font-weight:700;color:var(--t1)}
+.name{font-size:16px;font-weight:700;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.tag{display:inline-block;font-size:11px;font-weight:700;color:var(--t2);border:1px solid var(--bdr);
+  border-radius:5px;padding:0 5px;margin-right:5px;vertical-align:1px}
+.badge{border-radius:7px;padding:3px 9px;font-size:17px;font-weight:700;color:#fff;white-space:nowrap;
+  font-variant-numeric:tabular-nums;cursor:pointer}
+.bg{background:var(--gbg)}.br{background:var(--rbg)}
+.up{color:var(--g)}.dn{color:var(--r)}
+.fund{padding:12px 16px}
+.fund .row:first-child{align-items:flex-start;margin-bottom:6px}
+footer{position:fixed;left:0;right:0;bottom:0;background:var(--bg);border-top:1px solid var(--bdr);
+  padding:10px 16px calc(env(safe-area-inset-bottom) + 10px);display:flex;align-items:center;gap:14px}
+footer button{border:0;background:none;color:var(--acc);font-size:24px;line-height:1;padding:0 4px}
+#upd{color:var(--t2);font-size:14px;flex:1;text-align:center}
+.msg{margin:30px 20px;color:var(--t2);text-align:center;font-size:15px}
+form{margin:40px 20px;background:var(--card);border-radius:12px;padding:18px}
+form input{width:100%;font-size:16px;padding:11px;border:1px solid var(--bdr);border-radius:9px;
+  background:var(--bg);color:var(--t1);margin-bottom:10px}
+form button{width:100%;font-size:16px;font-weight:700;padding:12px;border:0;border-radius:9px;
+  background:var(--acc);color:#fff}
+#lerr{color:var(--r);font-size:14px;min-height:18px;margin-bottom:6px}
+</style></head><body>
+<header><h1>MF Portfolio</h1><div class="seg" id="seg"></div></header>
+<main id="main"><div class="msg">Loading…</div></main>
+<footer><button id="rf" aria-label="Refresh">&#x21bb;</button><div id="upd"></div><button id="mode" aria-label="Show percent">%</button><button id="lock" aria-label="Lock">&#x1F512;</button></footer>
+<script>
+(function(){
+var DATA = null, SEL = 'all', PCT = false;
+var $ = function(id){ return document.getElementById(id); };
+function esc(s){ return (s == null ? '' : String(s)).replace(/[&<>"']/g, function(c){
+  return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]; }); }
+function num(v){ v = parseFloat(v); return isFinite(v) ? v : null; }
+function inr(v, dp){ if (v == null) return '–';
+  return v.toLocaleString('en-IN', {minimumFractionDigits: dp || 0, maximumFractionDigits: dp || 0}); }
+function fx(v, dp){ if (v == null) return '–'; var t = v.toFixed(dp); return /^-0\.0*$/.test(t) ? t.slice(1) : t; }
+function units(v){ return v == null ? '–' : String(Number(v.toFixed(4))); }
+function sgn(v){ return v == null ? '' : (v >= 0 ? 'up' : 'dn'); }
+function arrow(v){ return v == null ? '' : (v >= 0 ? '▲ ' : '▼ '); }
+var MON = {jan:1,feb:2,mar:3,apr:4,may:5,jun:6,jul:7,aug:8,sep:9,oct:10,nov:11,dec:12};
+function ddmmyy(s){
+  if (!s) return '';
+  s = String(s).trim(); var m, d, mo, y;
+  if ((m = s.match(/^(\d{4})-(\d{2})-(\d{2})/))) { y = m[1]; mo = +m[2]; d = +m[3]; }
+  else if ((m = s.match(/^(\d{1,2})[-\/ ]([A-Za-z]{3})[A-Za-z]*[-\/ ](\d{4})/))) { d = +m[1]; mo = MON[m[2].toLowerCase()]; y = m[3]; }
+  else if ((m = s.match(/^(\d{1,2})[-\/](\d{1,2})[-\/](\d{4})/))) { d = +m[1]; mo = +m[2]; y = m[3]; }
+  else return s;
+  return ('0' + d).slice(-2) + '/' + ('0' + mo).slice(-2) + '/' + String(y).slice(-2);
+}
+var ENC = null, LIVE = {at: null, ok: 0, n: 0};
+function b64d(s){ var b = atob(s), a = new Uint8Array(b.length); for (var i = 0; i < b.length; i++) a[i] = b.charCodeAt(i); return a; }
+function b64e(buf){ var a = new Uint8Array(buf), s = ''; for (var i = 0; i < a.length; i++) s += String.fromCharCode(a[i]); return btoa(s); }
+function kname(){ return 'mfk_' + ENC.salt; }
+function deriveBits(pass){
+  return crypto.subtle.importKey('raw', new TextEncoder().encode(pass), 'PBKDF2', false, ['deriveBits'])
+    .then(function(k){ return crypto.subtle.deriveBits({name: 'PBKDF2', salt: b64d(ENC.salt), iterations: ENC.iter, hash: 'SHA-256'}, k, 256); });
+}
+function decrypt(raw){
+  return crypto.subtle.importKey('raw', raw, 'AES-GCM', false, ['decrypt'])
+    .then(function(k){ return crypto.subtle.decrypt({name: 'AES-GCM', iv: b64d(ENC.iv), additionalData: new TextEncoder().encode('mf-v1')}, k, b64d(ENC.ct)); })
+    .then(function(pt){ return JSON.parse(new TextDecoder().decode(pt)); });
+}
+function iso(s){ var m = ddmmyy(s).match(/^(\d{2})\/(\d{2})\/(\d{2})$/); return m ? '20' + m[3] + '-' + m[2] + '-' + m[1] : ''; }
+function hm(t){ return ('0' + t.getHours()).slice(-2) + ':' + ('0' + t.getMinutes()).slice(-2); }
+function dm(t){ return ('0' + t.getDate()).slice(-2) + '/' + ('0' + (t.getMonth() + 1)).slice(-2); }
+function fundRows(m){
+  var out = [];
+  (m.funds || []).forEach(function(f){
+    var u = num(f.units), nav = num(f.nav);
+    if (!u || u <= 0 || !nav) return;
+    var prev = num(f.prev_nav), pct = num(f.day_chg_pct);
+    var cost = num(f.cost) || (num(f.avg_cost) || 0) * u, cur = u * nav, dpu = null;
+    if (prev && prev > 0) dpu = nav - prev; else if (pct != null) dpu = nav - nav / (1 + pct / 100);
+    var base = dpu == null ? null : nav - dpu;
+    out.push({name: f.name || '?', demat: !!f.demat, member: m.short, units: u, nav: nav, cost: cost,
+      cur: cur, avg: cost / u, date: f.nav_date,
+      dpu: dpu, dpct: (dpu == null || !base) ? null : dpu / base * 100, day: dpu == null ? null : u * dpu});
+  });
+  return out;
+}
+function renderSeg(){
+  var ms = (DATA.members || []);
+  var b = '<button data-k="all" class="' + (SEL === 'all' ? 'on' : '') + '">Family</button>';
+  ms.forEach(function(m){
+    b += '<button data-k="' + esc(m.id) + '" class="' + (String(SEL) === String(m.id) ? 'on' : '') + '">' + esc(m.short) + '</button>';
+  });
+  $('seg').innerHTML = ms.length > 1 ? b : '';
+  Array.prototype.forEach.call($('seg').querySelectorAll('button'), function(x){
+    x.onclick = function(){ SEL = x.getAttribute('data-k'); render(); };
+  });
+}
+function badge(pl, cost){
+  var txt = PCT ? (cost > 0 ? (pl >= 0 ? '+' : '') + fx(pl / cost * 100, 2) + '%' : '–') : inr(pl);
+  return '<span class="badge ' + (pl >= 0 ? 'bg' : 'br') + '">' + esc(txt) + '</span>';
+}
+function render(){
+  renderSeg();
+  var ms = (DATA.members || []).filter(function(m){ return SEL === 'all' || String(m.id) === String(SEL); });
+  var rows = [];
+  ms.forEach(function(m){ rows = rows.concat(fundRows(m)); });
+  rows.sort(function(a, b){ return b.cur - a.cur; });
+  if (!rows.length) { $('main').innerHTML = '<div class="msg">No mutual fund holdings.</div>'; return; }
+  var T = {cur: 0, cost: 0, day: 0, prevV: 0, hasDay: false};
+  rows.forEach(function(r){ T.cur += r.cur; T.cost += r.cost;
+    if (r.day != null) { T.day += r.day; T.prevV += r.cur - r.day; T.hasDay = true; } });
+  var pl = T.cur - T.cost, dpct = T.hasDay && T.prevV > 0 ? T.day / T.prevV * 100 : null;
+  var h = '<div class="card sum">' +
+    '<div class="row"><span class="big">Total Profit / Loss</span>' + badge(pl, T.cost) + '</div>' +
+    '<div class="row"><span class="l">Day\'s gain' + (dpct == null ? '' : ' ' + fx(dpct, 2) + '%') + '</span>' +
+      '<span class="v ' + sgn(T.hasDay ? T.day : null) + '">' + (T.hasDay ? arrow(T.day) + inr(Math.abs(T.day)) : '–') + '</span></div>' +
+    '<div class="row"><span class="l">Current value</span><span class="v">' + inr(T.cur) + '</span></div>' +
+    '<div class="row"><span class="l">Total investment</span><span class="v">' + inr(T.cost) + '</span></div>' +
+    '<div class="row"><span class="l">Funds</span><span class="v">' + rows.length + '</span></div></div>';
+  rows.forEach(function(r){
+    var tags = (r.demat ? '<span class="tag">DEMAT</span>' : '') +
+      (SEL === 'all' && (DATA.members || []).length > 1 ? '<span class="tag">' + esc(r.member) + '</span>' : '');
+    h += '<div class="card fund">' +
+      '<div class="row"><div class="name">' + tags + esc(r.name) + '</div>' + badge(r.cur - r.cost, r.cost) + '</div>' +
+      '<div class="row"><span class="l">Day\'s gain ' + (r.dpu == null ? '–' : fx(r.dpu, 4) + ' (' + fx(r.dpct, 2) + '%)') + '</span>' +
+        '<span class="v ' + sgn(r.day) + '">' + (r.day == null ? '–' : arrow(r.day) + inr(Math.abs(r.day))) + '</span></div>' +
+      '<div class="row"><span class="l">As on ' + esc(ddmmyy(r.date)) + ' @ ' + fx(r.nav, 4) + '</span><span class="v">' + inr(r.cur) + '</span></div>' +
+      '<div class="row"><span class="l">Units ' + units(r.units) + ' @ ' + fx(r.avg, 4) + '</span><span class="v">' + inr(r.cost) + '</span></div>' +
+      '</div>';
+  });
+  $('main').innerHTML = h;
+  Array.prototype.forEach.call(document.querySelectorAll('.badge'), function(b){
+    b.onclick = function(){ PCT = !PCT; render(); };
+  });
+  $('mode').textContent = PCT ? '₹' : '%';
+}
+function stamp(){
+  var s = '';
+  if (ENC && ENC.published) { var p = new Date(ENC.published); if (!isNaN(p)) s = 'Published ' + dm(p) + ' ' + hm(p); }
+  if (LIVE.at) s += (s ? ' · ' : '') + (LIVE.ok ? 'NAV checked ' + hm(LIVE.at) + (LIVE.ok < LIVE.n ? ' (' + LIVE.ok + '/' + LIVE.n + ')' : '') : 'live NAV unavailable');
+  $('upd').textContent = s;
+}
+function show(d){ DATA = d; render(); stamp(); }
+function unlockForm(msg){
+  DATA = null; $('seg').innerHTML = '';
+  $('main').innerHTML = '<form id="lf"><div style="font-weight:700;margin-bottom:12px">Enter your passphrase</div>' +
+    '<input id="lp" type="password" autocomplete="current-password" placeholder="Passphrase">' +
+    '<div id="lerr">' + esc(msg || '') + '</div><button type="submit">Unlock</button>' +
+    '<div style="color:var(--t2);font-size:13px;margin-top:10px">Asked once; remembered on this phone only. 🔒 forgets it.</div></form>';
+  $('lf').onsubmit = function(e){
+    e.preventDefault(); $('lerr').textContent = 'Unlocking…';
+    var raw = null;
+    deriveBits($('lp').value).then(function(r){ raw = r; return decrypt(r); }).then(function(d){
+      try { localStorage.setItem(kname(), b64e(raw)); } catch (x) {}
+      show(d); liveNav();
+    }).catch(function(){ $('lerr').textContent = 'Wrong passphrase'; });
+  };
+}
+function liveNav(){
+  if (!DATA) return;
+  var codes = {};
+  (DATA.members || []).forEach(function(m){ (m.funds || []).forEach(function(f){ if (f.code) codes[f.code] = 1; }); });
+  var list = Object.keys(codes);
+  if (!list.length) return;
+  $('upd').textContent = 'Checking latest NAV…';
+  Promise.all(list.map(function(c){
+    var ctl = window.AbortController ? new AbortController() : null;
+    var t = ctl ? setTimeout(function(){ ctl.abort(); }, 8000) : null;
+    return fetch('https://api.mfapi.in/mf/' + encodeURIComponent(c) + '/latest', ctl ? {signal: ctl.signal, cache: 'no-store'} : {cache: 'no-store'})
+      .then(function(r){ return r.json(); })
+      .then(function(j){ if (t) clearTimeout(t); var x = j && j.data && j.data[0];
+        return x ? {c: c, nav: parseFloat(x.nav), date: iso(x.date)} : null; })
+      .catch(function(){ return null; });
+  })).then(function(res){
+    var L = {}, ok = 0;
+    res.forEach(function(x){ if (x && x.nav > 0 && x.date) { L[x.c] = x; ok++; } });
+    (DATA.members || []).forEach(function(m){ (m.funds || []).forEach(function(f){
+      var x = L[f.code];
+      if (x && x.date > iso(f.nav_date)) { f.prev_nav = f.nav; f.day_chg_pct = null; f.nav = x.nav; f.nav_date = x.date; }
+    }); });
+    LIVE = {at: new Date(), ok: ok, n: list.length};
+    render(); stamp();
+  });
+}
+function load(){
+  $('upd').textContent = 'Updating…';
+  fetch('data.enc.json?v=' + Date.now(), {cache: 'no-store'})
+    .then(function(r){ if (!r.ok) throw new Error('http'); return r.json(); })
+    .then(function(e){
+      ENC = e; var k = null;
+      try { k = localStorage.getItem(kname()); } catch (x) {}
+      if (!k) { unlockForm(); $('upd').textContent = ''; return; }
+      return decrypt(b64d(k)).then(function(d){ show(d); liveNav(); })
+        .catch(function(){ try { localStorage.removeItem(kname()); } catch (x) {} unlockForm('Passphrase changed — enter the new one'); });
+    }).catch(function(){
+      $('upd').textContent = '';
+      $('main').innerHTML = '<div class="msg">Could not load your portfolio.<br>Check your internet connection.</div>';
+    });
+}
+$('lock').onclick = function(){
+  if (!ENC) return;
+  try { localStorage.removeItem(kname()); } catch (x) {}
+  LIVE = {at: null, ok: 0, n: 0}; unlockForm('Locked'); $('upd').textContent = '';
+};
+$('rf').onclick = load;
+$('mode').onclick = function(){ PCT = !PCT; if (DATA) render(); };
+if ('serviceWorker' in navigator) {
+  window.addEventListener('load', function(){ navigator.serviceWorker.register('sw.js', {scope: './'}).catch(function(){}); });
+}
+load();
+})();
+</script></body></html>
