@@ -1,5 +1,5 @@
 {
- "generated": "27-Oct-2026 07:48",
+ "generated": "27-Oct-2026 08:02",
  "market_date": "2026-10-26",
  "stocks": [
   {
@@ -560,8 +560,8 @@
  ],
  "perf": {
   "n": 76,
-  "day": 0.32,
-  "overall": 15.78
+  "day": 0.76,
+  "overall": 16.3
  },
  "wperf": {
   "n": 9,
@@ -581,7 +581,16 @@
    "funds": 8
   }
  ],
- "digests": [],
+ "digests": [
+  {
+   "s": "TATACONSUM",
+   "n": "TATA CONSUMER PRODUCTS LIMITED",
+   "cat": "Outcome of Board Meeting",
+   "when": "2026-10-26 16:44",
+   "sent": "positive",
+   "txt": "### 1. Most Important Fact\nTata Consumer Products Limited reported a **14% YoY increase in Consolidated Revenue from Operations** to \u20b95,661.13 crore (11% in constant currency) and a **16% YoY increase in Group Consolidated Net Profit** to \u20b9470.14 crore for the quarter ended September 30, 2026.\n\n---\n\n### 2. Key Numbers (Consolidated)\n*(Figures in \u20b9 Crores, except EPS)*\n\n| Metric | Q2 FY27 (Sep 30, 2026) | Q1 FY27 (Jun 30, 2026) | Q2 FY26 (Sep 30, 2025) | YoY Growth (%) | QoQ Growth (%) |\n| :--- | :--- | :--- | :--- | :--- | :--- |\n| **Revenue from Operations** | 5,661.13 | 5,348.88 | 4,965.90 | +14.00% *(11% in CC)* | +5.84% |\n| **Profit Before Exceptional Items & Tax** | 632.28 | 592.21 | 523.28 | +20.83% | +6.77% |\n| **Exceptional Items** | (7.37) | \u2014 | \u2014 | \u2014 | \u2014 |\n| **Profit Before Tax (PBT)** | 624.91 | 592.21 | 523.28 | +19.42% | +5.52% |\n| **Total Tax Expense** | (157.68) | (147.35) | (126.23) | +24.92% | +7.01% |\n| **Share of Profit/(Loss) in Associates/JV** | 2.91 | (17.67) | 9.46 | -69.24% | Turnaround |\n| **Group Consolidated Net Profit** | 470.14 | 427.19 | 406.51 | +15.65% | +10.05% |\n| **PAT Attributable to Owners** | 469.30 | 426.98 | 404.46 | +16.03% | +9.91% |\n| **Operating Margin %** | 11.13% | 10.56% | 10.51% | +62 bps | +57 bps |\n| **Net Profit Margin %** | 8.30% | 7.99% | 8.19% | +11 bps | +31 bps |\n| **Basic EPS (\u20b9)** *(not annualised)* | 4.75 | 4.31 | 4.09 | +16.14% | +10.21% |\n\n#### Segment Revenue & Performance Highlights:\n* **Branded Business Revenue:** \u20b95,036.29 crore (+14.2% YoY)\n  * *India Business Revenue:* \u20b93,666.13 crore (+17.4% YoY)\n  * *International Business Revenue:* \u20b91,370.16 crore (+6.4% YoY)\n* **Non-Branded Business Revenue:** \u20b9658.77 crore (+11.6% YoY)\n\n---\n\n### 3. Management Commentary & Outlook\n* Revenue growth for the quarter was driven by underlying growth of **17% in the India Business** and **9% in the Non-Branded Business**.\n* International Business revenue was marginally lower than potential due to the **continued impact of a heatwave**.\n* Operating performance improved in the International and Non-Branded businesses, but was **partly offset by inflationary pressures on key input costs in the India Branded Business**.\n* Exceptional item of \u20b97.37 crore on a consolidated basis represents an adjustment relating to contingent consideration paid on a business acquisition.\n\n---\n\n### 4. What a Shareholder Should Watch\n* **Input Cost Inflation:** Monitor margins in the India Branded segment to see if ongoing raw material price pressures can be successfully offset by pricing actions.\n* **International Business Recovery:** Watch for normalization of international sales as weather/heatwave impacts subside.\n* **Associates/JV Performance:** Turnaround to a \u20b92.91 crore profit this quarter from a \u20b917.67 crore loss in Q1 (noted as seasonal due to North India plantations).\n\n---\n\n### 5. Net Read\n**Positive**: Solid top-line growth (+14% YoY) driven by the core domestic business, accompanied by healthy operating leverage (PBT up ~21% YoY) and steady sequential margin improvement."
+  }
+ ],
  "movers": {
   "gainers": [
    {
