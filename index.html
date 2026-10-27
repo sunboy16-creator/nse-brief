@@ -147,6 +147,29 @@ function render(){
   h+=sec('\u25b2 Top Gainers',(m.gainers||[]).length,(m.gainers||[]).map(rowHTML).join(''));
   h+=sec('\u25bc Top Losers',(m.losers||[]).length,(m.losers||[]).map(rowHTML).join(''));
   h+=sec('\u{1F4E6} Delivery Leaders',(m.delivery||[]).length,(m.delivery||[]).map(rowHTML).join(''));
+  var pcrD=D.pcr||{};
+  var pcrK=['NIFTY','BANKNIFTY'].filter(function(k){return pcrD[k];});
+  if(pcrK.length){
+    var pcrN={NIFTY:'Nifty 50',BANKNIFTY:'Bank Nifty'};
+    var pcrBand=function(v){return v==null?'-':(v<0.8?'Call-heavy':(v>1.2?'Put-heavy':'Balanced'));};
+    var pcrF=function(v){return v==null?'-':v.toFixed(2);};
+    var pcrDt=function(s){try{return new Date(s+'T00:00:00').toLocaleDateString('en-GB',{day:'2-digit',month:'short'});}catch(e){return s||'';}};
+    var pcrSpark=function(a){
+      if(!a||a.length<2) return '';
+      var w=72,ht=20,mn=Math.min.apply(null,a),mx=Math.max.apply(null,a),rg=(mx-mn)||1;
+      var pts=a.map(function(v,i){return (i*w/(a.length-1)).toFixed(1)+','+(ht-2-(v-mn)*(ht-4)/rg).toFixed(1);}).join(' ');
+      return '<svg width="'+w+'" height="'+ht+'" viewBox="0 0 '+w+' '+ht+'" style="vertical-align:middle;opacity:.7"><polyline fill="none" stroke="currentColor" stroke-width="1.5" points="'+pts+'"/></svg>';
+    };
+    h+=sec('\u{1F4CA} Put-Call Ratio',pcrD.date||'-',
+      pcrK.map(function(k){
+        var x=pcrD[k], dl=(x.all!=null&&x.all_prev!=null)?x.all-x.all_prev:0;
+        return '<div class="row"><span>'+pcrN[k]+'</span><span class="pct '+cls(dl)+'">'+pcrF(x.all)+
+          (x.all_prev!=null?' ('+(dl>=0?'▲':'▼')+Math.abs(dl).toFixed(2)+')':'')+'</span></div>'+
+          '<div class="row"><span style="opacity:.7;font-size:12px">'+pcrBand(x.all)+
+          (x.near!=null?' · near '+pcrDt(x.near_exp)+' '+pcrF(x.near):'')+
+          (x.vol!=null?' · vol '+pcrF(x.vol):'')+'</span><span>'+pcrSpark(x.series)+'</span></div>';
+      }).join(''),true);
+  }
   var f=D.fiidii||[];
   h+=sec('\u{1F4B0} FII / DII',f.length?f[0].date:'-',
     f.length?f.map(function(x){
