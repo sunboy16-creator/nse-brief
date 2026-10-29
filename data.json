@@ -1,5 +1,5 @@
 {
- "generated": "29-Oct-2026 06:10",
+ "generated": "29-Oct-2026 07:31",
  "market_date": "2026-10-28",
  "stocks": [
   {
@@ -560,8 +560,8 @@
  ],
  "perf": {
   "n": 76,
-  "day": -0.08,
-  "overall": 17.05
+  "day": 0.21,
+  "overall": 16.96
  },
  "wperf": {
   "n": 9,
@@ -571,13 +571,13 @@
   {
    "who": "KB",
    "overall": 45.57,
-   "day": 0.17,
+   "day": 0.0,
    "funds": 10
   },
   {
    "who": "PT",
    "overall": 25.46,
-   "day": 0.03,
+   "day": -0.01,
    "funds": 8
   }
  ],
