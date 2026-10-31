@@ -1,363 +1,153 @@
 {
- "generated": "30-Oct-2026 10:42",
- "market_date": "2026-10-29",
+ "generated": "31-Oct-2026 10:31",
+ "market_date": "2026-10-30",
  "stocks": [
   {
-   "s": "AARTIPHARM",
-   "n": "Aarti Pharmalabs Limited",
-   "c": 5.18,
-   "d": 20.3,
-   "p": 927.65
-  },
-  {
-   "s": "CDSL",
-   "n": "Central Depository Services (India) Limi",
-   "c": 4.06,
-   "d": 31.4,
-   "p": 1282.0
-  },
-  {
-   "s": "ROUTE",
-   "n": "ROUTE MOBILE LIMITED",
-   "c": 4.05,
-   "d": 24.6,
-   "p": 452.6
-  },
-  {
-   "s": "ETERNAL",
-   "n": "ETERNAL LIMITED",
-   "c": 3.63,
-   "d": 58.0,
-   "p": 337.85
-  },
-  {
-   "s": "ZENTEC",
-   "n": "Zen Technologies Limited",
-   "c": 3.37,
-   "d": 34.7,
-   "p": 1621.6
-  },
-  {
-   "s": "MARKSANS",
-   "n": "Marksans Pharma Limited",
-   "c": 3.33,
-   "d": 38.7,
-   "p": 315.35
-  },
-  {
-   "s": "TRITURBINE",
-   "n": "Triveni Turbine Limited",
-   "c": 3.07,
-   "d": 33.4,
-   "p": 469.6
-  },
-  {
-   "s": "NYKAA",
-   "n": "FSN E-Commerce Ventures Limited",
-   "c": 3.04,
-   "d": 52.2,
-   "p": 352.9
-  },
-  {
-   "s": "PNB",
-   "n": "Punjab National Bank",
-   "c": 2.98,
-   "d": 45.2,
-   "p": 123.9
-  },
-  {
-   "s": "CAMS",
-   "n": "Computer Age Management Services Limited",
-   "c": 2.89,
-   "d": 45.0,
-   "p": 696.95
-  },
-  {
-   "s": "IEX",
-   "n": "Indian Energy Exchange Limited",
-   "c": 2.57,
-   "d": 46.5,
-   "p": 105.35
-  },
-  {
-   "s": "ITCHOTELS",
-   "n": "ITC Hotels Limited",
-   "c": 2.56,
-   "d": 48.2,
-   "p": 169.32
-  },
-  {
-   "s": "VBL",
-   "n": "Varun Beverages Limited",
-   "c": 2.55,
-   "d": 40.8,
-   "p": 414.8
-  },
-  {
-   "s": "PATANJALI",
-   "n": "Patanjali Foods Limited",
-   "c": 2.49,
-   "d": 27.7,
-   "p": 378.8
-  },
-  {
-   "s": "IOLCP",
-   "n": "IOL Chemicals and Pharmaceuticals Limite",
-   "c": 2.39,
-   "d": 31.7,
-   "p": 184.93
-  },
-  {
-   "s": "BAJFINANCE",
-   "n": "Bajaj Finance Limited",
-   "c": 2.36,
-   "d": 60.3,
-   "p": 938.9
-  },
-  {
-   "s": "PIDILITIND",
-   "n": "Pidilite Industries Limited",
-   "c": 2.33,
-   "d": 31.5,
-   "p": 1422.0
-  },
-  {
-   "s": "TITAN",
-   "n": "Titan Company Limited",
-   "c": 2.22,
-   "d": 60.3,
-   "p": 4434.0
-  },
-  {
-   "s": "NTPC",
-   "n": "NTPC Limited",
-   "c": 2.22,
-   "d": 55.1,
-   "p": 310.5
-  },
-  {
-   "s": "IDEA",
-   "n": "Vodafone Idea Limited",
-   "c": 2.19,
-   "d": 23.2,
-   "p": 12.12
-  },
-  {
-   "s": "ITC",
-   "n": "ITC Limited",
-   "c": 2.12,
-   "d": 49.0,
-   "p": 265.0
-  },
-  {
-   "s": "IGIL",
-   "n": "International Gemological Institute Limi",
-   "c": 2.1,
-   "d": 42.6,
-   "p": 406.8
-  },
-  {
-   "s": "INFY",
-   "n": "Infosys Limited",
-   "c": 2.08,
-   "d": 64.2,
-   "p": 1146.5
-  },
-  {
-   "s": "TATACONSUM",
-   "n": "TATA CONSUMER PRODUCTS LIMITED",
-   "c": 2.08,
-   "d": 51.7,
-   "p": 1021.0
-  },
-  {
-   "s": "PARAS",
-   "n": "Paras Defence and Space Technologies Lim",
-   "c": 2.08,
-   "d": 16.2,
-   "p": 1329.7
-  },
-  {
-   "s": "BDL",
-   "n": "Bharat Dynamics Limited",
-   "c": 1.86,
-   "d": 28.0,
-   "p": 1011.0
-  },
-  {
-   "s": "BEL",
-   "n": "Bharat Electronics Limited",
-   "c": 1.83,
-   "d": 61.8,
-   "p": 370.0
-  },
-  {
-   "s": "MAZDOCK",
-   "n": "Mazagon Dock Shipbuilders Limited",
-   "c": 1.73,
-   "d": 38.8,
-   "p": 1762.7
-  },
-  {
-   "s": "SBIN",
-   "n": "State Bank of India",
-   "c": 1.58,
-   "d": 48.9,
-   "p": 971.9
-  },
-  {
-   "s": "SBIFUNDS",
-   "n": "SBI Funds Management Limited",
-   "c": 1.4,
-   "d": 60.1,
-   "p": 468.5
-  },
-  {
-   "s": "ABDL",
-   "n": "Allied Blenders and Distillers Limited",
-   "c": 1.14,
-   "d": 38.8,
-   "p": 710.2
-  },
-  {
-   "s": "SHAKTIPUMP",
-   "n": "Shakti Pumps (India) Limited",
-   "c": 1.1,
-   "d": 44.8,
-   "p": 368.45
-  },
-  {
-   "s": "AARTIIND",
-   "n": "Aarti Industries Limited",
-   "c": 1.09,
-   "d": 40.7,
-   "p": 442.05
-  },
-  {
-   "s": "SWIGGY",
-   "n": "Swiggy Limited",
-   "c": 0.95,
-   "d": 53.3,
-   "p": 185.25
-  },
-  {
-   "s": "LT",
-   "n": "Larsen & Toubro Limited",
-   "c": 0.94,
-   "d": 47.3,
-   "p": 3837.1
-  },
-  {
-   "s": "TMPV",
-   "n": "Tata Motors Passenger Vehicles Limited",
-   "c": 0.91,
-   "d": 53.1,
-   "p": 266.0
-  },
-  {
-   "s": "JIOFIN",
-   "n": "Jio Financial Services Limited",
-   "c": 0.9,
-   "d": 45.5,
-   "p": 207.0
-  },
-  {
-   "s": "TATATECH",
-   "n": "Tata Technologies Limited",
-   "c": 0.83,
-   "d": 43.8,
-   "p": 658.95
-  },
-  {
-   "s": "RELIANCE",
-   "n": "Reliance Industries Limited",
-   "c": 0.81,
-   "d": 49.1,
-   "p": 1167.4
-  },
-  {
-   "s": "DIXON",
-   "n": "Dixon Technologies (India) Limited",
-   "c": 0.77,
-   "d": 42.2,
-   "p": 11488.0
-  },
-  {
-   "s": "HINDCOPPER",
-   "n": "Hindustan Copper Limited",
-   "c": 0.77,
-   "d": 34.1,
-   "p": 412.3
-  },
-  {
-   "s": "TCS",
-   "n": "Tata Consultancy Services Limited",
-   "c": 0.73,
-   "d": 55.4,
-   "p": 2478.0
-  },
-  {
-   "s": "IREDA",
-   "n": "Indian Renewable Energy Development Agen",
-   "c": 0.61,
-   "d": 31.0,
-   "p": 101.2
-  },
-  {
-   "s": "BAJAJHFL",
-   "n": "Bajaj Housing Finance Limited",
-   "c": 0.57,
-   "d": 54.2,
-   "p": 77.92
-  },
-  {
-   "s": "BSE",
-   "n": "BSE Limited",
-   "c": 0.49,
-   "d": 41.7,
-   "p": 3502.0
-  },
-  {
-   "s": "IRCTC",
-   "n": "Indian Railway Catering And Tourism Corp",
-   "c": 0.3,
-   "d": 42.4,
-   "p": 444.05
-  },
-  {
-   "s": "COALINDIA",
-   "n": "Coal India Limited",
-   "c": 0.28,
-   "d": 51.5,
-   "p": 393.1
-  },
-  {
-   "s": "GAIL",
-   "n": "GAIL (India) Limited",
-   "c": 0.24,
-   "d": 52.5,
-   "p": 165.17
-  },
-  {
-   "s": "IOC",
-   "n": "Indian Oil Corporation Limited",
-   "c": 0.2,
-   "d": 60.3,
-   "p": 130.41
-  },
-  {
-   "s": "TMCV",
-   "n": "Tata Motors Limited",
-   "c": 0.15,
-   "d": 45.0,
-   "p": 400.3
+   "s": "TRENT",
+   "n": "Trent Limited",
+   "c": 5.44,
+   "d": 29.0,
+   "p": 3017.3
   },
   {
    "s": "COFORGE",
    "n": "Coforge Limited",
-   "c": 0.01,
-   "d": 50.7,
-   "p": 1962.0
+   "c": 4.23,
+   "d": 40.9,
+   "p": 2045.0
+  },
+  {
+   "s": "INFY",
+   "n": "Infosys Limited",
+   "c": 3.36,
+   "d": 58.1,
+   "p": 1185.0
+  },
+  {
+   "s": "DEEPAKNTR",
+   "n": "Deepak Nitrite Limited",
+   "c": 2.91,
+   "d": 13.7,
+   "p": 1519.4
+  },
+  {
+   "s": "PIDILITIND",
+   "n": "Pidilite Industries Limited",
+   "c": 2.78,
+   "d": 41.4,
+   "p": 1461.6
+  },
+  {
+   "s": "NTPC",
+   "n": "NTPC Limited",
+   "c": 1.85,
+   "d": 65.6,
+   "p": 316.25
+  },
+  {
+   "s": "ETERNAL",
+   "n": "ETERNAL LIMITED",
+   "c": 1.72,
+   "d": 55.3,
+   "p": 343.65
+  },
+  {
+   "s": "GAIL",
+   "n": "GAIL (India) Limited",
+   "c": 1.66,
+   "d": 32.3,
+   "p": 167.91
+  },
+  {
+   "s": "HDFCBANK",
+   "n": "HDFC Bank Limited",
+   "c": 1.39,
+   "d": 63.9,
+   "p": 692.8
+  },
+  {
+   "s": "TECHM",
+   "n": "Tech Mahindra Limited",
+   "c": 1.2,
+   "d": 57.2,
+   "p": 1790.8
+  },
+  {
+   "s": "TCS",
+   "n": "Tata Consultancy Services Limited",
+   "c": 0.99,
+   "d": 47.1,
+   "p": 2502.6
+  },
+  {
+   "s": "LT",
+   "n": "Larsen & Toubro Limited",
+   "c": 0.9,
+   "d": 69.9,
+   "p": 3871.7
+  },
+  {
+   "s": "TATACONSUM",
+   "n": "TATA CONSUMER PRODUCTS LIMITED",
+   "c": 0.48,
+   "d": 59.1,
+   "p": 1025.9
+  },
+  {
+   "s": "SBILIFE",
+   "n": "SBI Life Insurance Company Limited",
+   "c": 0.4,
+   "d": 55.1,
+   "p": 1658.6
+  },
+  {
+   "s": "EMCURE",
+   "n": "Emcure Pharmaceuticals Limited",
+   "c": 0.36,
+   "d": 59.5,
+   "p": 1871.8
+  },
+  {
+   "s": "BSE",
+   "n": "BSE Limited",
+   "c": 0.24,
+   "d": 50.6,
+   "p": 3510.4
+  },
+  {
+   "s": "ITC",
+   "n": "ITC Limited",
+   "c": 0.23,
+   "d": 56.6,
+   "p": 265.6
+  },
+  {
+   "s": "TRITURBINE",
+   "n": "Triveni Turbine Limited",
+   "c": 0.1,
+   "d": 52.9,
+   "p": 470.05
+  },
+  {
+   "s": "IPCALAB",
+   "n": "IPCA Laboratories Limited",
+   "c": 0.08,
+   "d": 67.6,
+   "p": 1927.8
+  },
+  {
+   "s": "TITAN",
+   "n": "Titan Company Limited",
+   "c": 0.06,
+   "d": 66.2,
+   "p": 4436.5
+  },
+  {
+   "s": "BAJFINANCE",
+   "n": "Bajaj Finance Limited",
+   "c": 0.02,
+   "d": 66.7,
+   "p": 939.1
   },
   {
    "s": "HFCL",
@@ -374,214 +164,432 @@
    "p": 0.0
   },
   {
-   "s": "IDFCFIRSTB",
-   "n": "IDFC First Bank Limited",
-   "c": -0.2,
-   "d": 62.1,
-   "p": 73.38
+   "s": "BEL",
+   "n": "Bharat Electronics Limited",
+   "c": -0.03,
+   "d": 47.4,
+   "p": 369.9
   },
   {
-   "s": "IPCALAB",
-   "n": "IPCA Laboratories Limited",
-   "c": -0.22,
-   "d": 52.2,
-   "p": 1926.2
+   "s": "SBIFUNDS",
+   "n": "SBI Funds Management Limited",
+   "c": -0.06,
+   "d": 61.5,
+   "p": 468.2
   },
   {
    "s": "ANTHEM",
    "n": "Anthem Biosciences Limited",
-   "c": -0.24,
-   "d": 53.6,
-   "p": 830.15
-  },
-  {
-   "s": "HDFCBANK",
-   "n": "HDFC Bank Limited",
-   "c": -0.29,
-   "d": 57.8,
-   "p": 683.3
-  },
-  {
-   "s": "IDEAFORGE",
-   "n": "Ideaforge Technology Limited",
-   "c": -0.35,
-   "d": 44.7,
-   "p": 676.4
-  },
-  {
-   "s": "TECHM",
-   "n": "Tech Mahindra Limited",
-   "c": -0.39,
-   "d": 66.3,
-   "p": 1769.6
-  },
-  {
-   "s": "BHARTIHEXA",
-   "n": "Bharti Hexacom Limited",
-   "c": -0.48,
-   "d": 47.3,
-   "p": 1657.4
-  },
-  {
-   "s": "LGEINDIA",
-   "n": "LG Electronics India Limited",
-   "c": -0.53,
-   "d": 52.8,
-   "p": 1681.6
-  },
-  {
-   "s": "EMCURE",
-   "n": "Emcure Pharmaceuticals Limited",
-   "c": -0.53,
+   "c": -0.16,
    "d": 53.0,
-   "p": 1865.0
+   "p": 828.8
   },
   {
-   "s": "BUILDPRO",
-   "n": "Shankara Buildpro Limited",
-   "c": -0.59,
-   "d": 66.5,
-   "p": 218.9
+   "s": "IOC",
+   "n": "Indian Oil Corporation Limited",
+   "c": -0.2,
+   "d": 53.6,
+   "p": 130.15
+  },
+  {
+   "s": "RELIANCE",
+   "n": "Reliance Industries Limited",
+   "c": -0.21,
+   "d": 54.7,
+   "p": 1164.9
   },
   {
    "s": "HDBFS",
    "n": "HDB Financial Services Limited",
-   "c": -0.7,
-   "d": 51.6,
-   "p": 499.6
+   "c": -0.21,
+   "d": 59.7,
+   "p": 498.55
   },
   {
-   "s": "DEEPAKNTR",
-   "n": "Deepak Nitrite Limited",
-   "c": -0.81,
-   "d": 51.8,
-   "p": 1476.4
+   "s": "TMPV",
+   "n": "Tata Motors Passenger Vehicles Limited",
+   "c": -0.23,
+   "d": 52.5,
+   "p": 265.4
   },
   {
-   "s": "SBILIFE",
-   "n": "SBI Life Insurance Company Limited",
-   "c": -0.88,
-   "d": 58.9,
-   "p": 1652.0
+   "s": "BAJAJHFL",
+   "n": "Bajaj Housing Finance Limited",
+   "c": -0.64,
+   "d": 56.8,
+   "p": 77.42
+  },
+  {
+   "s": "PNB",
+   "n": "Punjab National Bank",
+   "c": -0.85,
+   "d": 48.5,
+   "p": 122.85
+  },
+  {
+   "s": "TMCV",
+   "n": "Tata Motors Limited",
+   "c": -0.99,
+   "d": 57.1,
+   "p": 396.35
+  },
+  {
+   "s": "NYKAA",
+   "n": "FSN E-Commerce Ventures Limited",
+   "c": -1.01,
+   "d": 52.1,
+   "p": 349.35
+  },
+  {
+   "s": "SBIN",
+   "n": "State Bank of India",
+   "c": -1.03,
+   "d": 62.9,
+   "p": 961.85
+  },
+  {
+   "s": "COALINDIA",
+   "n": "Coal India Limited",
+   "c": -1.04,
+   "d": 48.7,
+   "p": 389.0
+  },
+  {
+   "s": "LGEINDIA",
+   "n": "LG Electronics India Limited",
+   "c": -1.2,
+   "d": 60.2,
+   "p": 1661.4
+  },
+  {
+   "s": "JIOFIN",
+   "n": "Jio Financial Services Limited",
+   "c": -1.21,
+   "d": 43.7,
+   "p": 204.5
+  },
+  {
+   "s": "ITCHOTELS",
+   "n": "ITC Hotels Limited",
+   "c": -1.27,
+   "d": 48.2,
+   "p": 167.17
   },
   {
    "s": "ICICIAMC",
    "n": "ICICI Prudential Asset Management Compan",
-   "c": -1.68,
-   "d": 59.0,
-   "p": 2741.9
+   "c": -1.28,
+   "d": 62.2,
+   "p": 2706.9
   },
   {
-   "s": "TRENT",
-   "n": "Trent Limited",
-   "c": -1.79,
-   "d": 30.7,
-   "p": 2861.7
+   "s": "BHARTIHEXA",
+   "n": "Bharti Hexacom Limited",
+   "c": -1.28,
+   "d": 49.0,
+   "p": 1636.2
+  },
+  {
+   "s": "AARTIIND",
+   "n": "Aarti Industries Limited",
+   "c": -1.43,
+   "d": 34.0,
+   "p": 435.75
+  },
+  {
+   "s": "CDSL",
+   "n": "Central Depository Services (India) Limi",
+   "c": -1.48,
+   "d": 31.1,
+   "p": 1263.0
+  },
+  {
+   "s": "IREDA",
+   "n": "Indian Renewable Energy Development Agen",
+   "c": -1.68,
+   "d": 37.6,
+   "p": 99.5
+  },
+  {
+   "s": "ABDL",
+   "n": "Allied Blenders and Distillers Limited",
+   "c": -1.68,
+   "d": 53.1,
+   "p": 698.25
+  },
+  {
+   "s": "IRCTC",
+   "n": "Indian Railway Catering And Tourism Corp",
+   "c": -1.77,
+   "d": 59.4,
+   "p": 436.2
+  },
+  {
+   "s": "TATATECH",
+   "n": "Tata Technologies Limited",
+   "c": -1.8,
+   "d": 35.8,
+   "p": 647.1
+  },
+  {
+   "s": "IDFCFIRSTB",
+   "n": "IDFC First Bank Limited",
+   "c": -1.88,
+   "d": 56.9,
+   "p": 72.0
   },
   {
    "s": "INDIASHLTR",
    "n": "India Shelter Finance Corporation Limite",
-   "c": -2.77,
-   "d": 48.2,
-   "p": 627.7
+   "c": -1.91,
+   "d": 49.1,
+   "p": 615.7
+  },
+  {
+   "s": "ZENTEC",
+   "n": "Zen Technologies Limited",
+   "c": -2.05,
+   "d": 51.2,
+   "p": 1588.4
+  },
+  {
+   "s": "IGIL",
+   "n": "International Gemological Institute Limi",
+   "c": -2.22,
+   "d": 46.1,
+   "p": 397.75
+  },
+  {
+   "s": "IDEA",
+   "n": "Vodafone Idea Limited",
+   "c": -2.39,
+   "d": 29.0,
+   "p": 11.83
+  },
+  {
+   "s": "HINDCOPPER",
+   "n": "Hindustan Copper Limited",
+   "c": -2.78,
+   "d": 49.0,
+   "p": 400.85
+  },
+  {
+   "s": "MARKSANS",
+   "n": "Marksans Pharma Limited",
+   "c": -2.9,
+   "d": 44.2,
+   "p": 306.2
+  },
+  {
+   "s": "ROUTE",
+   "n": "ROUTE MOBILE LIMITED",
+   "c": -3.08,
+   "d": 48.7,
+   "p": 438.65
+  },
+  {
+   "s": "MAZDOCK",
+   "n": "Mazagon Dock Shipbuilders Limited",
+   "c": -3.26,
+   "d": 31.2,
+   "p": 1705.3
+  },
+  {
+   "s": "BDL",
+   "n": "Bharat Dynamics Limited",
+   "c": -3.66,
+   "d": 35.4,
+   "p": 974.0
+  },
+  {
+   "s": "PATANJALI",
+   "n": "Patanjali Foods Limited",
+   "c": -3.68,
+   "d": 47.7,
+   "p": 364.85
   },
   {
    "s": "MOSCHIP",
    "n": "Moschip Technologies Limited",
-   "c": -8.18,
-   "d": 33.5,
-   "p": 157.97
+   "c": -3.68,
+   "d": 40.5,
+   "p": 152.15
+  },
+  {
+   "s": "IOLCP",
+   "n": "IOL Chemicals and Pharmaceuticals Limite",
+   "c": -3.94,
+   "d": 34.0,
+   "p": 177.65
+  },
+  {
+   "s": "SHAKTIPUMP",
+   "n": "Shakti Pumps (India) Limited",
+   "c": -4.02,
+   "d": 48.8,
+   "p": 353.65
+  },
+  {
+   "s": "IEX",
+   "n": "Indian Energy Exchange Limited",
+   "c": -4.22,
+   "d": 45.4,
+   "p": 100.9
+  },
+  {
+   "s": "DIXON",
+   "n": "Dixon Technologies (India) Limited",
+   "c": -4.25,
+   "d": 33.7,
+   "p": 11000.0
+  },
+  {
+   "s": "SWIGGY",
+   "n": "Swiggy Limited",
+   "c": -4.67,
+   "d": 41.1,
+   "p": 176.6
+  },
+  {
+   "s": "VBL",
+   "n": "Varun Beverages Limited",
+   "c": -5.5,
+   "d": 32.9,
+   "p": 392.0
+  },
+  {
+   "s": "AARTIPHARM",
+   "n": "Aarti Pharmalabs Limited",
+   "c": -5.92,
+   "d": 39.8,
+   "p": 872.7
+  },
+  {
+   "s": "PARAS",
+   "n": "Paras Defence and Space Technologies Lim",
+   "c": -6.02,
+   "d": 33.3,
+   "p": 1249.7
+  },
+  {
+   "s": "CAMS",
+   "n": "Computer Age Management Services Limited",
+   "c": -6.22,
+   "d": 56.2,
+   "p": 653.6
+  },
+  {
+   "s": "IDEAFORGE",
+   "n": "Ideaforge Technology Limited",
+   "c": -7.08,
+   "d": 49.9,
+   "p": 628.5
+  },
+  {
+   "s": "BUILDPRO",
+   "n": "Shankara Buildpro Limited",
+   "c": -19.96,
+   "d": 59.0,
+   "p": 175.2
   }
  ],
  "watch": [
   {
    "s": "FIEMIND",
    "n": "Fiem Industries Limited",
-   "c": 3.14,
-   "d": 44.1,
-   "p": 1716.6
-  },
-  {
-   "s": "KIRLPNU",
-   "n": "Kirloskar Pneumatic Company Limited",
-   "c": 2.5,
-   "d": 58.1,
-   "p": 556.45
-  },
-  {
-   "s": "KRBL",
-   "n": "KRBL Limited",
-   "c": 1.55,
-   "d": 50.1,
-   "p": 356.1
-  },
-  {
-   "s": "HSCL",
-   "n": "Himadri Speciality Chemical Limited",
-   "c": 1.07,
-   "d": 34.2,
-   "p": 536.25
-  },
-  {
-   "s": "THERMAX",
-   "n": "Thermax Limited",
-   "c": 0.4,
-   "d": 82.3,
-   "p": 3193.1
-  },
-  {
-   "s": "UNIPARTS",
-   "n": "Uniparts India Limited",
-   "c": 0.22,
-   "d": 49.4,
-   "p": 720.15
-  },
-  {
-   "s": "ANANTRAJ",
-   "n": "Anant Raj Limited",
-   "c": 0.02,
-   "d": 40.9,
-   "p": 463.95
+   "c": -1.41,
+   "d": 54.4,
+   "p": 1692.4
   },
   {
    "s": "NEPHROPLUS",
    "n": "Nephrocare Health Services Limited",
-   "c": 0.02,
-   "d": 46.1,
-   "p": 628.55
+   "c": -2.23,
+   "d": 46.0,
+   "p": 614.55
+  },
+  {
+   "s": "THERMAX",
+   "n": "Thermax Limited",
+   "c": -2.53,
+   "d": 59.2,
+   "p": 3112.2
+  },
+  {
+   "s": "UNIPARTS",
+   "n": "Uniparts India Limited",
+   "c": -2.61,
+   "d": 66.3,
+   "p": 701.35
+  },
+  {
+   "s": "KRBL",
+   "n": "KRBL Limited",
+   "c": -3.1,
+   "d": 59.2,
+   "p": 345.05
+  },
+  {
+   "s": "KIRLPNU",
+   "n": "Kirloskar Pneumatic Company Limited",
+   "c": -3.23,
+   "d": 61.3,
+   "p": 538.45
+  },
+  {
+   "s": "ANANTRAJ",
+   "n": "Anant Raj Limited",
+   "c": -3.59,
+   "d": 49.5,
+   "p": 447.3
   },
   {
    "s": "NETWEB",
    "n": "Netweb Technologies India Limited",
-   "c": -0.38,
-   "d": 20.8,
-   "p": 4387.0
+   "c": -4.89,
+   "d": 27.5,
+   "p": 4172.6
+  },
+  {
+   "s": "HSCL",
+   "n": "Himadri Speciality Chemical Limited",
+   "c": -5.04,
+   "d": 44.6,
+   "p": 509.2
   }
  ],
  "perf": {
   "n": 76,
-  "day": 1.1,
-  "overall": 18.38
+  "day": -1.09,
+  "overall": 17.2
  },
  "wperf": {
   "n": 9,
-  "day": 0.95
+  "day": -3.18
  },
  "mf": [
   {
    "who": "KB",
-   "overall": 46.62,
-   "day": 0.0,
+   "overall": 45.98,
+   "day": -0.44,
    "funds": 10
   },
   {
    "who": "PT",
-   "overall": 26.45,
-   "day": 0.29,
+   "overall": 25.99,
+   "day": -0.38,
    "funds": 8
   }
  ],
  "digests": [
+  {
+   "s": "ICICIAMC",
+   "n": "ICICI Prudential Asset Management Compan",
+   "cat": "Change in Management",
+   "when": "2026-10-30 19:15",
+   "sent": "neutral",
+   "txt": "**1. Single Most Important Fact**  \nThe Board of Directors approved the appointment of Mr. Chockalingam Narayanan (currently Head \u2013 Equities Alternates) as Senior Management Personnel (SMP) under the Alternates division (primarily for investments in equity securities), effective November 13, 2026.\n\n**2. Key Numbers**  \n* None stated in this document (routine management appointment filing under Regulation 30).\n\n**3. Management Guidance or Forward Outlook**  \n* No forward-looking statements or financial guidance are provided.\n\n**4. What a Shareholder Should Watch or Act On**  \n* **No action required.** Shareholders should note that Mr. Narayanan has been with the AMC since July 2022 managing PMS and AIF equity portfolios; this filing designates him as key Senior Management Personnel.\n\n**5. One-Line Net Read**  \n* **Neutral**: Routine internal designation/elevation of an existing senior fund manager to designated Senior Management Personnel status, having no direct short-term financial impact."
+  },
   {
    "s": "DEEPAKNTR",
    "n": "Deepak Nitrite Limited",
@@ -599,314 +607,257 @@
    "txt": "### 1. The Single Most Important Fact\nCoal India declared a **2nd Interim Dividend of \u20b910.25 per equity share** (102.50% on face value of \u20b910) for FY 2026\u201327, with a **Record Date of November 4, 2026**, alongside a 57.1% YoY increase in Consolidated PAT for Q2 to \u20b96,547.43 crore.\n\n---\n\n### 2. Key Headline Numbers (Consolidated)\n*(All amounts in \u20b9 crore, except per-share data; deltas not explicitly calculated in the filing)*\n\n| Metric | Q2 Ended 30.09.2026 (Unaudited) | Q1 Ended 30.06.2026 (Unaudited) | Q2 Ended 30.09.2025 (Unaudited) | H1 Ended 30.09.2026 (Unaudited) | H1 Ended 30.09.2025 (Unaudited) |\n| :--- | :---: | :---: | :---: | :---: | :---: |\n| **Revenue from Operations** | 44,178.74 | 46,254.80 | 36,553.07 | 90,433.54 | 79,472.27 |\n| **Other Income** | 2,653.99 | 2,040.47 | 2,140.46 | 4,694.46 | 3,756.32 |\n| **Total Income** | 46,832.73 | 48,295.27 | 38,693.53 | 95,128.00 | 83,228.59 |\n| **Total Expenses** | 38,398.44 | 36,816.23 | 32,911.09 | 75,214.67 | 65,814.28 |\n| **Profit Before Tax (PBT)** | 8,728.30 | 11,719.36 | 5,991.72 | 20,447.66 | 17,767.81 |\n| **Net Profit (PAT) for the Period** | 6,547.43 | 8,849.81 | 4,167.18 | 15,397.24 | 12,955.02 |\n| **PAT Attributable to Owners** | 6,516.09 | 8,852.11 | 4,258.82 | 15,368.20 | 13,055.87 |\n| **Basic & Diluted EPS (\u20b9)** | 10.57 | 14.36 | 6.91 | 24.94 | 21.19 |\n\n*Standalone Highlights for Q2 (ended 30.09.2026):* Revenue from Operations: \u20b9304.60 crore; PAT: \u20b98,967.72 crore (supported by \u20b98,914.59 crore in dividend income received from subsidiaries/JVs).\n\n---\n\n### 3. Management Guidance & Forward Statements\n* No explicit earnings or production target guidance was provided in the report.\n* **Wage Agreement Impact:** Pending finalization of National Coal Wages Agreement (NCWA-XI) for Non-Executives, an estimated provision of \u20b9499.29 crore has been recognized for the period 01.07.2026 to 30.09.2026 (Standalone: \u20b92.31 crore).\n* **Renewables Expansion:** Commissioning noted for the 100 MW solar plant at Bhadramali, Gujarat (effective April 1, 2026) and 200 MW operationalized out of a planned 300 MW solar capacity at Khavda, Gujarat (from July 2026).\n\n---\n\n### 4. What a Shareholder Should Watch or Act On\n* **Dividend Action:** Record date is **November 4, 2026**; payout will be made on or before **November 27, 2026**.\n* **KYC Mandate:** SEBI rules require electronic payout only (no physical cheques/warrants); shareholders must verify bank/KYC details with their Depository Participants.\n* **Governance Watch:** The auditor flagged non-compliance regarding the requisite number of independent directors on the Board and sub-committees (Audit & NRC), which may attract penal provisions from regulators.\n* **Subsidiary Litigation/Cess:** Subsidiary CCL deposited \u20b9420.86 crore under protest with Jharkhand State Government towards Jharkhand Mineral Bearing Land (JMBL) Cess; any potential refund will pass through to consumers.\n\n---\n\n### 5. Net Read\n**Positive**: Strong YoY growth in Consolidated Revenue (+20.9%) and PAT (+57.1%), complemented by a healthy interim dividend payout of \u20b910.25 per share."
   },
   {
-   "s": "MOSCHIP",
-   "n": "Moschip Technologies Limited",
-   "cat": "Preferential issue",
-   "when": "2026-10-28 23:14",
-   "sent": "negative",
-   "txt": "### 1. Most Important Fact\nMosChip Technologies has agreed to acquire a **73% stake in Vayavya Labs Private Limited (VLPL) for \u20b9266.71 crores** (\u20b9154.52 crores in cash via internal accruals and \u20b9112.19 crores via the preferential issue of 50,50,686 equity shares at \u20b9222.14 per share). The remaining 27% will be acquired after March 31, 2028, with valuation linked to VLPL's performance. Concurrently, MosChip reported a swing into a consolidated net loss of \u20b93,040.22 lakhs for Q2 (ended 30-Sep-2026) driven by cost escalations on a complex turnkey ASIC project.\n\n---\n\n### 2. Key Numbers (as stated in the document)\n\n#### Unaudited Consolidated Financial Results (\u20b9 in Lakhs, except EPS)\n*(Note: YoY/QoQ percentage changes are not explicitly stated in the document).*\n\n| Particulars | Quarter Ended 30-Sep-2026 | Quarter Ended 30-Jun-2026 | Quarter Ended 30-Sep-2025 | Half Year Ended 30-Sep-2026 | Half Year Ended 30-Sep-2025 | Year Ended 31-Mar-2026 |\n| :--- | :---: | :---: | :---: | :---: | :---: | :---: |\n| **Revenue from Operations** | 11,908.32 | 11,621.30 | 14,694.34 | 23,529.62 | 28,253.02 | 58,514.84 |\n| **Other Income** | 85.47 | 223.78 | 119.35 | 309.25 | 190.85 | 548.00 |\n| **Total Income** | 11,993.79 | 11,845.08 | 14,813.69 | 23,838.87 | 28,443.87 | 59,062.84 |\n| **Total Expenses** | 14,882.01 | 11,479.43 | 13,565.77 | 26,361.44 | 26,048.14 | 54,904.74 |\n| **Profit/(Loss) Before Tax** | (2,888.22) | 365.65 | 1,247.92 | (2,522.57) | 2,395.73 | 3,576.24 |\n| **Total Tax Expense** | 152.00 | 120.98 | 43.78 | 272.98 | 99.11 | 55.81 |\n| **Net Profit / (Loss) for the Period** | **(3,040.22)** | **244.67** | **1,204.14** | **(2,795.55)** | **2,296.62** | **3,520.43** |\n| **Total Comprehensive Income** | (2,986.90) | 376.35 | 1,245.83 | (2,610.55) | 2,323.61 | 3,768.33 |\n| **Basic EPS (\u20b9)** | (1.56) | 0.13 | 0.63 | (1.44) | 1.19 | 1.83 |\n| **Diluted EPS (\u20b9)** | (1.56) | 0.12 | 0.60 | (1.44) | 1.13 | 1.75 |\n\n#### Acquisition & Target Details:\n* **Target:** Vayavya Labs Private Limited (VLPL).\n* **Consolidated Turnover of VLPL:** \n  * FY 2025\u201326: \u20b982.71 crores (or \u20b982.7 crores)\n  * FY 2024\u201325: \u20b964.4 crores\n  * FY 2023\u201324: \u20b955.5 crores\n* **Consideration:** \u20b9266.71 crores total for 73% (\u20b9154.52 crores cash, \u20b9112.19 crores via swap shares).\n* **Swap Shares Issue Price:** \u20b9222.14 per equity share (50,50,686 shares representing 2.52% post-preferential allotment).\n\n---\n\n### 3. Management Guidance, Outlook, or Forward Statements\n* **Turnkey ASIC Project Cost Impact:**  \n  * *\"During the quarter, the Company incurred additional costs on a high complex turnkey ASIC project that is at an advanced stage of execution. These include cost escalations which are beyond control of the Company and costs related to scope upgrades requested by the customer. The Company is in active discussions with the customer for reimbursement of costs related to scope upgrades.\"*\n  * *\"Handling such a high complex turnkey ASIC project strengthens the Company in turnkey ASIC business in future.\"*\n* **Strategic Rationale for VLPL Acquisition:**  \n  * Significantly strengthens software-led engineering capabilities, aids top-line growth and EBITDA, helps move up the value chain in Product Engineering Solutions, and expands geographical presence.\n  * Notes that Vayavya Labs is an *\"EBITDA-accretive business with a consistent operating track record\"* and for FY 2025\u201326, *\"Vayavya\u2019s Forex revenue outpaced the INR revenue marking a significant growth opportunity that lie ahead in Global Markets.\"*\n\n---\n\n### 4. What a Shareholder Should Watch or Act On\n* **EGM on 25th November 2026:** To vote on the preferential issue of 50,50,686 equity shares (swap shares) to the selling shareholders of VLPL.\n* **Customer Reimbursement Outcome:** Follow developments on negotiations regarding cost reimbursement for the turnkey ASIC project scope upgrades.\n* **Cash Depletion:** Company is funding \u20b9154.52 crores in cash out of internal accruals for the VLPL acquisition (consolidated cash & cash equivalents stood at \u20b991.26 crores and standalone at \u20b986.27 crores as of 30-Sep-2026).\n* **Regulatory Approvals:** Approvals from stock exchanges and the Reserve Bank of India (RBI) required for closing the VLPL transaction.\n\n---\n\n### 5. Net Read\n**Negative in the short term, potentially accretive medium term:** The quarter saw a heavy swing to a net loss of \u20b930.40 crores due to cost escalations on an ASIC contract, though the acquisition of EBITDA-positive VLPL adds capabilities and scale once closed."
-  },
-  {
-   "s": "MOSCHIP",
-   "n": "Moschip Technologies Limited",
+   "s": "CAMS",
+   "n": "Computer Age Management Services Limited",
    "cat": "Outcome of Board Meeting",
-   "when": "2026-10-28 23:00",
-   "sent": "negative",
-   "txt": "### 1. Most Important Fact\nMosChip reported a sharp swing to a **consolidated net loss of \u20b93,040.22 lakhs (\u20b930.40 crore)** for Q2 ended 30 September 2026 (vs. a profit of \u20b91,204.14 lakhs in Q2 FY25), heavily impacted by additional costs and cost escalations on a complex turnkey ASIC project. Concurrently, the Board approved the **acquisition of 73% of Vayavya Labs Private Limited (\"VLPL\") for \u20b9266.71 crore** (\u20b9154.52 crore cash and \u20b9112.19 crore via a share swap of 50,50,686 shares at \u20b9222.14/share).\n\n---\n\n### 2. Key Numbers (Consolidated Financials)\n*(All amounts in \u20b9 Lakhs, except EPS; deltas not explicitly calculated in the filing)*\n\n| Particulars | Q2 Ended 30-Sep-26 (Unaudited) | Q1 Ended 30-Jun-26 (Unaudited) | Q2 Ended 30-Sep-25 (Unaudited) | H1 Ended 30-Sep-26 (Unaudited) | H1 Ended 30-Sep-25 (Unaudited) |\n| :--- | :---: | :---: | :---: | :---: | :---: |\n| **Revenue from Operations** | 11,908.32 | 11,621.30 | 14,694.34 | 23,529.62 | 28,253.02 |\n| **Total Income** | 11,993.79 | 11,845.08 | 14,813.69 | 23,838.87 | 28,443.87 |\n| **Operating Costs** | 3,498.40 | 1,075.64 | 5,132.99 | 4,574.04 | 9,536.61 |\n| **Employee Benefit Expense**| 9,450.27 | 8,921.53 | 6,886.69 | 18,371.80 | 13,774.50 |\n| **Total Expenses** | 14,882.01 | 11,479.43 | 13,565.77 | 26,361.44 | 26,048.14 |\n| **PBT (before/after exceptional)**| (2,888.22) | 365.65 | 1,247.92 | (2,522.57) | 2,395.73 |\n| **Net Profit / (Loss) for Period** | **(3,040.22)** | **244.67** | **1,204.14** | **(2,795.55)** | **2,296.62** |\n| **Total Comprehensive Income** | (2,986.90) | 376.35 | 1,245.83 | (2,610.55) | 2,323.61 |\n| **Basic EPS (\u20b9)** *(Not annualized)* | (1.56) | 0.13 | 0.63 | (1.44) | 1.19 |\n| **Diluted EPS (\u20b9)** *(Not annualized)* | (1.56) | 0.12 | 0.60 | (1.44) | 1.13 |\n\n#### Additional Key Transaction & Operational Figures:\n* **VLPL Acquisition Terms:** \u20b9266.71 crore total consideration for 73% stake (57.93% cash through internal accruals; 42.07% via swap of 50,50,686 equity shares issued at \u20b9222.14 each). Remaining 27% to be acquired after 31 March 2028 based on business performance.\n* **VLPL Turnover:** \u20b982.71 crore (FY 2025-26), \u20b964.4 crore (FY 2024-25), \u20b955.5 crore (FY 2023-24).\n* **ESOPs Granted:** 95,496 stock options granted to eligible employees.\n\n---\n\n### 3. Management Guidance and Outlook\n* **ASIC Project Cost Escalation & Recovery:** Management noted that additional costs were incurred on a complex turnkey ASIC project at an advanced execution stage due to cost escalations beyond their control and customer-requested scope upgrades. *\"The Company is in active discussions with the customer for reimbursement of costs related to scope upgrades.\"*\n* **Strategic Capability:** *\"Handling such a high complex turnkey ASIC project strengthens the Company in turkey ASIC business in future.\"*\n* **Acquisition Impact:** VLPL is described as an *\"EBITDA-accretive business\"* that strengthens software-led engineering capabilities, boosts top-line and EBITDA, and helps the company move up the value chain in Product Engineering Solutions.\n\n---\n\n### 4. What a Shareholder Should Watch or Act On\n* **EGM Vote on 25 November 2026:** To vote on the preferential allotment of 50,50,686 shares (equity dilution of ~2.52% post-allotment) for the VLPL acquisition.\n* **Reimbursement Discussions:** Progress and outcome of negotiations with the client regarding reimbursement of scope-upgrade costs on the turnkey ASIC project.\n* **Cash Outflow:** Monitor liquidity as \u20b9154.52 crore in cash will be paid from internal accruals to fund the 73% VLPL acquisition.\n\n---\n\n### 5. One-Line Net Read\n**Negative:** MosChip unexpectedly plunged into a substantial quarterly loss of \u20b930.40 crore driven by project cost escalations, which overshadows the long-term strategic potential of the VLPL acquisition."
-  },
-  {
-   "s": "AARTIPHARM",
-   "n": "Aarti Pharmalabs Limited",
-   "cat": "Outcome of Board Meeting",
-   "when": "2026-10-28 21:02",
+   "when": "2026-10-29 17:21",
    "sent": "positive",
-   "txt": "### 1. Most Important Fact\nAarti Pharmalabs reported robust Q2 FY25 consolidated results, with **revenue growing 45.9% YoY to \u20b961,045.10 lakhs** and **net profit surging 248.8% YoY to \u20b97,147.23 lakhs**, alongside the announcement of a CFO transition (resignation of Shri Piyush Lakhani and appointment of Smt. Vibha Thakkar w.e.f. October 31, 2024).\n\n---\n\n### 2. Key Numbers (Consolidated)\n*(All monetary figures in \u20b9 lakhs, except per-share data. Note: Q2 FY24 figures were restated for target redemption forward contract fair value losses).*\n\n| Metric | Q2 FY25 (30-Sep-2024) | Q1 FY25 (30-Jun-2024) | Q2 FY24 (30-Sep-2023) | YoY Delta (%) | QoQ Delta (%) | H1 FY25 (30-Sep-2024) | H1 FY24 (30-Sep-2023) |\n| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |\n| **Revenue from Operations** | 61,045.10 | 53,579.69 | 41,833.48 | +45.9% | +13.9% | 1,14,624.79 | 80,452.58 |\n| **Other Income** | 46.55 | 45.27 | 48.25 | -3.5% | +2.8% | 91.82 | 125.38 |\n| **Total Income** | 61,091.65 | 53,624.96 | 41,881.74 | +45.9% | +13.9% | 1,14,716.61 | 80,577.96 |\n| **Total Expenses** | 52,076.83 | 44,259.49 | 38,941.21 | +33.7% | +17.7% | 96,336.32 | 71,373.44 |\n| **Operating Profit before JV/Exceptional/Tax** | 9,014.83 | 9,365.47 | 2,940.53 | +206.6% | -3.7% | 18,380.29 | 9,204.52 |\n| **Exceptional Item (Stamp duty provision)** | (204.00) | \u2014 | \u2014 | N/A | N/A | (204.00) | \u2014 |\n| **Share of Profit/(Loss) from JV** | 688.18 | 740.55 | (64.25) | Turnaround | -7.1% | 1,428.73 | (243.86) |\n| **Profit Before Tax (PBT)** | 9,499.01 | 10,106.02 | 2,876.28 | +230.3% | -6.0% | 19,605.02 | 8,960.66 |\n| **Tax Expense** | 2,351.78 | 2,491.75 | 827.01 | +184.4% | -5.6% | 4,843.53 | 2,305.64 |\n| **Net Profit (PAT)** | **7,147.23** | **7,614.27** | **2,049.27** | **+248.8%** | **-6.1%** | **14,761.49** | **6,655.01** |\n| **Diluted EPS (\u20b9)** | 7.87 | 8.39 | 2.26 | +248.2% | -6.2% | 16.26 | 7.33 |\n\n*(EBITDA is not explicitly disclosed as a separate line item in the financial results).*\n\n---\n\n### 3. Management Guidance & Forward Statements\n- **None provided.** The filing consists strictly of statutory quarterly financial statements, auditor review reports, and KMP appointment/resignation disclosures.\n\n---\n\n### 4. What a Shareholder Should Watch or Act On\n1. **Gujarat Stamp Duty Dispute (Note 3):**\n   - The Collector and Additional Superintendent of Stamps, Gandhinagar, issued an order dated August 29, 2024, levying **\u20b92,500.00 lakhs in stamp duty and \u20b93,450.00 lakhs in penalties** (totaling \u20b95,950.00 lakhs) related to the demerger of the pharma undertaking from Aarti Industries.\n   - The company recognized a provision of **\u20b9204.00 lakhs** (exceptional item) and classified the remaining **\u20b95,746.00 lakhs as a contingent liability**. Aarti Pharmalabs has challenged the order via a writ petition before the Gujarat High Court (pending; no interim order).\n2. **Cash Flow & Working Capital Intensity:**\n   - Operating cash flow for H1 FY25 dropped significantly to **\u20b929.99 crore** (vs. \u20b996.52 crore in H1 FY24), weighed down by working capital absorption: inventories rose by \u20b9154.48 crore and receivables by \u20b9115.90 crore.\n   - Current borrowings increased to **\u20b9676.64 crore** as of September 30, 2024 (up from \u20b9499.82 crore as of March 31, 2024).\n3. **Leadership Change:** \n   - Exit of CFO Piyush Lakhani and onboarding of Vibha Thakkar effective October 31, 2024.\n\n---\n\n### 5. Net Read\n**Positive**: Very strong operational top-line and bottom-line expansion YoY (PAT up ~3.5x), partially tempered by a sequential profit dip (-6% QoQ), significant working-capital cash burn, and a pending \u20b957.5 crore stamp duty contingent liability."
-  },
-  {
-   "s": "PIDILITIND",
-   "n": "Pidilite Industries Limited",
-   "cat": "Outcome of Board Meeting",
-   "when": "2026-10-28 18:54",
-   "sent": "negative",
-   "txt": "### 1. The Single Most Important Fact\nFor the quarter ended September 30, 2026, Pidilite Industries reported consolidated revenue from operations of \u20b94,297.59 crore (up from \u20b93,554.44 crore in the year-ago quarter) and net profit attributable to shareholders of \u20b9614.53 crore (up from \u20b9579.23 crore in the year-ago quarter, but down from \u20b9872.41 crore in the preceding quarter).\n\n---\n\n### 2. Key Numbers Exactly as Stated\n*(Note: Percentage growth deltas are not stated in the filing; figures in \u20b9 crore)*\n\n#### **Consolidated Financial Highlights**\n| Metric | Q2 Ended 30.09.2026 (Unaudited) | Q1 Ended 30.06.2026 (Unaudited) | Q2 Ended 30.09.2025 (Unaudited) | H1 Ended 30.09.2026 (Unaudited) | H1 Ended 30.09.2025 (Unaudited) |\n|:---|---:|---:|---:|---:|---:|\n| **Revenue from Operations** | 4,297.59 | 4,551.55 | 3,554.44 | 8,849.14 | 7,307.54 |\n| **Other Income** | 64.59 | 92.00 | 50.16 | 156.59 | 135.87 |\n| **Total Income** | 4,362.18 | 4,643.55 | 3,604.60 | 9,005.73 | 7,443.41 |\n| **Total Expenses** | 3,632.87 | 3,468.29 | 2,816.94 | 7,001.16 | 5,739.51 |\n| **Profit Before Tax (PBT)** | 834.23 | 1,191.99 | 787.31 | 2,025.22 | 1,703.78 |\n| **Total Tax Expense** | 207.77 | 308.48 | 202.71 | 516.25 | 441.05 |\n| **Profit for the Period** | 626.46 | 883.51 | 584.60 | 1,509.97 | 1,262.73 |\n| **PAT (Owners of Company)** | 614.53 | 872.41 | 579.23 | 1,486.94 | 1,251.64 |\n| **Total Comprehensive Income** | 634.44 | 882.60 | 596.88 | 1,517.04 | 1,274.42 |\n| **Basic EPS (\u20b9)** | 6.04 | 8.57 | 5.69 | 14.61 | 12.30 |\n| **Diluted EPS (\u20b9)** | 6.03 | 8.55 | 5.68 | 14.58 | 12.27 |\n\n* *EBITDA and Operating Margins are not explicitly reported in the financial statements.*\n\n#### **Consolidated Segment Revenue & Results**\n* **Consumer & Bazaar (C&B):**\n  * Revenue: \u20b93,423.57 crore (vs. \u20b93,680.58 crore in Q1 2026; \u20b92,836.51 crore in Q2 2025)\n  * Segment Result: \u20b9900.13 crore (vs. \u20b91,190.53 crore in Q1 2026; \u20b9857.48 crore in Q2 2025)\n* **Business to Business (B2B):**\n  * Revenue: \u20b9912.59 crore (vs. \u20b9917.76 crore in Q1 2026; \u20b9761.31 crore in Q2 2025)\n  * Segment Result: \u20b9114.14 crore (vs. \u20b9172.75 crore in Q1 2026; \u20b9115.75 crore in Q2 2025)\n\n---\n\n### 3. Management Guidance and Outlook\n* **No forward-looking statements, earnings guidance, or commentary on business outlook** are included in this regulatory filing.\n\n---\n\n### 4. What a Shareholder Should Watch or Act On\n* **Sequential Profitability Dip:** Operating expenses rose (materials consumed at \u20b91,896.09 crore vs \u20b91,351.14 crore YoY), leading to a significant sequential decline in consolidated PAT from \u20b9872.41 crore in Q1 to \u20b9614.53 crore in Q2.\n* **Corporate Transactions / Exceptional Gain:** Wholly owned subsidiary Pidilite Ventures Private Limited transferred its entire stake in associate *BuildNext Construction Technologies Pvt Ltd* to *JSW One Platforms Limited* via a share swap, resulting in a gain of \u20b914.41 crore recognized in H1.\n* **Capital & Equity Changes:** \n  * Final dividend of \u20b911.50 per share (aggregating to \u20b91,170.46 crore) was disbursed for FY 2025\u201326 following AGM approval on August 4, 2026.\n  * Allotted 89,340 equity shares on August 21, 2026, and 660,480 equity shares on September 18, 2026, under ESOP 2016.\n  * Granted additional options for 144,270 equity shares on October 27, 2026.\n\n---\n\n### 5. One-Line Net Read\n**Neutral to slightly negative:** While year-over-year revenue expansion remains healthy (+20.9%), profit margins compressed meaningfully quarter-on-quarter, resulting in a ~29.6% sequential drop in net profit."
-  },
-  {
-   "s": "GICHSGFIN",
-   "n": "GIC Housing Finance Limited",
-   "cat": "Change in Director(s)",
-   "when": "2026-10-28 15:53",
-   "sent": "neutral",
-   "txt": "**1. The Single Most Important Fact**  \nThe Board of Directors approved the appointment of Smt. Lavanya Mundayur (DIN: 10884921), Chairman cum Managing Director of The New India Assurance Company Limited, as an Additional Director (Non-Executive Director) effective October 28, 2026, subject to shareholder approval.\n\n**2. Key Numbers**  \n*None stated.* (This is a corporate governance/director appointment disclosure; no financial figures or contract values are provided).\n\n**3. Management Guidance & Forward Statements**  \n*None stated.*\n\n**4. What a Shareholder Should Watch or Act On**  \n* Vote on the upcoming shareholder resolution required to regularize/approve her appointment as a Director.\n\n**5. One-Line Net Read**  \n**Neutral**; standard nominee board appointment by an institutional stakeholder (The New India Assurance Company Limited) with no direct financial or operational impact."
-  },
-  {
-   "s": "SBIFUNDS",
-   "n": "SBI Funds Management Limited",
-   "cat": "Outcome of Board Meeting",
-   "when": "2026-10-28 14:12",
-   "sent": "neutral",
-   "txt": "### 1. Most Important Fact\nThe Board of Directors approved the extension of the term of **M/s. Chhajed & Doshi** as the Internal Auditor of the Company for a two-year period from **April 1, 2028 to March 31, 2030**.\n\n### 2. Key Numbers\n* No financial metrics, contract values, or operating numbers are reported in this filing.\n\n### 3. Management Guidance or Forward Outlook\n* None stated in the document.\n\n### 4. What a Shareholder Should Watch or Act On\n* No action required; this is a routine administrative disclosure regarding internal audit governance.\n\n### 5. One-Line Net Read\n* **Neutral**: Standard procedural extension of the internal auditor's tenure with no operational or financial impact."
-  },
-  {
-   "s": "TITAN",
-   "n": "Titan Company Limited",
-   "cat": "Acquisition",
-   "when": "2026-10-28 13:49",
-   "sent": "neutral",
-   "txt": "**1. Single Most Important Fact**  \nTitan Company Limited has incorporated a wholly owned subsidiary in Canada named **\"Titan Company Canada Inc.\"** (incorporated on October 27, 2026) to expand its retail jewellery and lifestyle businesses overseas.\n\n---\n\n**2. Key Numbers Exactly as Stated**  \n* **Initial Share Capital / Investment Cost:** Not exceeding 5,000 Canadian Dollars (CAD) to be subscribed in cash.  \n* **Shareholding / Control:** 100%.  \n* **Turnover / Financials (Revenue, EBITDA, PAT):** \"Not Applicable since it is a newly incorporated company.\"  \n\n---\n\n**3. Management Guidance, Outlook, or Forward Statements**  \n* The subsidiary has been incorporated with the specific objective of *\"carrying on business of Jewellery retailing & other lifestyle businesses\"* in Canada. No revenue targets, operational timeline, or capital expenditure commitments were disclosed.\n\n---\n\n**4. What a Shareholder Should Watch or Act On**  \n* **Watch:** Follow-on capital infusions, operational store rollouts (e.g., Tanishq showroom launches), and international revenue contributions from the Canadian market.  \n* **Action:** None required; this is a standard corporate setup/intimation.\n\n---\n\n**5. One-Line Net Read**  \n**Neutral:** Procedural incorporation of an overseas subsidiary with a nominal initial capital commitment (CAD 5,000); material business impact depends on future capital deployment and store rollouts."
-  },
-  {
-   "s": "INDIASHLTR",
-   "n": "India Shelter Finance Corporation Limite",
-   "cat": "Credit Rating",
-   "when": "2026-10-28 13:25",
-   "sent": "neutral",
-   "txt": "**1. Single Most Important Fact**\nCARE Ratings Limited has reaffirmed the credit rating of **\"CARE AAA (SO)\"** for the Series A1 Pass-Through Certificates (PTCs) issued by Sadan 10 2024, backed by home loan receivables originated by India Shelter Finance Corporation Limited.\n\n---\n\n**2. Key Numbers Exactly as Stated**\n* **Instrument Amount:** \u20b987.46 crore  \n* **Outstanding Amount:** \u20b965.27 crore *(after September payout)*  \n* **Rating Assigned / Reaffirmed:** CARE AAA (SO)  \n*(Note: Financial performance metrics such as revenue, EBITDA, and PAT are not part of this rating disclosure.)*\n\n---\n\n**3. Management Guidance / Forward-Looking Statements**\n* None included in the document.\n\n---\n\n**4. What a Shareholder Should Watch or Act On**\n* No immediate action required. This is a routine operational reaffirmation demonstrating continued strong credit enhancement and stable collection performance of the company's securitized home loan receivables.\n\n---\n\n**5. One-Line Net Read**\n* **Neutral**: A routine reaffirmation of the highest rating (AAA [SO]) on securitized paper, confirming expected, stable asset quality with no material impact on near-term stock performance."
+   "txt": "### 1. Most Important Fact\nThe Board approved the unaudited financial results for the quarter and half-year ended September 30, 2026, and declared an **Interim Dividend of Rs. 3.25 per equity share** (face value Rs. 2/-) with a record date of November 13, 2026.\n\n---\n\n### 2. Key Numbers (Consolidated)\n*(The filing presents figures in \u20b9 lakhs; explicit percentage YoY/QoQ deltas are not stated in the document)*\n\n| Metric (\u20b9 in Lakhs) | Quarter Ended Sep 30, 2026 | Quarter Ended Jun 30, 2026 | Quarter Ended Sep 30, 2025 | Half Year Ended Sep 30, 2026 | Half Year Ended Sep 30, 2025 |\n| :--- | :---: | :---: | :---: | :---: | :---: |\n| **Revenue from Operations** | 41,446.57 | 39,502.95 | 37,673.79 | 80,949.52 | 73,088.98 |\n| **Other Income** | 1,369.13 | 1,658.17 | 1,220.18 | 3,027.30 | 2,534.96 |\n| **Total Revenue** | 42,815.70 | 41,161.12 | 38,893.97 | 83,976.82 | 75,623.94 |\n| **Total Expenses** | 25,363.88 | 23,831.82 | 23,552.78 | 49,195.70 | 45,818.00 |\n| **Profit Before Tax (PBT)** | 17,426.07 | 17,304.80 | 15,336.89 | 34,730.87 | 29,775.94 |\n| **Net Profit (PAT) for the period** | 13,066.27 | 12,709.52 | 11,393.59 | 25,775.79 | 22,197.71 |\n| *\u2014 Attributable to owners of Company* | 13,149.22 | 12,801.59 | 11,494.31 | 25,950.81 | 22,403.36 |\n| **Basic EPS (\u20b9)** *(not annualised)* | 5.30 | 5.16 | 4.65 | 10.46 | 9.06 |\n| **Diluted EPS (\u20b9)** *(not annualised)* | 5.27 | 5.14 | 4.62 | 10.41 | 9.00 |\n\n*(Standalone Q2 PAT stood at \u20b912,232.38 lakhs on Revenue from Operations of \u20b936,646.30 lakhs).*\n\n---\n\n### 3. Management Guidance & Forward Statements\n* None provided in this filing.\n\n---\n\n### 4. What a Shareholder Should Watch or Act On\n* **Dividend Timelines:** \n  * **Interim Dividend:** Rs. 3.25 per share.\n  * **Record Date:** November 13, 2026.\n  * **Payment Date:** On or before November 27, 2026.\n* **ESOP Allotment:** 4,33,880 equity shares were allotted during the half-year under the ESOP Scheme 2019 (no new grants issued during the period).\n\n---\n\n### 5. Net Read\n**Positive.** The company delivered steady sequential and year-on-year growth across consolidated operational revenue and net profit, paired with an interim dividend announcement."
   }
  ],
  "movers": {
   "gainers": [
    {
-    "s": "UTTAMSUGAR",
-    "n": "Uttam Sugar Mills Limited",
-    "c": 14.24,
-    "d": 26.5,
-    "p": 360.7
+    "s": "BOROLTD",
+    "n": "Borosil Limited",
+    "c": 19.98,
+    "d": 7.2,
+    "p": 286.4
    },
    {
-    "s": "NILKAMAL",
-    "n": "Nilkamal Limited",
-    "c": 13.63,
-    "d": 19.2,
-    "p": 2003.9
+    "s": "JISLJALEQS",
+    "n": "Jain Irrigation Systems Limited",
+    "c": 19.87,
+    "d": 8.6,
+    "p": 28.47
    },
    {
-    "s": "APOLLOPIPE",
-    "n": "Apollo Pipes Limited",
-    "c": 12.96,
-    "d": 16.3,
-    "p": 544.25
+    "s": "MARSONS",
+    "n": "Marsons Limited",
+    "c": 19.81,
+    "d": 19.3,
+    "p": 148.62
    },
    {
-    "s": "SGFIN",
-    "n": "SG Finserve Limited",
-    "c": 12.83,
-    "d": 38.8,
-    "p": 734.95
+    "s": "VEDPOWER",
+    "n": "Vedanta Power Limited",
+    "c": 14.72,
+    "d": 13.8,
+    "p": 33.13
    },
    {
-    "s": "BSOFT",
-    "n": "BIRLASOFT LIMITED",
-    "c": 11.89,
+    "s": "DHANUKA",
+    "n": "Dhanuka Agritech Limited",
+    "c": 12.03,
+    "d": 5.0,
+    "p": 980.15
+   },
+   {
+    "s": "MENONBE",
+    "n": "Menon Bearings Limited",
+    "c": 9.45,
     "d": 8.5,
-    "p": 342.5
+    "p": 276.2
    },
    {
-    "s": "OPTIEMUS",
-    "n": "Optiemus Infracom Limited",
-    "c": 11.7,
-    "d": 41.2,
-    "p": 821.7
+    "s": "VOGL",
+    "n": "Vedanta Oil and Gas Limited",
+    "c": 8.51,
+    "d": 13.0,
+    "p": 30.23
    },
    {
-    "s": "MANAKCOAT",
-    "n": "Manaksia Coated Metals & Industr",
-    "c": 11.54,
-    "d": 29.7,
-    "p": 147.84
+    "s": "TONBO",
+    "n": "Tonbo Imaging India Limited",
+    "c": 7.88,
+    "d": 8.0,
+    "p": 1304.4
    },
    {
-    "s": "CNL",
-    "n": "Creative Newtech Limited",
-    "c": 11.15,
-    "d": 31.9,
-    "p": 1202.4
+    "s": "GRPLTD",
+    "n": "GRP Limited",
+    "c": 7.75,
+    "d": 80.2,
+    "p": 1928.7
    },
    {
-    "s": "GNRL",
-    "n": "Gujarat Natural Resources Limite",
-    "c": 10.61,
-    "d": 23.9,
-    "p": 97.7
-   },
-   {
-    "s": "UNITECH",
-    "n": "Unitech Limited",
-    "c": 10.14,
-    "d": 32.4,
-    "p": 4.02
+    "s": "GREENPOWER",
+    "n": "Orient Green Power Company Limit",
+    "c": 7.67,
+    "d": 22.5,
+    "p": 8.98
    }
   ],
   "losers": [
    {
-    "s": "VAIBHAVGBL",
-    "n": "Vaibhav Global Limited",
-    "c": -15.72,
-    "d": 38.3,
-    "p": 158.3
+    "s": "BUILDPRO",
+    "n": "Shankara Buildpro Limited",
+    "c": -19.96,
+    "d": 59.0,
+    "p": 175.2
    },
    {
-    "s": "EQUITASBNK",
-    "n": "Equitas Small Finance Bank Limit",
-    "c": -12.22,
-    "d": 41.5,
-    "p": 57.17
+    "s": "INTELLECT",
+    "n": "Intellect Design Arena Limited",
+    "c": -16.31,
+    "d": 29.9,
+    "p": 504.55
    },
    {
-    "s": "ECLERX",
-    "n": "eClerx Services Limited",
-    "c": -11.02,
-    "d": 26.3,
-    "p": 1660.6
+    "s": "NIITMTS",
+    "n": "NIIT Learning Systems Limited",
+    "c": -15.1,
+    "d": 37.7,
+    "p": 159.79
    },
    {
-    "s": "AGI",
-    "n": "AGI Greenpac Limited",
-    "c": -9.1,
-    "d": 39.8,
-    "p": 653.15
+    "s": "RPGLIFE",
+    "n": "RPG Life Sciences Limited",
+    "c": -14.25,
+    "d": 23.6,
+    "p": 2575.7
    },
    {
-    "s": "LINCOLN",
-    "n": "Lincoln Pharmaceuticals Limited",
-    "c": -8.64,
-    "d": 19.1,
-    "p": 509.9
+    "s": "TTKHLTCARE",
+    "n": "TTK Healthcare Limited",
+    "c": -13.71,
+    "d": 16.4,
+    "p": 905.3
    },
    {
-    "s": "TTML",
-    "n": "Tata Teleservices (Maharashtra) ",
-    "c": -8.31,
-    "d": 17.1,
-    "p": 35.97
+    "s": "HUHTAMAKI",
+    "n": "Huhtamaki India Limited",
+    "c": -13.49,
+    "d": 32.5,
+    "p": 207.07
    },
    {
-    "s": "MOSCHIP",
-    "n": "Moschip Technologies Limited",
-    "c": -8.18,
-    "d": 33.5,
-    "p": 157.97
+    "s": "SPORTKING",
+    "n": "Sportking India Limited",
+    "c": -12.72,
+    "d": 20.1,
+    "p": 187.52
    },
    {
-    "s": "SENORES",
-    "n": "Senores Pharmaceuticals Limited",
-    "c": -7.94,
-    "d": 32.0,
-    "p": 1219.2
+    "s": "CONFIPET",
+    "n": "Confidence Petroleum India Limit",
+    "c": -11.88,
+    "d": 50.6,
+    "p": 59.57
    },
    {
-    "s": "GOODLUCK",
-    "n": "Goodluck India Limited",
-    "c": -7.78,
-    "d": 39.9,
-    "p": 508.5
+    "s": "THYROCARE",
+    "n": "Thyrocare Technologies Limited",
+    "c": -11.48,
+    "d": 40.9,
+    "p": 456.3
    },
    {
-    "s": "BETA",
-    "n": "Beta Drugs Limited",
-    "c": -6.43,
-    "d": 45.8,
-    "p": 1849.7
+    "s": "EPACK",
+    "n": "EPACK Durable Limited",
+    "c": -11.12,
+    "d": 17.4,
+    "p": 154.75
    }
   ],
   "delivery": [
    {
-    "s": "BENGALASM",
-    "n": "Bengal & Assam Company Limited",
-    "c": -0.95,
+    "s": "DISAQ",
+    "n": "Disa India Limited",
+    "c": -2.2,
     "d": 100.0,
-    "p": 5695.0
-   },
-   {
-    "s": "ONIXSOLAR",
-    "n": "Onix Solar Energy Limited",
-    "c": 4.99,
-    "d": 100.0,
-    "p": 323.0
-   },
-   {
-    "s": "BNAGROCHEM",
-    "n": "BN Agrochem Limited",
-    "c": -4.99,
-    "d": 100.0,
-    "p": 111.15
+    "p": 11201.0
    },
    {
     "s": "BENARAS",
     "n": "Benares Hotels Limited",
-    "c": 0.02,
-    "d": 98.8,
-    "p": 10202.0
+    "c": -0.02,
+    "d": 100.0,
+    "p": 10200.0
+   },
+   {
+    "s": "INDPRUD",
+    "n": "Industrial & Prudential Investme",
+    "c": -2.45,
+    "d": 100.0,
+    "p": 6000.0
+   },
+   {
+    "s": "ONIXSOLAR",
+    "n": "Onix Solar Energy Limited",
+    "c": 5.0,
+    "d": 99.4,
+    "p": 339.15
    },
    {
     "s": "AKCAPIT",
     "n": "AK Capital Services Limited",
-    "c": -1.39,
-    "d": 96.7,
-    "p": 1730.0
+    "c": -0.28,
+    "d": 99.0,
+    "p": 1725.1
    },
    {
-    "s": "VHL",
-    "n": "Vardhman Holdings Limited",
-    "c": 0.37,
-    "d": 92.3,
-    "p": 3471.7
+    "s": "ELPROINTL",
+    "n": "Elpro International Limited",
+    "c": 2.73,
+    "d": 98.2,
+    "p": 169.56
    },
    {
-    "s": "NIRLON",
-    "n": "Nirlon Limited",
-    "c": -0.29,
-    "d": 90.2,
-    "p": 630.55
+    "s": "KRN",
+    "n": "KRN Heat Exchanger and Refrigera",
+    "c": -4.99,
+    "d": 96.3,
+    "p": 1147.2
+   },
+   {
+    "s": "SINDHUTRAD",
+    "n": "Sindhu Trade Links Limited",
+    "c": -1.76,
+    "d": 95.6,
+    "p": 19.49
+   },
+   {
+    "s": "MMFL",
+    "n": "MM Forgings Limited",
+    "c": -2.26,
+    "d": 92.8,
+    "p": 482.9
    },
    {
     "s": "JINDALPHOT",
     "n": "Jindal Photo Limited",
-    "c": 0.63,
-    "d": 88.7,
-    "p": 1130.4
-   },
-   {
-    "s": "TEAMLEASE",
-    "n": "Teamlease Services Limited",
-    "c": -0.78,
-    "d": 88.3,
-    "p": 1039.6
-   },
-   {
-    "s": "KAPSTON",
-    "n": "Kapston Services Limited",
-    "c": -1.85,
-    "d": 88.1,
-    "p": 498.7
+    "c": 0.66,
+    "d": 89.6,
+    "p": 1137.9
    }
   ]
  },
  "fiidii": [
   {
    "cat": "DII",
-   "date": "29-Oct-2026",
-   "net": "1924.41",
-   "buy": "18458.64",
-   "sell": "16534.23"
+   "date": "30-Oct-2026",
+   "net": "-817.51",
+   "buy": "16643.55",
+   "sell": "17461.06"
   },
   {
    "cat": "FII/FPI",
-   "date": "29-Oct-2026",
-   "net": "-943.6",
-   "buy": "13400.29",
-   "sell": "14343.89"
+   "date": "30-Oct-2026",
+   "net": "3598.54",
+   "buy": "20564.02",
+   "sell": "16965.48"
   }
  ],
  "pcr": {
   "NIFTY": {
-   "all": 1.308,
-   "all_prev": 1.072,
-   "vol": 0.944,
-   "near": 1.441,
+   "all": 1.419,
+   "all_prev": 1.308,
+   "vol": 0.993,
+   "near": 1.624,
    "near_exp": "2026-11-03",
-   "near_prev": 1.044,
+   "near_prev": 1.441,
    "series": [
-    0.961,
     0.987,
     1.062,
     1.203,
@@ -935,18 +886,18 @@
     1.113,
     1.046,
     1.072,
-    1.308
+    1.308,
+    1.419
    ]
   },
   "BANKNIFTY": {
-   "all": 0.978,
-   "all_prev": 0.951,
-   "vol": 0.874,
-   "near": 0.97,
+   "all": 0.965,
+   "all_prev": 0.978,
+   "vol": 0.978,
+   "near": 0.954,
    "near_exp": "2026-11-23",
-   "near_prev": 0.935,
+   "near_prev": 0.97,
    "series": [
-    0.883,
     0.841,
     0.914,
     0.934,
@@ -975,210 +926,211 @@
     0.834,
     0.663,
     0.951,
-    0.978
+    0.978,
+    0.965
    ]
   },
-  "date": "2026-10-29"
+  "date": "2026-10-30"
  },
  "flows": [
   {
-   "s": "IIFLCAPS",
+   "s": "SWIGGY",
    "kind": "bulk",
-   "who": "THELEME INDIA MASTER FUND LIMITED",
+   "who": "TENCENT CLOUD EUROPE B.V.",
    "bs": "SELL",
-   "qty": 3124131,
-   "px": 348.01,
-   "val": 108.72,
-   "mine": false
+   "qty": 54347662,
+   "px": 180.65,
+   "val": 981.79,
+   "mine": true
   },
   {
-   "s": "PCJEWELLER",
-   "kind": "bulk",
-   "who": "JUMP TRADING FINANCIAL INDIA PRIVATE L",
-   "bs": "BUY",
-   "qty": 56805595,
-   "px": 16.01,
-   "val": 90.95,
-   "mine": false
-  },
-  {
-   "s": "PCJEWELLER",
-   "kind": "bulk",
-   "who": "JUMP TRADING FINANCIAL INDIA PRIVATE L",
+   "s": "SWIGGY",
+   "kind": "block",
+   "who": "TENCENT CLOUD EUROPE B.V.",
    "bs": "SELL",
-   "qty": 56805595,
-   "px": 15.99,
-   "val": 90.83,
-   "mine": false
+   "qty": 54347662,
+   "px": 180.65,
+   "val": 981.79,
+   "mine": true
   },
   {
-   "s": "BSOFT",
-   "kind": "bulk",
-   "who": "MICROCURVES TRADING PRIVATE LIMITED",
-   "bs": "SELL",
-   "qty": 2577981,
-   "px": 342.04,
-   "val": 88.18,
-   "mine": false
-  },
-  {
-   "s": "BSOFT",
-   "kind": "bulk",
-   "who": "MICROCURVES TRADING PRIVATE LIMITED",
-   "bs": "BUY",
-   "qty": 2577981,
-   "px": 341.8,
-   "val": 88.12,
-   "mine": false
-  },
-  {
-   "s": "AEROFLEX",
-   "kind": "bulk",
-   "who": "QE SECURITIES LLP",
-   "bs": "BUY",
-   "qty": 1400910,
-   "px": 554.0,
-   "val": 77.61,
-   "mine": false
-  },
-  {
-   "s": "AEROFLEX",
-   "kind": "bulk",
-   "who": "MICROCURVES TRADING PRIVATE LIMITED",
-   "bs": "BUY",
-   "qty": 1374174,
-   "px": 556.24,
-   "val": 76.44,
-   "mine": false
-  },
-  {
-   "s": "AEROFLEX",
-   "kind": "bulk",
-   "who": "MICROCURVES TRADING PRIVATE LIMITED",
-   "bs": "SELL",
-   "qty": 1372566,
-   "px": 556.19,
-   "val": 76.34,
-   "mine": false
-  },
-  {
-   "s": "BSOFT",
-   "kind": "bulk",
-   "who": "QE SECURITIES LLP",
-   "bs": "SELL",
-   "qty": 2244119,
-   "px": 338.7,
-   "val": 76.01,
-   "mine": false
-  },
-  {
-   "s": "AEROFLEX",
-   "kind": "bulk",
-   "who": "QE SECURITIES LLP",
-   "bs": "SELL",
-   "qty": 1379804,
-   "px": 550.75,
-   "val": 75.99,
-   "mine": false
-  },
-  {
-   "s": "BSOFT",
-   "kind": "bulk",
-   "who": "QE SECURITIES LLP",
-   "bs": "BUY",
-   "qty": 2148577,
-   "px": 339.16,
-   "val": 72.87,
-   "mine": false
-  },
-  {
-   "s": "AEROFLEX",
-   "kind": "bulk",
-   "who": "ALPHAGREP SECURITIES PRIVATE LIMITED",
-   "bs": "BUY",
-   "qty": 1315179,
-   "px": 553.64,
-   "val": 72.81,
-   "mine": false
-  },
-  {
-   "s": "AEROFLEX",
-   "kind": "bulk",
-   "who": "ALPHAGREP SECURITIES PRIVATE LIMITED",
-   "bs": "SELL",
-   "qty": 1315179,
-   "px": 551.93,
-   "val": 72.59,
-   "mine": false
-  },
-  {
-   "s": "BSOFT",
-   "kind": "bulk",
-   "who": "ALPHAGREP SECURITIES PRIVATE LIMITED",
-   "bs": "SELL",
-   "qty": 2118846,
-   "px": 339.84,
-   "val": 72.01,
-   "mine": false
-  },
-  {
-   "s": "BSOFT",
-   "kind": "bulk",
-   "who": "ALPHAGREP SECURITIES PRIVATE LIMITED",
-   "bs": "BUY",
-   "qty": 2118846,
-   "px": 339.66,
-   "val": 71.97,
-   "mine": false
-  },
-  {
-   "s": "BSOFT",
+   "s": "SWIGGY",
    "kind": "bulk",
    "who": "SOCIETE GENERALE",
    "bs": "BUY",
-   "qty": 1647762,
-   "px": 341.78,
-   "val": 56.32,
-   "mine": false
+   "qty": 23740000,
+   "px": 180.65,
+   "val": 428.86,
+   "mine": true
   },
   {
-   "s": "MONEYVIEW",
-   "kind": "bulk",
-   "who": "ALPHAGREP SECURITIES PRIVATE LIMITED",
-   "bs": "SELL",
-   "qty": 10420885,
-   "px": 50.11,
-   "val": 52.22,
-   "mine": false
-  },
-  {
-   "s": "MONEYVIEW",
-   "kind": "bulk",
-   "who": "ALPHAGREP SECURITIES PRIVATE LIMITED",
+   "s": "SWIGGY",
+   "kind": "block",
+   "who": "SOCIETE GENERALE",
    "bs": "BUY",
-   "qty": 10420885,
-   "px": 50.01,
-   "val": 52.11,
-   "mine": false
+   "qty": 23740000,
+   "px": 180.65,
+   "val": 428.86,
+   "mine": true
   },
   {
-   "s": "MONEYVIEW",
-   "kind": "bulk",
-   "who": "PLUTUS WEALTH MANAGEMENT LLP",
-   "bs": "SELL",
-   "qty": 9577042,
-   "px": 50.49,
-   "val": 48.35,
-   "mine": false
-  },
-  {
-   "s": "MONEYVIEW",
-   "kind": "bulk",
-   "who": "PLUTUS WEALTH MANAGEMENT LLP",
+   "s": "SWIGGY",
+   "kind": "block",
+   "who": "MORGAN STANLEY ASIA SINGAPORE PTE",
    "bs": "BUY",
-   "qty": 9577042,
-   "px": 50.46,
-   "val": 48.33,
+   "qty": 13190000,
+   "px": 180.65,
+   "val": 238.28,
+   "mine": true
+  },
+  {
+   "s": "SWIGGY",
+   "kind": "block",
+   "who": "GOLDMAN SACHS BANK EUROPE SE",
+   "bs": "BUY",
+   "qty": 10550000,
+   "px": 180.65,
+   "val": 190.59,
+   "mine": true
+  },
+  {
+   "s": "TMCV",
+   "kind": "block",
+   "who": "BOFA SECURITIES EUROPE SA",
+   "bs": "BUY",
+   "qty": 1300000,
+   "px": 397.0,
+   "val": 51.61,
+   "mine": true
+  },
+  {
+   "s": "TMCV",
+   "kind": "block",
+   "who": "BANK OF AMERICA NATIONAL ASSOCIATION",
+   "bs": "SELL",
+   "qty": 1300000,
+   "px": 397.0,
+   "val": 51.61,
+   "mine": true
+  },
+  {
+   "s": "SWIGGY",
+   "kind": "block",
+   "who": "NIPPON INDIA MUTUAL FUND",
+   "bs": "BUY",
+   "qty": 2767000,
+   "px": 180.65,
+   "val": 49.99,
+   "mine": true
+  },
+  {
+   "s": "SWIGGY",
+   "kind": "block",
+   "who": "GHISALLO MASTER FUND LP",
+   "bs": "BUY",
+   "qty": 2608392,
+   "px": 180.65,
+   "val": 47.12,
+   "mine": true
+  },
+  {
+   "s": "SWIGGY",
+   "kind": "block",
+   "who": "ADITYA BIRLA SUN LIFE MUTUAL FUND",
+   "bs": "BUY",
+   "qty": 553556,
+   "px": 180.65,
+   "val": 10.0,
+   "mine": true
+  },
+  {
+   "s": "SWIGGY",
+   "kind": "block",
+   "who": "ADITYA BIRLA SUN LIFE MUTUAL FUND",
+   "bs": "BUY",
+   "qty": 551225,
+   "px": 180.65,
+   "val": 9.96,
+   "mine": true
+  },
+  {
+   "s": "SWIGGY",
+   "kind": "block",
+   "who": "ADITYA BIRLA SUN LIFE MUTUAL FUND",
+   "bs": "BUY",
+   "qty": 276778,
+   "px": 180.65,
+   "val": 5.0,
+   "mine": true
+  },
+  {
+   "s": "SWIGGY",
+   "kind": "block",
+   "who": "ADITYA BIRLA SUN LIFE MUTUAL FUND",
+   "bs": "BUY",
+   "qty": 110711,
+   "px": 180.65,
+   "val": 2.0,
+   "mine": true
+  },
+  {
+   "s": "SAGILITY",
+   "kind": "bulk",
+   "who": "SAGILITY B.V.",
+   "bs": "SELL",
+   "qty": 560000000,
+   "px": 42.76,
+   "val": 2394.56,
+   "mine": false
+  },
+  {
+   "s": "LOTUSDEV",
+   "kind": "bulk",
+   "who": "SMALLCAP WORLD FUND INC",
+   "bs": "BUY",
+   "qty": 14140027,
+   "px": 240.0,
+   "val": 339.36,
+   "mine": false
+  },
+  {
+   "s": "SAGILITY",
+   "kind": "bulk",
+   "who": "BNP PARIBAS FINANCIAL MARKETS",
+   "bs": "BUY",
+   "qty": 56185380,
+   "px": 42.75,
+   "val": 240.19,
+   "mine": false
+  },
+  {
+   "s": "SAGILITY",
+   "kind": "bulk",
+   "who": "SOCIETE GENERALE",
+   "bs": "BUY",
+   "qty": 47506626,
+   "px": 42.75,
+   "val": 203.09,
+   "mine": false
+  },
+  {
+   "s": "SAGILITY",
+   "kind": "bulk",
+   "who": "GHISALLO MASTER FUND LP",
+   "bs": "BUY",
+   "qty": 44564304,
+   "px": 42.75,
+   "val": 190.51,
+   "mine": false
+  },
+  {
+   "s": "SAGILITY",
+   "kind": "bulk",
+   "who": "ICICI PRUDENTIAL MUTUAL FUND",
+   "bs": "BUY",
+   "qty": 35087719,
+   "px": 42.75,
+   "val": 150.0,
    "mine": false
   }
  ]
