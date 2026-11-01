@@ -1,5 +1,5 @@
 {
- "generated": "01-Nov-2026 09:51",
+ "generated": "01-Nov-2026 10:15",
  "market_date": "2026-10-30",
  "stocks": [
   {
@@ -576,8 +576,8 @@
   },
   {
    "who": "PT",
-   "overall": 26.01,
-   "day": -0.45,
+   "overall": 23.23,
+   "day": -0.48,
    "funds": 8
   }
  ],
