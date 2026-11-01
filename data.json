@@ -1,5 +1,5 @@
 {
- "generated": "01-Nov-2026 09:19",
+ "generated": "01-Nov-2026 09:32",
  "market_date": "2026-10-30",
  "stocks": [
   {
@@ -560,8 +560,8 @@
  ],
  "perf": {
   "n": 76,
-  "day": -1.09,
-  "overall": 17.2
+  "day": -1.18,
+  "overall": 16.96
  },
  "wperf": {
   "n": 9,
@@ -577,11 +577,19 @@
   {
    "who": "PT",
    "overall": 26.01,
-   "day": -0.45,
+   "day": -0.4,
    "funds": 8
   }
  ],
  "digests": [
+  {
+   "s": "ZENTEC",
+   "n": "Zen Technologies Limited",
+   "cat": "Outcome of Board Meeting",
+   "when": "2026-10-31 16:25",
+   "sent": "positive",
+   "txt": "Here is the equity-research summary of the regulatory filing:\n\n### 1. Most Important Fact\nZen Technologies reported strong consolidated Q2 performance with revenue from operations growing **98.8% YoY / 143.7% QoQ to \u20b934,513.26 lakhs** and net profit rising **64.6% YoY / 219.9% QoQ to \u20b910,188.33 lakhs**, backed by an active consolidated order book of **\u20b91,375.70 Crores** as of September 30, 2026.\n\n---\n\n### 2. Headline Financial Results (Consolidated)\n\n*(All figures in \u20b9 Lakhs, except EPS)*\n\n| Metric | Q2 Ended Sep 30, 2026 (Unaudited) | Q1 Ended Jun 30, 2026 (Unaudited) | Q2 Ended Sep 30, 2025 (Unaudited) | H1 Ended Sep 30, 2026 (Unaudited) | H1 Ended Sep 30, 2025 (Unaudited) |\n|:---|---:|---:|---:|---:|---:|\n| **Revenue from Operations** | 34,513.26 | 14,163.84 | 17,357.31 | 48,677.10 | 33,179.18 |\n| **Other Income** | 1,671.24 | 1,915.64 | 2,530.67 | 3,586.88 | 4,709.71 |\n| **Total Income** | 36,184.50 | 16,079.48 | 19,887.98 | 52,263.98 | 37,888.89 |\n| **Total Expenses** | 22,299.77 | 11,186.43 | 11,657.62 | 33,486.20 | 21,989.82 |\n| **Profit Before Tax (PBT)** | 13,769.25 | 4,525.75 | 8,313.33 | 18,295.00 | 15,934.49 |\n| **Net Profit for the Period** | 10,188.33 | 3,184.94 | 6,190.46 | 13,373.27 | 11,497.96 |\n| *\u2014 Attributable to Parent Owners* | 8,954.09 | 3,446.10 | 5,939.90 | 12,400.19 | 10,715.16 |\n| **Total Comprehensive Income** | 10,222.38 | 3,210.27 | 6,172.42 | 13,432.65 | 11,655.89 |\n| **Basic & Diluted EPS (\u20b9)** *(not annualised)* | 9.97 | 3.83 | 6.61 | 13.80 | 11.92 |\n\n*(Note: Percentage deltas are computed directly from reported figures as the document does not print separate delta columns).*\n\n---\n\n### 3. Management Guidance, Outlook, or Forward Statements\n* No specific quantitative forward earnings/revenue guidance was stated.\n* **Order Book:** Consolidated orders on hand stood at **\u20b91,375.70 Crores** (Standalone: \u20b91,263.69 Crores) as of September 30, 2026.\n\n---\n\n### 4. What a Shareholder Should Watch or Act On\n* **Acquisition of Cogknit Semantics:** On October 17, 2026, the Board approved acquiring **51.98% equity** in Cogknit Semantics Private Limited for **\u20b9135.15 Crores** (subject to closing conditions).\n* **Subsidiary Fire Loss:** On October 18, 2026, a fire damaged assets/inventory at subsidiary Unistring Tech Solutions with an estimated loss of ~\u20b94.00 Crores; watch insurance survey and recovery outcome (treated as non-adjusting event).\n* **Corporate Restructuring:** Voluntary strike-off initiated for non-material wholly owned subsidiary Zen Medical Technologies Private Limited (expected timeline 6\u20138 months).\n* **Cash Flow from Operations:** Negative consolidated operating cash flow of **\u20b9(30,288.86) lakhs** in H1 ended Sep 30, 2026 (down from positive \u20b924,460.34 lakhs in FY26), heavily impacted by inventory buildup and trade receivable increases.\n\n---\n\n### 5. One-Line Net Read\n**Positive**: Robust top-line and bottom-line expansion both YoY and QoQ, supported by a healthy order book (~\u20b91,376 Cr), though working capital absorption and operating cash outflows warrant ongoing monitoring."
+  },
   {
    "s": "ICICIAMC",
    "n": "ICICI Prudential Asset Management Compan",
