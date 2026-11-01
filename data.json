@@ -1,5 +1,5 @@
 {
- "generated": "01-Nov-2026 09:32",
+ "generated": "01-Nov-2026 09:43",
  "market_date": "2026-10-30",
  "stocks": [
   {
@@ -570,14 +570,14 @@
  "mf": [
   {
    "who": "KB",
-   "overall": 46.02,
-   "day": -0.2,
+   "overall": 45.13,
+   "day": -0.21,
    "funds": 10
   },
   {
    "who": "PT",
    "overall": 26.01,
-   "day": -0.4,
+   "day": -0.45,
    "funds": 8
   }
  ],
