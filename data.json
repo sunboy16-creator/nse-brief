@@ -1,5 +1,5 @@
 {
- "generated": "10-Nov-2026 07:40",
+ "generated": "11-Nov-2026 10:02",
  "market_date": "2026-11-09",
  "stocks": [
   {
@@ -571,17 +571,34 @@
   {
    "who": "KB",
    "overall": 54.48,
-   "day": 0.64,
+   "day": 0.53,
    "funds": 10
   },
   {
    "who": "PT",
    "overall": 31.03,
-   "day": 0.68,
+   "day": 0.55,
    "funds": 8
   }
  ],
- "digests": [],
+ "digests": [
+  {
+   "s": "PNB",
+   "n": "Punjab National Bank",
+   "cat": "Action(s) taken or orders passed",
+   "when": "2026-11-10 15:48",
+   "sent": "neutral",
+   "txt": "Here is the concise breakdown of the regulatory filing:\n\n1. **Single Most Important Fact**  \n   * The Reserve Bank of India (RBI) has imposed a monetary penalty of **\u20b91,24,913.01** on Punjab National Bank for non-compliance with operational guidelines of Currency Chests under RBI Master Directions.\n\n2. **Key Numbers Exactly as Stated**  \n   * **Monetary Penalty:** \u20b91,24,913.01  \n   * *(Note: Financial metrics like revenue, EBITDA, or PAT are not applicable/stated in this filing).*\n\n3. **Management Guidance / Outlook / Forward Statements**  \n   * None provided. The bank noted that the impact on financial, operational, or other activities is *\"Only to the extent of the amount of penalty.\"*\n\n4. **What a Shareholder Should Watch or Act On**  \n   * No action required. The penalty is immaterial and relates to routine operational/currency chest compliance.\n\n5. **One-Line Net Read**  \n   * **Neutral:** The penalty amount (~\u20b91.25 lakh) is completely negligible relative to the bank's scale and has zero material financial or operational impact."
+  },
+  {
+   "s": "BAJFINANCE",
+   "n": "Bajaj Finance Limited",
+   "cat": "Allotment of Securities",
+   "when": "2026-11-10 12:58",
+   "sent": "positive",
+   "txt": "**1. Single Most Important Fact**\nBajaj Finance Limited's Allotment Committee approved the preferential allotment of 5,74,25,740 warrants convertible into an equivalent number of equity shares (face value \u20b91 each) to its promoter and holding company, Bajaj Finserv Limited, at an issue price of \u20b91,010 per warrant (aggregating ~\u20b95,800 crore).\n\n---\n\n**2. Key Numbers Exactly as Stated**\n* *Note: This is a preferential allotment filing; no revenue, EBITDA, or PAT figures are reported.*\n* **Warrants Allotted:** 5,74,25,740 warrants (convertible into 5,74,25,740 equity shares of face value \u20b91 each).\n* **Issue Price:** \u20b91,010 per warrant.\n* **Payment Terms:** Minimum 25% upfront on allotment; remaining 75% payable upon exercising the option to convert into shares.\n* **Conversion Tenure:** Within 18 months from the allotment date (unexercised warrants and paid consideration will be forfeited).\n* **Promoter (Bajaj Finserv Ltd.) Shareholding:**\n  * **Pre-issue:** 3,19,36,61,300 equity shares (51.30%).\n  * **Post-issue (fully diluted including ESOPs):** 3,25,10,87,040 equity shares (51.23%).\n\n---\n\n**3. Management Guidance & Forward Statements**\n* None provided in the document beyond transaction mechanics and statutory terms (conversion within 18 months, forfeiture on non-exercise).\n\n---\n\n**4. What a Shareholder Should Watch or Act On**\n* **Capital Inflow & Dilution:** Receipt of the initial 25% warrant subscription amount (~\u20b91,450 crore) bolstering Tier-1 capital, followed by the remaining 75% (~\u20b94,350 crore) within the next 18 months upon conversion.\n* **No immediate action required** for public shareholders as this was a preferential allotment to the promoter.\n\n---\n\n**5. One-Line Net Read**\n**Positive:** Direct capital infusion by the promoter reinforces long-term balance-sheet strength and growth runway without causing significant promoter stake dilution."
+  }
+ ],
  "movers": {
   "gainers": [
    {
@@ -818,14 +835,13 @@
  ],
  "pcr": {
   "NIFTY": {
-   "all": 1.471,
-   "all_prev": 1.292,
-   "vol": 0.851,
-   "near": 1.653,
+   "all": 1.148,
+   "all_prev": 1.471,
+   "vol": 0.898,
+   "near": 1.071,
    "near_exp": "2026-11-09",
-   "near_prev": 1.345,
+   "near_prev": 1.653,
    "series": [
-    0.807,
     0.968,
     0.71,
     0.894,
@@ -854,18 +870,18 @@
     1.504,
     1.145,
     1.292,
-    1.471
+    1.471,
+    1.148
    ]
   },
   "BANKNIFTY": {
-   "all": 1.231,
-   "all_prev": 1.16,
-   "vol": 0.702,
-   "near": 1.242,
+   "all": 1.269,
+   "all_prev": 1.231,
+   "vol": 0.776,
+   "near": 1.27,
    "near_exp": "2026-11-23",
-   "near_prev": 1.156,
+   "near_prev": 1.242,
    "series": [
-    0.77,
     0.812,
     0.74,
     0.973,
@@ -894,10 +910,11 @@
     0.982,
     1.007,
     1.16,
-    1.231
+    1.231,
+    1.269
    ]
   },
-  "date": "2026-11-06"
+  "date": "2026-11-09"
  },
  "flows": [
   {
