@@ -1,5 +1,5 @@
 {
- "generated": "16-Nov-2026 05:45",
+ "generated": "16-Nov-2026 08:02",
  "market_date": "2026-11-13",
  "stocks": [
   {
@@ -560,8 +560,8 @@
  ],
  "perf": {
   "n": 76,
-  "day": -0.8,
-  "overall": 26.76
+  "day": -0.74,
+  "overall": 26.83
  },
  "wperf": {
   "n": 9,
