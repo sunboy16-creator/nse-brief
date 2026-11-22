@@ -1,5 +1,5 @@
 {
- "generated": "21-Nov-2026 06:51",
+ "generated": "22-Nov-2026 08:44",
  "market_date": "2026-11-20",
  "stocks": [
   {
@@ -570,41 +570,25 @@
  "mf": [
   {
    "who": "KB",
-   "overall": 57.54,
-   "day": 0.66,
+   "overall": 57.83,
+   "day": 0.68,
    "funds": 10
   },
   {
    "who": "PT",
-   "overall": 33.29,
-   "day": 0.66,
+   "overall": 33.39,
+   "day": 0.68,
    "funds": 8
   }
  ],
  "digests": [
   {
-   "s": "PNB",
-   "n": "Punjab National Bank",
-   "cat": "Credit Rating- Revision",
-   "when": "2026-11-19 20:04",
+   "s": "SHAKTIPUMP",
+   "n": "Shakti Pumps (India) Limited",
+   "cat": "Acquisition",
+   "when": "2026-11-21 18:29",
    "sent": "positive",
-   "txt": "**1. Single Most Important Fact**\nMoody\u2019s Ratings has upgraded Punjab National Bank\u2019s (PNB) Baseline Credit Assessment (BCA) and Adjusted BCA by two notches to **baa3 from ba1** (reaching investment grade), while affirming its long-term deposit and issuer ratings at **Baa3** with a **Stable** outlook.\n\n---\n\n**2. Key Numbers Exactly as Stated**\n* **Capital (Standalone CET1):** 14.4% in September 2026 (up from 12.8% in September 2025).\n* **Asset Quality (Gross NPL Ratio):** 2.6% in September 2026 (declined from 3.5% in September 2025).\n* **Provision Coverage (PCR / Loan-loss coverage):** 97.3% in September 2026 (up from 96.9% in September 2025).\n* **Profitability (Net Income / Total Assets):** \n  * 0.9% in FY2026 (ended March 2026), compared to below 0.5% during FY2020\u2013FY2023.\n  * Annualized 1.1% in H1 FY2027.\n* **Liquidity:** \n  * Core liquidity (HQLA / tangible banking assets): 17.0% as of March 31, 2026.\n  * Consolidated Liquidity Coverage Ratio (LCR): 141% for quarter ended September 2026 (up from 126% as of March 2026).\n* **Scale & Ownership:** Total assets of INR 21.29 trillion (as of September 30, 2026); Government of India holds a 70.1% stake; 4th-largest bank in India with a 6% deposit share.\n\n---\n\n**3. Outlook & Forward Statements (Moody's Assessment)**\n* **Profitability & Capital:** Profitability is projected to hold between **0.9%\u20131.1%** over the next 12\u201318 months. Internal capital generation will support loan growth, though transition to the Expected Credit Loss (ECL) framework and revised investment valuation norms in FY2027 will likely reduce capital.\n* **Asset Quality:** Expected to stay stable over the next 12\u201318 months as recoveries and write-offs outpace new NPL formation, despite anticipated repayment pressure in agriculture and MSME sectors due to irregular rainfall, El Ni\u00f1o conditions, and inflation.\n* **Rating Headroom:** An upgrade is unlikely as PNB\u2019s BCA is now at the same level as India's sovereign rating. Ratings could face downgrade pressure if TCE/RWA falls below 11.0% or net income/tangible assets drops below 0.5% sustainably.\n\n---\n\n**4. What a Shareholder Should Watch or Act On**\n* **ECL Transition Impact in FY27:** Monitor the impending capital hit from adopting the ECL framework and revised investment norms.\n* **Asset Quality in Agri/MSME:** Watch slippages and credit costs in agriculture and MSME portfolios for signs of weather- and inflation-related stress.\n* **Borrowing Costs:** The BCA upgrade to investment-grade (baa3) should structurally lower foreign currency and medium-term funding costs.\n\n---\n\n**5. One-Line Net Read**\n**Positive:** A two-notch fundamental credit upgrade to investment grade (baa3) validates sustained structural improvements in PNB's capital adequacy, profitability, and asset quality."
-  },
-  {
-   "s": "COALINDIA",
-   "n": "Coal India Limited",
-   "cat": "Bagging/Receiving of orders/contracts",
-   "when": "2026-11-19 16:37",
-   "sent": "positive",
-   "txt": "### 1. Most Important Fact\nCoal India Limited (CIL), as the lead member of a consortium with Non-Ferrous Materials Technology Development Centre (NFTDC), has been declared the **L2 bidder** and received a Letter of Intent (LoI) from the Ministry of Heavy Industries (MHI) to set up a manufacturing facility for Sintered Rare Earth Permanent Magnets (NdFeB) through a Special Purpose Vehicle (SPV).\n\n### 2. Key Numbers Exactly as Stated\n* **Capacity / Size:** 1,200 TPA (tonnes per annum)\n* **Execution Period:** 7 years (2 years pre-construction and 5 years of operation)\n* **Financial Considerations (Order Value, Revenue, Capex):** Not disclosed in the document\n\n### 3. Management Guidance or Forward Statements\nNone provided in the filing beyond the project scope: setting up the manufacturing facility via an SPV under the Government of India's \"Scheme to Promote Manufacturing of Sintered Rare Earth Permanent Magnet\" over a 7-year horizon.\n\n### 4. What a Shareholder Should Watch or Act On\n* Clarification on terms and capital commitment required for setting up the SPV with NFTDC.\n* Final contract award and financial incentives/subsidies under the MHI scheme given CIL's status as the **L2 bidder**.\n* Progress on the 2-year pre-construction phase and associated capex requirements.\n\n### 5. One-Line Net Read\n**Positive**: Signals strategic diversification for Coal India into critical mineral value chains and high-tech components (NdFeB permanent magnets for EVs and clean tech), though near-term financial impact depends on project capex details."
-  },
-  {
-   "s": "LGEINDIA",
-   "n": "LG Electronics India Limited",
-   "cat": "Change in Management",
-   "when": "2026-11-19 14:30",
-   "sent": "neutral",
-   "txt": "**1. Single Most Important Fact**\nTwo Senior Management Personnel (SMP)\u2014Mr. Changhwan Kim (Customer Care & Service Division Leader) and Mr. Yongchan Jung (Chief Production Officer)\u2014will cease to be associated with the company effective from the close of business hours on December 31, 2026, due to relocation back to Korea.\n\n**2. Key Numbers**\n* None stated in the filing (this is an executive management cessation disclosure, not a financial results filing).\n\n**3. Management Guidance, Outlook, or Forward Statements**\n* None provided.\n\n**4. What a Shareholder Should Watch or Act On**\n* Watch for subsequent announcements regarding the appointment of successors for the critical roles of Chief Production Officer (CPO) and Customer Care & Service (CC&S) Division Leader to ensure smooth operational handover.\n\n**5. One-Line Net Read**\n* **Neutral**: Represents a standard corporate rotation/relocation of expatriate senior management back to the Korean parent entity without any adverse operational or governance issues cited."
+   "txt": "**1. Single Most Important Fact**  \nShakti Pumps (India) Limited has invested **Rs. 30,24,23,900/-** in cash into its wholly owned subsidiary, **Shakti Energy Solutions Limited (SESL)**, to set up a greenfield 2.20 GW capacity manufacturing plant for high-efficiency Solar DCR cells and Solar PV modules in Pithampur, Madhya Pradesh.\n\n---\n\n**2. Key Numbers Exactly as Stated**  \n* **Investment Amount:** Rs. 30,24,23,900/- (Rupees Thirty Crore Twenty-Four Lakh Twenty-Three Thousand Nine Hundred Only) via equity subscription.  \n* **Planned Plant Capacity:** 2.20 GW (Solar DCR cells and Solar PV modules).  \n* **SESL Historical Turnover:**  \n  * **FY 2026:** Rs. 239.11 Crores  \n  * **FY 2025:** Rs. 216.53 Crores  \n  * **FY 2024:** Rs. 139.59 Crores  \n*(Note: EBITDA, PAT, margins, and deltas are not stated in the filing).*\n\n---\n\n**3. Management Guidance / Forward-Looking Statements**  \n* The subsidiary is expanding from its existing business (solar structures and solar rooftop) into establishing a greenfield high-efficiency Solar DCR cell and Solar PV modules manufacturing facility with an expected production capacity of **2.20 GW** in Pithampur, MP.  \n* Equity shares in SESL will be issued to the parent company from time to time as per agreement.\n\n---\n\n**4. What a Shareholder Should Watch or Act On**  \n* **Execution & Capex:** Progress and project timeline for commissioning the 2.20 GW solar cell and module facility.  \n* **Total Project Outlay & Funding:** Watch for any further capital infusions, debt tie-ups, or capex announcements required to fully fund a 2.20 GW manufacturing setup.\n\n---\n\n**5. One-Line Net Read**  \n**Positive:** Strategic backward-integration move into solar cell and module manufacturing (2.20 GW), strengthening supply security and margin capture for its solar pump solutions."
   }
  ],
  "movers": {
