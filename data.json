@@ -1,258 +1,209 @@
 {
- "generated": "27-Nov-2026 13:48",
- "market_date": "2026-11-26",
+ "generated": "28-Nov-2026 06:47",
+ "market_date": "2026-11-27",
  "stocks": [
-  {
-   "s": "BSE",
-   "n": "BSE Limited",
-   "c": 5.7,
-   "d": 39.1,
-   "p": 3990.4
-  },
-  {
-   "s": "TCS",
-   "n": "Tata Consultancy Services Limited",
-   "c": 4.89,
-   "d": 45.5,
-   "p": 2640.3
-  },
-  {
-   "s": "INFY",
-   "n": "Infosys Limited",
-   "c": 4.69,
-   "d": 54.6,
-   "p": 1183.0
-  },
-  {
-   "s": "CAMS",
-   "n": "Computer Age Management Services Limited",
-   "c": 3.96,
-   "d": 43.4,
-   "p": 745.9
-  },
   {
    "s": "IDEAFORGE",
    "n": "Ideaforge Technology Limited",
-   "c": 3.62,
-   "d": 59.9,
-   "p": 731.15
-  },
-  {
-   "s": "SWIGGY",
-   "n": "Swiggy Limited",
-   "c": 3.31,
-   "d": 32.3,
-   "p": 182.93
-  },
-  {
-   "s": "ZENTEC",
-   "n": "Zen Technologies Limited",
-   "c": 3.1,
-   "d": 43.0,
-   "p": 1768.1
-  },
-  {
-   "s": "HINDCOPPER",
-   "n": "Hindustan Copper Limited",
-   "c": 3.07,
-   "d": 31.3,
-   "p": 411.15
-  },
-  {
-   "s": "TECHM",
-   "n": "Tech Mahindra Limited",
-   "c": 2.97,
-   "d": 49.9,
-   "p": 1854.7
-  },
-  {
-   "s": "IRCTC",
-   "n": "Indian Railway Catering And Tourism Corp",
-   "c": 2.8,
-   "d": 42.8,
-   "p": 454.2
-  },
-  {
-   "s": "TRITURBINE",
-   "n": "Triveni Turbine Limited",
-   "c": 2.19,
-   "d": 45.2,
-   "p": 457.6
-  },
-  {
-   "s": "CDSL",
-   "n": "Central Depository Services (India) Limi",
-   "c": 1.98,
-   "d": 36.9,
-   "p": 1441.0
-  },
-  {
-   "s": "HDFCBANK",
-   "n": "HDFC Bank Limited",
-   "c": 1.87,
-   "d": 63.8,
-   "p": 862.0
-  },
-  {
-   "s": "JIOFIN",
-   "n": "Jio Financial Services Limited",
-   "c": 1.86,
-   "d": 49.0,
-   "p": 227.0
-  },
-  {
-   "s": "DEEPAKNTR",
-   "n": "Deepak Nitrite Limited",
-   "c": 1.83,
-   "d": 51.6,
-   "p": 1521.8
-  },
-  {
-   "s": "IREDA",
-   "n": "Indian Renewable Energy Development Agen",
-   "c": 1.8,
-   "d": 21.8,
-   "p": 127.0
-  },
-  {
-   "s": "RELIANCE",
-   "n": "Reliance Industries Limited",
-   "c": 1.62,
-   "d": 47.1,
-   "p": 1396.2
-  },
-  {
-   "s": "ABDL",
-   "n": "Allied Blenders and Distillers Limited",
-   "c": 1.62,
-   "d": 64.0,
-   "p": 820.3
-  },
-  {
-   "s": "TATATECH",
-   "n": "Tata Technologies Limited",
-   "c": 1.16,
-   "d": 36.4,
-   "p": 700.35
-  },
-  {
-   "s": "MOSCHIP",
-   "n": "Moschip Technologies Limited",
-   "c": 1.11,
-   "d": 30.5,
-   "p": 159.66
-  },
-  {
-   "s": "COALINDIA",
-   "n": "Coal India Limited",
-   "c": 1.01,
-   "d": 60.6,
-   "p": 388.9
-  },
-  {
-   "s": "SBILIFE",
-   "n": "SBI Life Insurance Company Limited",
-   "c": 1.01,
-   "d": 57.5,
-   "p": 1842.3
-  },
-  {
-   "s": "MAZDOCK",
-   "n": "Mazagon Dock Shipbuilders Limited",
-   "c": 1.0,
-   "d": 31.6,
-   "p": 1817.0
-  },
-  {
-   "s": "ANTHEM",
-   "n": "Anthem Biosciences Limited",
-   "c": 0.75,
-   "d": 52.0,
-   "p": 975.5
-  },
-  {
-   "s": "SBIFUNDS",
-   "n": "SBI Funds Management Limited",
-   "c": 0.73,
-   "d": 62.5,
-   "p": 533.9
-  },
-  {
-   "s": "NTPC",
-   "n": "NTPC Limited",
-   "c": 0.71,
-   "d": 56.9,
-   "p": 320.25
-  },
-  {
-   "s": "BDL",
-   "n": "Bharat Dynamics Limited",
-   "c": 0.7,
-   "d": 26.9,
-   "p": 1034.8
-  },
-  {
-   "s": "EMCURE",
-   "n": "Emcure Pharmaceuticals Limited",
-   "c": 0.67,
-   "d": 46.3,
-   "p": 2329.1
-  },
-  {
-   "s": "AARTIIND",
-   "n": "Aarti Industries Limited",
-   "c": 0.56,
-   "d": 53.8,
-   "p": 437.6
-  },
-  {
-   "s": "BUILDPRO",
-   "n": "Shankara Buildpro Limited",
-   "c": 0.46,
-   "d": 41.1,
-   "p": 167.43
-  },
-  {
-   "s": "GAIL",
-   "n": "GAIL (India) Limited",
-   "c": 0.27,
-   "d": 61.5,
-   "p": 188.0
+   "c": 7.94,
+   "d": 35.4,
+   "p": 789.2
   },
   {
    "s": "ROUTE",
    "n": "ROUTE MOBILE LIMITED",
-   "c": 0.21,
-   "d": 50.3,
-   "p": 413.1
+   "c": 5.06,
+   "d": 21.9,
+   "p": 434.0
   },
   {
-   "s": "ICICIAMC",
-   "n": "ICICI Prudential Asset Management Compan",
-   "c": 0.15,
-   "d": 59.0,
-   "p": 2971.8
+   "s": "PARAS",
+   "n": "Paras Defence and Space Technologies Lim",
+   "c": 5.04,
+   "d": 31.1,
+   "p": 1302.6
   },
   {
-   "s": "IEX",
-   "n": "Indian Energy Exchange Limited",
-   "c": 0.09,
-   "d": 38.9,
-   "p": 111.1
+   "s": "BDL",
+   "n": "Bharat Dynamics Limited",
+   "c": 4.13,
+   "d": 24.7,
+   "p": 1077.5
+  },
+  {
+   "s": "MAZDOCK",
+   "n": "Mazagon Dock Shipbuilders Limited",
+   "c": 4.02,
+   "d": 16.7,
+   "p": 1890.0
+  },
+  {
+   "s": "COFORGE",
+   "n": "Coforge Limited",
+   "c": 3.55,
+   "d": 44.9,
+   "p": 2071.0
+  },
+  {
+   "s": "DIXON",
+   "n": "Dixon Technologies (India) Limited",
+   "c": 3.3,
+   "d": 30.2,
+   "p": 13138.0
+  },
+  {
+   "s": "ABDL",
+   "n": "Allied Blenders and Distillers Limited",
+   "c": 2.16,
+   "d": 44.4,
+   "p": 838.0
+  },
+  {
+   "s": "INDIASHLTR",
+   "n": "India Shelter Finance Corporation Limite",
+   "c": 2.05,
+   "d": 40.0,
+   "p": 634.1
+  },
+  {
+   "s": "HINDCOPPER",
+   "n": "Hindustan Copper Limited",
+   "c": 1.79,
+   "d": 29.3,
+   "p": 418.5
   },
   {
    "s": "BEL",
    "n": "Bharat Electronics Limited",
-   "c": 0.05,
-   "d": 46.6,
-   "p": 404.5
+   "c": 1.72,
+   "d": 47.6,
+   "p": 411.45
   },
   {
-   "s": "BAJAJHFL",
-   "n": "Bajaj Housing Finance Limited",
-   "c": 0.02,
-   "d": 56.7,
-   "p": 80.19
+   "s": "IGIL",
+   "n": "International Gemological Institute Limi",
+   "c": 1.52,
+   "d": 25.1,
+   "p": 429.65
+  },
+  {
+   "s": "ZENTEC",
+   "n": "Zen Technologies Limited",
+   "c": 1.42,
+   "d": 40.5,
+   "p": 1793.2
+  },
+  {
+   "s": "BHARTIHEXA",
+   "n": "Bharti Hexacom Limited",
+   "c": 1.25,
+   "d": 54.2,
+   "p": 1555.2
+  },
+  {
+   "s": "DEEPAKNTR",
+   "n": "Deepak Nitrite Limited",
+   "c": 1.13,
+   "d": 39.5,
+   "p": 1539.0
+  },
+  {
+   "s": "BUILDPRO",
+   "n": "Shankara Buildpro Limited",
+   "c": 1.09,
+   "d": 41.6,
+   "p": 169.26
+  },
+  {
+   "s": "IRCTC",
+   "n": "Indian Railway Catering And Tourism Corp",
+   "c": 0.98,
+   "d": 52.7,
+   "p": 458.65
+  },
+  {
+   "s": "TITAN",
+   "n": "Titan Company Limited",
+   "c": 0.95,
+   "d": 37.6,
+   "p": 4675.3
+  },
+  {
+   "s": "ANTHEM",
+   "n": "Anthem Biosciences Limited",
+   "c": 0.89,
+   "d": 50.7,
+   "p": 984.15
+  },
+  {
+   "s": "CDSL",
+   "n": "Central Depository Services (India) Limi",
+   "c": 0.83,
+   "d": 34.0,
+   "p": 1453.0
+  },
+  {
+   "s": "SBILIFE",
+   "n": "SBI Life Insurance Company Limited",
+   "c": 0.74,
+   "d": 67.4,
+   "p": 1856.0
+  },
+  {
+   "s": "LGEINDIA",
+   "n": "LG Electronics India Limited",
+   "c": 0.73,
+   "d": 60.5,
+   "p": 1770.9
+  },
+  {
+   "s": "TATATECH",
+   "n": "Tata Technologies Limited",
+   "c": 0.69,
+   "d": 31.2,
+   "p": 705.2
+  },
+  {
+   "s": "TRENT",
+   "n": "Trent Limited",
+   "c": 0.32,
+   "d": 63.2,
+   "p": 3273.0
+  },
+  {
+   "s": "MOSCHIP",
+   "n": "Moschip Technologies Limited",
+   "c": 0.31,
+   "d": 39.4,
+   "p": 160.16
+  },
+  {
+   "s": "SHAKTIPUMP",
+   "n": "Shakti Pumps (India) Limited",
+   "c": 0.23,
+   "d": 48.8,
+   "p": 346.9
+  },
+  {
+   "s": "AARTIIND",
+   "n": "Aarti Industries Limited",
+   "c": 0.13,
+   "d": 56.6,
+   "p": 438.15
+  },
+  {
+   "s": "ICICIAMC",
+   "n": "ICICI Prudential Asset Management Compan",
+   "c": 0.11,
+   "d": 66.9,
+   "p": 2975.0
+  },
+  {
+   "s": "IDFCFIRSTB",
+   "n": "IDFC First Bank Limited",
+   "c": 0.1,
+   "d": 47.6,
+   "p": 86.8
   },
   {
    "s": "HFCL",
@@ -269,319 +220,384 @@
    "p": 0.0
   },
   {
-   "s": "TMPV",
-   "n": "Tata Motors Passenger Vehicles Limited",
-   "c": -0.04,
-   "d": 45.7,
-   "p": 262.0
-  },
-  {
-   "s": "SBIN",
-   "n": "State Bank of India",
-   "c": -0.13,
-   "d": 39.7,
-   "p": 1136.65
-  },
-  {
-   "s": "PARAS",
-   "n": "Paras Defence and Space Technologies Lim",
-   "c": -0.15,
-   "d": 29.8,
-   "p": 1240.1
-  },
-  {
-   "s": "MARKSANS",
-   "n": "Marksans Pharma Limited",
-   "c": -0.16,
-   "d": 40.3,
-   "p": 279.4
-  },
-  {
-   "s": "ITCHOTELS",
-   "n": "ITC Hotels Limited",
-   "c": -0.21,
-   "d": 61.2,
-   "p": 186.1
-  },
-  {
-   "s": "INDIASHLTR",
-   "n": "India Shelter Finance Corporation Limite",
-   "c": -0.22,
-   "d": 35.5,
-   "p": 621.35
-  },
-  {
-   "s": "AARTIPHARM",
-   "n": "Aarti Pharmalabs Limited",
-   "c": -0.32,
-   "d": 40.0,
-   "p": 1022.15
-  },
-  {
-   "s": "PATANJALI",
-   "n": "Patanjali Foods Limited",
-   "c": -0.41,
-   "d": 35.8,
-   "p": 405.4
-  },
-  {
-   "s": "LT",
-   "n": "Larsen & Toubro Limited",
-   "c": -0.58,
-   "d": 44.0,
-   "p": 4132.1
-  },
-  {
-   "s": "ITC",
-   "n": "ITC Limited",
-   "c": -0.73,
-   "d": 54.5,
-   "p": 307.0
-  },
-  {
-   "s": "PIDILITIND",
-   "n": "Pidilite Industries Limited",
-   "c": -0.74,
-   "d": 70.4,
-   "p": 1604.9
-  },
-  {
-   "s": "PNB",
-   "n": "Punjab National Bank",
-   "c": -0.75,
-   "d": 27.2,
-   "p": 147.5
-  },
-  {
-   "s": "IDEA",
-   "n": "Vodafone Idea Limited",
-   "c": -0.77,
-   "d": 20.6,
-   "p": 11.6
-  },
-  {
-   "s": "IDFCFIRSTB",
-   "n": "IDFC First Bank Limited",
-   "c": -0.87,
-   "d": 54.4,
-   "p": 86.71
-  },
-  {
-   "s": "ETERNAL",
-   "n": "ETERNAL LIMITED",
-   "c": -1.08,
-   "d": 59.0,
-   "p": 367.7
-  },
-  {
-   "s": "HDBFS",
-   "n": "HDB Financial Services Limited",
-   "c": -1.1,
-   "d": 55.3,
-   "p": 551.7
-  },
-  {
-   "s": "TITAN",
-   "n": "Titan Company Limited",
-   "c": -1.18,
-   "d": 52.7,
-   "p": 4631.1
-  },
-  {
-   "s": "IOLCP",
-   "n": "IOL Chemicals and Pharmaceuticals Limite",
-   "c": -1.32,
-   "d": 34.1,
-   "p": 174.89
-  },
-  {
-   "s": "NYKAA",
-   "n": "FSN E-Commerce Ventures Limited",
-   "c": -1.4,
-   "d": 54.1,
-   "p": 353.0
-  },
-  {
-   "s": "SHAKTIPUMP",
-   "n": "Shakti Pumps (India) Limited",
-   "c": -1.51,
-   "d": 54.8,
-   "p": 346.1
-  },
-  {
-   "s": "IPCALAB",
-   "n": "IPCA Laboratories Limited",
-   "c": -1.64,
-   "d": 62.0,
-   "p": 1800.4
-  },
-  {
-   "s": "TRENT",
-   "n": "Trent Limited",
-   "c": -1.72,
-   "d": 45.0,
-   "p": 3262.6
-  },
-  {
-   "s": "TATACONSUM",
-   "n": "TATA CONSUMER PRODUCTS LIMITED",
-   "c": -1.84,
+   "s": "COALINDIA",
+   "n": "Coal India Limited",
+   "c": -0.01,
    "d": 56.4,
-   "p": 1164.0
-  },
-  {
-   "s": "VBL",
-   "n": "Varun Beverages Limited",
-   "c": -1.99,
-   "d": 46.0,
-   "p": 428.4
-  },
-  {
-   "s": "DIXON",
-   "n": "Dixon Technologies (India) Limited",
-   "c": -2.0,
-   "d": 33.5,
-   "p": 12718.0
-  },
-  {
-   "s": "IGIL",
-   "n": "International Gemological Institute Limi",
-   "c": -2.15,
-   "d": 32.5,
-   "p": 423.2
+   "p": 388.85
   },
   {
    "s": "IOC",
    "n": "Indian Oil Corporation Limited",
-   "c": -2.28,
-   "d": 54.0,
-   "p": 144.42
+   "c": -0.15,
+   "d": 56.2,
+   "p": 144.21
+  },
+  {
+   "s": "NTPC",
+   "n": "NTPC Limited",
+   "c": -0.16,
+   "d": 53.4,
+   "p": 319.75
+  },
+  {
+   "s": "BAJAJHFL",
+   "n": "Bajaj Housing Finance Limited",
+   "c": -0.17,
+   "d": 56.9,
+   "p": 80.05
+  },
+  {
+   "s": "IEX",
+   "n": "Indian Energy Exchange Limited",
+   "c": -0.18,
+   "d": 44.0,
+   "p": 110.9
+  },
+  {
+   "s": "HDBFS",
+   "n": "HDB Financial Services Limited",
+   "c": -0.22,
+   "d": 52.7,
+   "p": 550.5
+  },
+  {
+   "s": "IDEA",
+   "n": "Vodafone Idea Limited",
+   "c": -0.43,
+   "d": 25.4,
+   "p": 11.55
+  },
+  {
+   "s": "TRITURBINE",
+   "n": "Triveni Turbine Limited",
+   "c": -0.52,
+   "d": 56.5,
+   "p": 455.2
+  },
+  {
+   "s": "HDFCBANK",
+   "n": "HDFC Bank Limited",
+   "c": -0.55,
+   "d": 66.2,
+   "p": 857.25
+  },
+  {
+   "s": "LT",
+   "n": "Larsen & Toubro Limited",
+   "c": -0.57,
+   "d": 51.8,
+   "p": 4108.5
+  },
+  {
+   "s": "PIDILITIND",
+   "n": "Pidilite Industries Limited",
+   "c": -0.63,
+   "d": 52.7,
+   "p": 1594.8
+  },
+  {
+   "s": "NYKAA",
+   "n": "FSN E-Commerce Ventures Limited",
+   "c": -0.67,
+   "d": 63.9,
+   "p": 350.65
+  },
+  {
+   "s": "PNB",
+   "n": "Punjab National Bank",
+   "c": -0.68,
+   "d": 31.8,
+   "p": 146.5
+  },
+  {
+   "s": "AARTIPHARM",
+   "n": "Aarti Pharmalabs Limited",
+   "c": -0.68,
+   "d": 49.7,
+   "p": 1015.15
+  },
+  {
+   "s": "ITC",
+   "n": "ITC Limited",
+   "c": -0.75,
+   "d": 48.2,
+   "p": 304.7
+  },
+  {
+   "s": "TATACONSUM",
+   "n": "TATA CONSUMER PRODUCTS LIMITED",
+   "c": -0.77,
+   "d": 53.4,
+   "p": 1155.0
+  },
+  {
+   "s": "ITCHOTELS",
+   "n": "ITC Hotels Limited",
+   "c": -0.77,
+   "d": 63.4,
+   "p": 184.66
+  },
+  {
+   "s": "CAMS",
+   "n": "Computer Age Management Services Limited",
+   "c": -0.79,
+   "d": 43.4,
+   "p": 740.0
+  },
+  {
+   "s": "VBL",
+   "n": "Varun Beverages Limited",
+   "c": -0.82,
+   "d": 53.7,
+   "p": 424.9
+  },
+  {
+   "s": "EMCURE",
+   "n": "Emcure Pharmaceuticals Limited",
+   "c": -0.88,
+   "d": 59.6,
+   "p": 2308.6
+  },
+  {
+   "s": "RELIANCE",
+   "n": "Reliance Industries Limited",
+   "c": -0.97,
+   "d": 54.7,
+   "p": 1382.6
+  },
+  {
+   "s": "IPCALAB",
+   "n": "IPCA Laboratories Limited",
+   "c": -0.97,
+   "d": 26.1,
+   "p": 1782.9
+  },
+  {
+   "s": "IREDA",
+   "n": "Indian Renewable Energy Development Agen",
+   "c": -1.11,
+   "d": 27.8,
+   "p": 125.59
+  },
+  {
+   "s": "MARKSANS",
+   "n": "Marksans Pharma Limited",
+   "c": -1.11,
+   "d": 50.2,
+   "p": 276.3
+  },
+  {
+   "s": "SBIN",
+   "n": "State Bank of India",
+   "c": -1.12,
+   "d": 51.5,
+   "p": 1123.9
+  },
+  {
+   "s": "BSE",
+   "n": "BSE Limited",
+   "c": -1.14,
+   "d": 29.6,
+   "p": 3945.0
+  },
+  {
+   "s": "PATANJALI",
+   "n": "Patanjali Foods Limited",
+   "c": -1.25,
+   "d": 57.5,
+   "p": 400.35
+  },
+  {
+   "s": "ETERNAL",
+   "n": "ETERNAL LIMITED",
+   "c": -1.28,
+   "d": 56.1,
+   "p": 363.0
   },
   {
    "s": "TMCV",
    "n": "Tata Motors Limited",
-   "c": -2.49,
-   "d": 51.5,
-   "p": 431.0
+   "c": -1.4,
+   "d": 50.3,
+   "p": 424.95
   },
   {
-   "s": "BHARTIHEXA",
-   "n": "Bharti Hexacom Limited",
-   "c": -2.66,
-   "d": 55.1,
-   "p": 1536.0
+   "s": "IOLCP",
+   "n": "IOL Chemicals and Pharmaceuticals Limite",
+   "c": -1.4,
+   "d": 39.2,
+   "p": 172.45
   },
   {
-   "s": "COFORGE",
-   "n": "Coforge Limited",
-   "c": -2.91,
-   "d": 43.1,
-   "p": 2000.0
+   "s": "TMPV",
+   "n": "Tata Motors Passenger Vehicles Limited",
+   "c": -1.53,
+   "d": 48.2,
+   "p": 258.0
+  },
+  {
+   "s": "GAIL",
+   "n": "GAIL (India) Limited",
+   "c": -1.6,
+   "d": 62.7,
+   "p": 185.0
+  },
+  {
+   "s": "SWIGGY",
+   "n": "Swiggy Limited",
+   "c": -1.6,
+   "d": 33.1,
+   "p": 180.0
   },
   {
    "s": "BAJFINANCE",
    "n": "Bajaj Finance Limited",
-   "c": -2.96,
-   "d": 59.9,
-   "p": 1097.85
+   "c": -1.63,
+   "d": 68.5,
+   "p": 1080.0
   },
   {
-   "s": "LGEINDIA",
-   "n": "LG Electronics India Limited",
-   "c": -3.32,
-   "d": 82.9,
-   "p": 1758.1
+   "s": "SBIFUNDS",
+   "n": "SBI Funds Management Limited",
+   "c": -1.64,
+   "d": 50.6,
+   "p": 525.15
+  },
+  {
+   "s": "JIOFIN",
+   "n": "Jio Financial Services Limited",
+   "c": -1.94,
+   "d": 48.5,
+   "p": 222.6
+  },
+  {
+   "s": "TECHM",
+   "n": "Tech Mahindra Limited",
+   "c": -2.2,
+   "d": 49.8,
+   "p": 1813.9
+  },
+  {
+   "s": "TCS",
+   "n": "Tata Consultancy Services Limited",
+   "c": -2.57,
+   "d": 40.0,
+   "p": 2572.5
+  },
+  {
+   "s": "INFY",
+   "n": "Infosys Limited",
+   "c": -2.68,
+   "d": 58.8,
+   "p": 1151.3
   }
  ],
  "watch": [
   {
-   "s": "KIRLPNU",
-   "n": "Kirloskar Pneumatic Company Limited",
-   "c": 3.14,
-   "d": 54.3,
-   "p": 623.6
+   "s": "FIEMIND",
+   "n": "Fiem Industries Limited",
+   "c": 2.46,
+   "d": 40.7,
+   "p": 2062.6
   },
   {
-   "s": "UNIPARTS",
-   "n": "Uniparts India Limited",
-   "c": 3.05,
-   "d": 66.2,
-   "p": 715.2
+   "s": "KIRLPNU",
+   "n": "Kirloskar Pneumatic Company Limited",
+   "c": 2.19,
+   "d": 45.3,
+   "p": 637.25
   },
   {
    "s": "NETWEB",
    "n": "Netweb Technologies India Limited",
-   "c": 1.15,
-   "d": 24.3,
-   "p": 4057.0
+   "c": 1.84,
+   "d": 33.3,
+   "p": 4131.6
   },
   {
    "s": "THERMAX",
    "n": "Thermax Limited",
-   "c": 0.47,
-   "d": 47.4,
-   "p": 2675.8
-  },
-  {
-   "s": "ANANTRAJ",
-   "n": "Anant Raj Limited",
-   "c": 0.45,
-   "d": 38.0,
-   "p": 446.35
-  },
-  {
-   "s": "HSCL",
-   "n": "Himadri Speciality Chemical Limited",
-   "c": 0.38,
-   "d": 35.2,
-   "p": 545.25
-  },
-  {
-   "s": "KRBL",
-   "n": "KRBL Limited",
-   "c": -0.39,
-   "d": 47.6,
-   "p": 417.3
+   "c": 1.74,
+   "d": 69.1,
+   "p": 2722.3
   },
   {
    "s": "NEPHROPLUS",
    "n": "Nephrocare Health Services Limited",
-   "c": -2.19,
-   "d": 53.1,
-   "p": 659.35
+   "c": 1.41,
+   "d": 51.0,
+   "p": 668.65
   },
   {
-   "s": "FIEMIND",
-   "n": "Fiem Industries Limited",
-   "c": -2.98,
-   "d": 57.4,
-   "p": 2013.0
+   "s": "HSCL",
+   "n": "Himadri Speciality Chemical Limited",
+   "c": 0.73,
+   "d": 40.0,
+   "p": 549.25
+  },
+  {
+   "s": "ANANTRAJ",
+   "n": "Anant Raj Limited",
+   "c": 0.2,
+   "d": 43.7,
+   "p": 447.25
+  },
+  {
+   "s": "KRBL",
+   "n": "KRBL Limited",
+   "c": -0.65,
+   "d": 42.9,
+   "p": 414.6
+  },
+  {
+   "s": "UNIPARTS",
+   "n": "Uniparts India Limited",
+   "c": -1.38,
+   "d": 57.3,
+   "p": 705.35
   }
  ],
  "perf": {
   "n": 76,
-  "day": 0.25,
-  "overall": 26.63
+  "day": 0.11,
+  "overall": 26.86
  },
  "wperf": {
   "n": 9,
-  "day": 0.34
+  "day": 0.95
  },
  "mf": [
   {
    "who": "KB",
-   "overall": 57.81,
-   "day": 0.31,
+   "overall": 57.68,
+   "day": 0.03,
    "funds": 10
   },
   {
    "who": "PT",
-   "overall": 33.18,
-   "day": 0.23,
+   "overall": 32.97,
+   "day": -0.14,
    "funds": 8
   }
  ],
  "digests": [
+  {
+   "s": "IDEA",
+   "n": "Vodafone Idea Limited",
+   "cat": "Credit Rating- Others",
+   "when": "2026-11-27 21:30",
+   "sent": "positive",
+   "txt": "Based on the provided filing, here is the factual summary:\n\n### 1. The Single Most Important Fact\nCARE Ratings Limited has withdrawn its credit rating for Vodafone Idea Limited with effect from November 27, 2024 (erroneously dated 27th November, 2026 in the text), following the company's repayment of relevant fund-based facilities and receipt of No Dues Certificates (NDC) and No Objection Certificates (NOC) from lenders.\n\n### 2. Key Numbers Exactly as Stated\n* None stated in the document (no revenue, EBITDA, debt amounts, or contract values are disclosed).\n\n### 3. Management Guidance, Outlook, or Forward Statements\n* None stated in the document.\n\n### 4. What a Shareholder Should Watch or Act On\n* Note the full repayment/clearance of the specific bank facilities rated by CARE, eliminating those rated obligations. \n* Monitor overall debt levels and remaining credit ratings assigned by other rating agencies to assess ongoing liquidity and credit profile.\n\n### 5. One-Line Net Read\n* **Neutral to slightly positive**: The rating was withdrawn routinely at the company's request following repayment and receipt of No Dues Certificates, rather than an adverse rating action."
+  },
+  {
+   "s": "TMPV",
+   "n": "Tata Motors Passenger Vehicles Limited",
+   "cat": "Credit Rating",
+   "when": "2026-11-27 11:20",
+   "sent": "negative",
+   "txt": "**1. Single Most Important Fact**  \nS&P Global Ratings has downgraded the long-term credit ratings of Tata Motors Passenger Vehicles Limited (from **BBB** to **BBB-**) and its subsidiaries TML Holdings Pte. Ltd. / Jaguar Land Rover Automotive Plc (JLR) (from **BBB-** to **BB+**, falling below investment grade), with the outlook revised to **Stable** from Negative.\n\n---\n\n**2. Key Numbers Exactly as Stated**  \n*No operational financial metrics (revenue, EBITDA, PAT, cash flow figures) are reported in the filing.*  \n* **Credit Rating Revisions:**\n  * **Tata Motors Passenger Vehicles Limited:** Long-Term Issuer Credit Rating revised from **BBB/Negative/--** to **BBB-/Stable/--**\n  * **TML Holdings Pte. Limited & JLR:** Long-Term Issuer Credit Rating revised from **BBB-/Negative/--** to **BB+/Stable/--**\n  * **JLR Senior Unsecured Notes:** Issue rating revised from **BBB-** to **BB+**\n\n---\n\n**3. Management Guidance, Outlook, or Forward Statement**  \n* The company stated that, per S&P Global Ratings, the downgrade was *\"primarily driven by JLR's weaker-than-expected operating performance and negative free operating cash flow.\"*\n* Outlook across all entities has been revised to **Stable**.\n\n---\n\n**4. What a Shareholder Should Watch or Act On**  \n* **JLR Cash Flows & Operating Performance:** Monitor JLR's upcoming operational recovery and cash generation, which S&P identified as weak and cash-flow negative.\n* **Borrowing Costs:** Watch for potential increases in borrowing costs or debt refinancing terms for JLR and TML Holdings, as JLR's rating has crossed into speculative/sub-investment grade (BB+).\n\n---\n\n**5. One-Line Net Read**  \n**Negative**: Credit downgrade across the group, specifically pushing key subsidiary JLR out of investment grade into BB+ due to weak operating performance and negative free operating cash flow."
+  },
   {
    "s": "TMCV",
    "n": "Tata Motors Limited",
@@ -591,274 +607,257 @@
    "txt": "**1. Most Important Fact**  \nTata Motors Limited\u2019s (formerly TML Commercial Vehicles Limited) shareholding in Automobile Corporation of Goa Limited (ACGL) has passively increased from 48.98% to 50.17% following ACGL's buyback and extinguishment of 1,44,639 equity shares. Consequently, ACGL has transitioned from an associate company to a majority-owned subsidiary and will be fully consolidated.\n\n---\n\n**2. Key Numbers Exactly as Stated**  \n* **Shareholding Change:** Increased by 1.19% (from 48.98% to 50.17%).  \n* **New Shares Acquired / Consideration:** Zero / Not Applicable (passive increase).  \n* **Shares Extinguished by ACGL:** 1,44,639 equity shares.  \n* **ACGL Authorized Share Capital (FY26):** \u20b925,00,00,000  \n* **ACGL Revenue from Operations (last 3 years):**  \n  * **FY25-26:** \u20b9933.65 crore (\u20b9933,65,49,000)  \n  * **FY24-25:** \u20b9660.77 crore  \n  * **FY23-24:** \u20b9584.34 crore  \n*(Note: EBITDA, PAT, and profit margins are not disclosed in the document).*\n\n---\n\n**3. Management Guidance / Forward Statements**  \nNo forward-looking guidance was given, other than stating that *\"ACGL will be consolidated as a subsidiary of the Company\"* and that ACGL's business is aligned with the automotive sector in which the Company operates.\n\n---\n\n**4. What a Shareholder Should Watch or Act On**  \n* **Watch:** The upcoming consolidation of ACGL\u2019s full revenue and balance sheet into Tata Motors\u2019 financial results.  \n* **Action:** None required; the change occurred passively via ACGL's buyback without any capital outlay by Tata Motors.\n\n---\n\n**5. One-Line Net Read**  \n**Neutral to mildly positive:** Tata Motors gains majority control and consolidation of a growing supplier/bus-body manufacturer without incurring any cash expenditure."
   },
   {
-   "s": "HDFCBANK",
-   "n": "HDFC Bank Limited",
-   "cat": "Change in Director(s)",
-   "when": "2026-11-25 18:01",
-   "sent": "neutral",
-   "txt": "**1. Most Important Fact**\nThe Board of Directors of HDFC Bank approved the re-appointment of Dr. Harsh Kumar Bhanwala (DIN: 06417704) as an Independent Director for a second term of 5 years, effective from January 25, 2027, to January 24, 2032 (subject to shareholder approval).\n\n**2. Key Numbers**\n* No financial metrics (revenue, EBITDA, PAT, margins, etc.) were reported in this filing.\n* Term duration: 5 years (January 25, 2027 to January 24, 2032).\n* Experience: 40 years of experience in board governance, finance, and rural development.\n\n**3. Management Guidance / Forward Statements**\n* None stated. The filing strictly pertains to board governance and director re-appointment.\n\n**4. What a Shareholder Should Watch or Act On**\n* **Vote on the Resolution:** Shareholders will need to vote on the resolution approving Dr. Bhanwala's re-appointment when placed before them (e.g., via postal ballot or AGM).\n\n**5. One-Line Net Read**\n* **Neutral**: Routine corporate governance disclosure regarding the extension of an experienced independent director's tenure, with no immediate impact on financial performance."
-  },
-  {
-   "s": "LGEINDIA",
-   "n": "LG Electronics India Limited",
-   "cat": "Updates",
-   "when": "2026-11-25 15:15",
-   "sent": "negative",
-   "txt": "**1. Single Most Important Fact**\nPromoter LG Electronics Inc. intends to sell up to a 2% stake (up to 13,575,447 equity shares) of LG Electronics India Limited in the open market to comply with Minimum Public Shareholding (MPS) requirements, reducing its shareholding from 85.00% to 83.00%.\n\n---\n\n**2. Key Numbers Exactly as Stated**\n*(Note: This is a shareholding/compliance filing, not a financial results filing; no revenue or earnings figures are stated).*\n* **Shares to be divested:** Up to 13,575,447 Equity Shares (Face value \u20b910 each)\n* **Stake to be divested:** Up to 2.00% of total issued and paid-up Equity Share capital\n* **Current Promoter Holding (as on Nov 25, 2026):** 85.00%\n* **Post-Sale Promoter Holding:** 83.00%\n\n---\n\n**3. Management Guidance, Outlook, or Forward Statements**\n* **Completion Timeline:** The divestment process will be completed by **December 31, 2026**, executed in single or multiple tranches.\n* **Undertaking:** The promoter, LG Electronics Inc., has undertaken that neither it nor any entity in the promoter group will purchase any equity shares in the open market on the dates when sales are executed.\n\n---\n\n**4. What a Shareholder Should Watch or Act On**\n* **Supply Overhang:** Potential near-term price pressure from the sale of up to ~13.58 million shares directly into the open market ahead of December 31, 2026.\n* **Future Dilution:** Since promoter holding will still remain at 83.00% post-sale, watch for further divestments required to reach the mandatory 25% public float (75% promoter ceiling) under SEBI MPS rules.\n\n---\n\n**5. One-Line Net Read**\n**Neutral to slightly negative near-term** due to open-market secondary supply overhang, though it is a routine regulatory compliance step."
-  },
-  {
-   "s": "LT",
-   "n": "Larsen & Toubro Limited",
-   "cat": "Bagging/Receiving of orders/contracts",
-   "when": "2026-11-25 11:21",
+   "s": "COFORGE",
+   "n": "Coforge Limited",
+   "cat": "Press Release",
+   "when": "2026-11-26 13:11",
    "sent": "positive",
-   "txt": "### 1. Most Important Fact\nLarsen & Toubro's Renewables business and L&T Electronic Products & Systems (LTEPS) have jointly secured a \"Significant\" order to develop a 300 MW / 900 MWh Battery Energy Storage System (BESS) at Khavda, Gujarat.\n\n### 2. Key Numbers Exactly as Stated\n* **Order Value Classification:** \"Significant\" (defined by L&T as **\u20b91,000 crore to \u20b92,500 crore**).\n* **Project Specifications:**\n  * Power capacity: **300 MW**\n  * Energy storage capacity: **900 MWh** (3-hour BESS)\n* *(Note: Financial metrics such as revenue, EBITDA, margins, or PAT are not present in this contract-win filing.)*\n\n### 3. Forward Statement / Outlook\n* The project will use **liquid-cooling technology** to deliver higher power density, enhanced safety, and longer operating life.\n* The facility will store surplus renewable energy during high generation periods and release it during peak demand to maximize clean energy utilization, improve grid flexibility, and strengthen India's power network.\n\n### 4. What a Shareholder Should Watch or Act On\n* Monitor execution timelines and margins in L&T's expanding green energy / BESS portfolio, which is becoming a core growth driver within its EPC and high-tech offerings.\n* Watch for subsequent updates on client identity and commercial terms.\n\n### 5. Net Read\n**Positive**: Strengthens L&T's order book and enhances its technological track record in India's fast-growing utility-scale energy storage market."
+   "txt": "**1. Single Most Important Fact**\nCoforge announced that its proprietary platform, **Coforge EvolveOps.AI\u2122** (part of the Coforge Nuuron enterprise AI enablement suite), won the enterprise-category award for *\"AI Platforms, Infrastructure & Developer Tools\"* at The Economic Times\u2019 Most Innovative AI Product Awards 2026.\n\n---\n\n**2. Key Numbers Exactly as Stated**\n*No company financial figures (revenue, EBITDA, margin, PAT, or deal/contract values) were provided in this filing.*\n\n**Platform Operational & Client Impact Metrics Stated:**\n* **27** enterprise clients operating in live production.\n* **>110,000** nodes, **500,000** assets, and **3,100+** GPUs actively managed.\n* **>45 million** end users served.\n* **28** operationalized AI agent personas collaborating over the Model Context Protocol (MCP).\n* **>16 million** events harmonized daily across **85** telemetry systems.\n* **97.5%** reduction in operational noise.\n* **40%** autonomous resolution of incidents for enterprise clients.\n* **60%** reduction in combined MTTD (Mean Time to Detect) and MTTR (Mean Time to Resolve).\n* **25%** reduction in downtime.\n* **40%** reduction in IT operational expenses for clients.\n* **Zero P1 incidents** across **193 critical systems** over the trailing 12 months.\n\n---\n\n**3. Management Guidance & Forward Statements**\n* **Ashish Kumar (Global Head, Cloud & AI Infrastructure, Coforge):** Paraphrased/quoted: Moving beyond reactive monitoring to deliver autonomous, self-healing tech operations combining open-source foundations, purpose-built small language models, and multi-agent systems to enable clients to achieve *\"zero disruption, zero touch, and zero friction across their enterprise estate.\"*\n* **Company Outlook:** Coforge positions itself as an \"AI-native engineering services leader\" moving *\"beyond AI experimentation\"* to target measurable business outcomes, including lower operating costs, faster cycle times, higher conversion rates, and sustained margin growth.\n\n---\n\n**4. What a Shareholder Should Watch or Act On**\n* No corporate action required. \n* Monitor future earnings reports to see whether deployment of EvolveOps.AI / Nuuron expands beyond the current 27 enterprise clients and contributes meaningfully to platform-led revenue and margins.\n\n---\n\n**5. One-Line Net Read**\n* **Neutral to mildly positive:** A brand/marketing validation of Coforge\u2019s enterprise AI and automation capabilities, but carries no immediate financial or order-inflow impact."
   }
  ],
  "movers": {
   "gainers": [
    {
-    "s": "SHAILY",
-    "n": "Shaily Engineering Plastics Limi",
-    "c": 16.33,
-    "d": 11.2,
-    "p": 3379.6
+    "s": "SOLARWORLD",
+    "n": "Solarworld Energy Solutions Limi",
+    "c": 20.0,
+    "d": 5.7,
+    "p": 121.56
    },
    {
-    "s": "BONDADA",
-    "n": "Bondada Engineering Limited",
-    "c": 15.82,
-    "d": 7.2,
-    "p": 269.75
-   },
-   {
-    "s": "DHAMPURSUG",
-    "n": "Dhampur Sugar Mills Limited",
-    "c": 13.21,
-    "d": 3.4,
-    "p": 180.01
-   },
-   {
-    "s": "HUBTOWN",
-    "n": "Hubtown Limited",
-    "c": 10.73,
-    "d": 13.2,
-    "p": 215.04
-   },
-   {
-    "s": "RENUKA",
-    "n": "Shree Renuka Sugars Limited",
-    "c": 10.33,
-    "d": 3.9,
-    "p": 18.59
-   },
-   {
-    "s": "UTTAMSUGAR",
-    "n": "Uttam Sugar Mills Limited",
-    "c": 10.3,
-    "d": 10.1,
-    "p": 381.8
+    "s": "WAAREERTL",
+    "n": "Waaree Renewable Technologies Li",
+    "c": 20.0,
+    "d": 5.9,
+    "p": 825.7
    },
    {
     "s": "UNITECH",
     "n": "Unitech Limited",
-    "c": 9.78,
-    "d": 58.5,
-    "p": 4.04
+    "c": 18.81,
+    "d": 42.4,
+    "p": 4.8
    },
    {
-    "s": "WSTCSTPAPR",
-    "n": "West Coast Paper Mills Limited",
-    "c": 9.14,
-    "d": 21.7,
-    "p": 651.15
+    "s": "JLHL",
+    "n": "Jupiter Life Line Hospitals Limi",
+    "c": 15.87,
+    "d": 11.1,
+    "p": 345.3
    },
    {
-    "s": "ZAGGLE",
-    "n": "Zaggle Prepaid Ocean Services Li",
-    "c": 9.0,
-    "d": 16.2,
-    "p": 162.51
+    "s": "BEML",
+    "n": "BEML Limited",
+    "c": 14.99,
+    "d": 13.1,
+    "p": 2346.1
    },
    {
-    "s": "ACE",
-    "n": "Action Construction Equipment Li",
-    "c": 8.79,
-    "d": 19.6,
-    "p": 1295.0
+    "s": "PRAJIND",
+    "n": "Praj Industries Limited",
+    "c": 13.43,
+    "d": 4.7,
+    "p": 255.64
+   },
+   {
+    "s": "GEOJITFSL",
+    "n": "Geojit Financial Services Limite",
+    "c": 13.29,
+    "d": 2.2,
+    "p": 78.27
+   },
+   {
+    "s": "JAGRAN",
+    "n": "Jagran Prakashan Limited",
+    "c": 9.5,
+    "d": 5.7,
+    "p": 68.26
+   },
+   {
+    "s": "CONFIPET",
+    "n": "Confidence Petroleum India Limit",
+    "c": 8.99,
+    "d": 27.0,
+    "p": 69.33
+   },
+   {
+    "s": "CEINSYS",
+    "n": "Ceinsys Tech Limited",
+    "c": 8.71,
+    "d": 5.0,
+    "p": 672.1
    }
   ],
   "losers": [
    {
-    "s": "INDOKEM",
-    "n": "Indokem Limited",
-    "c": -10.34,
-    "d": 40.5,
-    "p": 527.5
+    "s": "HMAAGRO",
+    "n": "HMA Agro Industries Limited",
+    "c": -9.99,
+    "d": 12.2,
+    "p": 41.52
+   },
+   {
+    "s": "ARMANFIN",
+    "n": "Arman Financial Services Limited",
+    "c": -6.11,
+    "d": 51.0,
+    "p": 1557.2
+   },
+   {
+    "s": "JWL",
+    "n": "Jupiter Wagons Limited",
+    "c": -5.8,
+    "d": 8.0,
+    "p": 224.84
    },
    {
     "s": "THOMASCOOK",
     "n": "Thomas Cook  (India)  Limited",
-    "c": -10.0,
-    "d": 20.7,
-    "p": 134.64
+    "c": -5.3,
+    "d": 22.9,
+    "p": 127.51
    },
    {
-    "s": "PERMAGN",
-    "n": "Permanent Magnets Limited",
-    "c": -8.21,
-    "d": 34.5,
-    "p": 1216.8
+    "s": "CRYSTALCP",
+    "n": "Crystal Crop Protection Limited",
+    "c": -5.2,
+    "d": 33.9,
+    "p": 263.4
    },
    {
-    "s": "TCIEXP",
-    "n": "TCI Express Limited",
-    "c": -6.98,
-    "d": 34.5,
-    "p": 396.65
+    "s": "SPECTRUM",
+    "n": "Spectrum Electrical Industries L",
+    "c": -5.0,
+    "d": 55.1,
+    "p": 3684.7
    },
    {
-    "s": "PARAGMILK",
-    "n": "Parag Milk Foods Limited",
-    "c": -6.78,
-    "d": 41.9,
-    "p": 315.44
+    "s": "BNAGROCHEM",
+    "n": "BN Agrochem Limited",
+    "c": -4.94,
+    "d": 100.0,
+    "p": 11.36
    },
    {
-    "s": "INOXGREEN",
-    "n": "Inox Green Energy Services Limit",
-    "c": -6.53,
-    "d": 40.7,
-    "p": 110.91
+    "s": "HYUNDAI",
+    "n": "Hyundai Motor India Limited",
+    "c": -4.67,
+    "d": 42.5,
+    "p": 2006.0
    },
    {
-    "s": "UJJIVANSFB",
-    "n": "Ujjivan Small Finance Bank Limit",
-    "c": -6.39,
-    "d": 40.6,
-    "p": 56.87
+    "s": "KOPRAN",
+    "n": "Kopran Limited",
+    "c": -4.62,
+    "d": 48.0,
+    "p": 268.16
    },
    {
-    "s": "UTKARSHBNK",
-    "n": "Utkarsh Small Finance Bank Limit",
-    "c": -6.07,
-    "d": 60.2,
-    "p": 10.84
-   },
-   {
-    "s": "DCBBANK",
-    "n": "DCB Bank Limited",
-    "c": -5.99,
-    "d": 41.2,
-    "p": 227.17
-   },
-   {
-    "s": "GNRL",
-    "n": "Gujarat Natural Resources Limite",
-    "c": -5.8,
-    "d": 36.1,
-    "p": 11.53
+    "s": "SMT",
+    "n": "Sahajanand Medical Technologies ",
+    "c": -4.6,
+    "d": 33.7,
+    "p": 527.85
    }
   ],
   "delivery": [
    {
     "s": "BENARAS",
     "n": "Benares Hotels Limited",
-    "c": -0.04,
+    "c": -0.97,
     "d": 100.0,
-    "p": 10325.0
-   },
-   {
-    "s": "INDPRUD",
-    "n": "Industrial & Prudential Investme",
-    "c": 0.75,
-    "d": 100.0,
-    "p": 6050.0
+    "p": 10225.0
    },
    {
     "s": "BNAGROCHEM",
     "n": "BN Agrochem Limited",
-    "c": -4.93,
+    "c": -4.94,
     "d": 100.0,
-    "p": 11.95
+    "p": 11.36
+   },
+   {
+    "s": "INDPRUD",
+    "n": "Industrial & Prudential Investme",
+    "c": 2.07,
+    "d": 100.0,
+    "p": 6175.0
    },
    {
     "s": "CONSOFINVT",
     "n": "Consolidated Finvest & Holdings ",
-    "c": 0.02,
-    "d": 98.8,
-    "p": 320.1
+    "c": -0.03,
+    "d": 100.0,
+    "p": 320.0
+   },
+   {
+    "s": "GRANDOAK",
+    "n": "Grand Oak Canyons Distillery Lim",
+    "c": 2.02,
+    "d": 98.5,
+    "p": 30.74
    },
    {
     "s": "BENGALASM",
     "n": "Bengal & Assam Company Limited",
-    "c": -0.34,
-    "d": 96.8,
-    "p": 5699.0
+    "c": -0.73,
+    "d": 95.0,
+    "p": 5657.5
    },
    {
-    "s": "ARYAMAN",
-    "n": "Aryaman Financial Services Limit",
-    "c": 0.74,
-    "d": 96.1,
-    "p": 837.8
-   },
-   {
-    "s": "IMPAL",
-    "n": "India Motor Parts and Accessorie",
-    "c": -1.15,
-    "d": 95.2,
-    "p": 1013.0
-   },
-   {
-    "s": "PRIMESECU",
-    "n": "Prime Securities Limited",
-    "c": -2.46,
-    "d": 92.8,
-    "p": 297.25
+    "s": "NIVABUPA",
+    "n": "Niva Bupa Health Insurance Compa",
+    "c": 1.87,
+    "d": 93.8,
+    "p": 75.66
    },
    {
     "s": "DISAQ",
     "n": "Disa India Limited",
-    "c": -3.29,
-    "d": 92.5,
-    "p": 10625.0
+    "c": -0.34,
+    "d": 92.9,
+    "p": 10589.0
    },
    {
-    "s": "JINDALPHOT",
-    "n": "Jindal Photo Limited",
-    "c": -0.16,
-    "d": 91.8,
-    "p": 1110.1
+    "s": "INSECTICID",
+    "n": "Insecticides (India) Limited",
+    "c": 2.34,
+    "d": 91.6,
+    "p": 566.65
+   },
+   {
+    "s": "SUNRAKSHAK",
+    "n": "Sunrakshakk Industries India Lim",
+    "c": 0.38,
+    "d": 90.7,
+    "p": 341.35
    }
   ]
  },
  "fiidii": [
   {
    "cat": "DII",
-   "date": "26-Nov-2026",
-   "net": "5630.72",
-   "buy": "24352.87",
-   "sell": "18722.15"
+   "date": "27-Nov-2026",
+   "net": "-556.42",
+   "buy": "17263.65",
+   "sell": "17820.07"
   },
   {
    "cat": "FII/FPI",
-   "date": "26-Nov-2026",
-   "net": "5843.33",
-   "buy": "17879.74",
-   "sell": "12036.41"
+   "date": "27-Nov-2026",
+   "net": "1634.33",
+   "buy": "14259.45",
+   "sell": "12625.12"
   }
  ],
  "pcr": {
   "NIFTY": {
-   "all": 0.821,
-   "all_prev": 1.429,
-   "vol": 0.991,
-   "near": 0.74,
-   "near_exp": "2026-11-23",
-   "near_prev": 1.673,
+   "all": 0.742,
+   "all_prev": 0.821,
+   "vol": 1.05,
+   "near": 0.588,
+   "near_exp": "2026-12-01",
+   "near_prev": 0.7,
    "series": [
-    1.139,
     0.727,
     1.269,
     0.906,
@@ -887,18 +886,18 @@
     0.942,
     1.344,
     1.429,
-    0.821
+    0.821,
+    0.742
    ]
   },
   "BANKNIFTY": {
-   "all": 0.746,
-   "all_prev": 1.253,
-   "vol": 0.963,
-   "near": 0.713,
-   "near_exp": "2026-11-23",
-   "near_prev": 1.371,
+   "all": 0.905,
+   "all_prev": 0.746,
+   "vol": 0.906,
+   "near": 0.887,
+   "near_exp": "2026-12-29",
+   "near_prev": 0.819,
    "series": [
-    0.936,
     0.873,
     1.009,
     0.942,
@@ -927,210 +926,211 @@
     1.153,
     1.269,
     1.253,
-    0.746
+    0.746,
+    0.905
    ]
   },
-  "date": "2026-11-23"
+  "date": "2026-11-27"
  },
  "flows": [
   {
-   "s": "LGEINDIA",
+   "s": "IGIL",
    "kind": "bulk",
-   "who": "LG ELECTRONICS INC",
+   "who": "BCP ASIA II TOPCO PTE. LTD.",
    "bs": "SELL",
-   "qty": 13575447,
-   "px": 1765.28,
-   "val": 2396.45,
+   "qty": 3358016,
+   "px": 417.0,
+   "val": 140.03,
    "mine": true
   },
   {
-   "s": "SCHAEFFLER",
+   "s": "IGIL",
    "kind": "bulk",
-   "who": "SCHAEFFLER SCHWEINFURT BETEILIGUNGS GM",
+   "who": "BCP ASIA II TOPCO PTE . LTD .",
    "bs": "SELL",
-   "qty": 10159738,
-   "px": 3493.0,
-   "val": 3548.8,
-   "mine": false
+   "qty": 3358015,
+   "px": 417.0,
+   "val": 140.03,
+   "mine": true
   },
   {
-   "s": "SCHAEFFLER",
+   "s": "IGIL",
    "kind": "block",
-   "who": "SCHAEFFLER SCHWEINFURT BETEILIGUNGS GM",
+   "who": "BCP ASIA II TOPCO PTE . LTD .",
    "bs": "SELL",
-   "qty": 10159738,
-   "px": 3493.0,
-   "val": 3548.8,
-   "mine": false
+   "qty": 3358015,
+   "px": 417.0,
+   "val": 140.03,
+   "mine": true
   },
   {
-   "s": "IIFL",
-   "kind": "bulk",
-   "who": "SMALLCAP WORLD FUND INC",
+   "s": "IGIL",
+   "kind": "block",
+   "who": "BCP ASIA II TOPCO PTE. LTD.",
    "bs": "SELL",
-   "qty": 5615936,
-   "px": 600.16,
-   "val": 337.05,
-   "mine": false
+   "qty": 3358016,
+   "px": 417.0,
+   "val": 140.03,
+   "mine": true
   },
   {
-   "s": "CARBORUNIV",
+   "s": "IGIL",
    "kind": "bulk",
-   "who": "SBI MUTUAL FUND",
+   "who": "OLD BRIDGE MUTUAL FUND",
    "bs": "BUY",
-   "qty": 3344472,
-   "px": 975.0,
-   "val": 326.09,
-   "mine": false
+   "qty": 2400000,
+   "px": 417.0,
+   "val": 100.08,
+   "mine": true
   },
   {
-   "s": "SCHAEFFLER",
-   "kind": "bulk",
-   "who": "NATIONAL PENSION SYSTEM (NPS) TRUST",
-   "bs": "BUY",
-   "qty": 847000,
-   "px": 3493.0,
-   "val": 295.86,
-   "mine": false
-  },
-  {
-   "s": "SCHAEFFLER",
+   "s": "IGIL",
    "kind": "block",
-   "who": "NATIONAL PENSION SYSTEM (NPS) TRUST",
+   "who": "OLD BRIDGE MUTUAL FUND",
    "bs": "BUY",
-   "qty": 847000,
-   "px": 3493.0,
-   "val": 295.86,
-   "mine": false
+   "qty": 2400000,
+   "px": 417.0,
+   "val": 100.08,
+   "mine": true
   },
   {
-   "s": "CARBORUNIV",
+   "s": "IGIL",
+   "kind": "block",
+   "who": "STALLION ASSET PRIVATE LIMITED",
+   "bs": "BUY",
+   "qty": 1198522,
+   "px": 417.0,
+   "val": 49.98,
+   "mine": true
+  },
+  {
+   "s": "IGIL",
+   "kind": "block",
+   "who": "CITIGROUP GLOBAL MARKETS SINGAPORE PTE",
+   "bs": "BUY",
+   "qty": 719425,
+   "px": 417.0,
+   "val": 30.0,
+   "mine": true
+  },
+  {
+   "s": "IGIL",
+   "kind": "block",
+   "who": "MORGAN STANLEY ASIA SINGAPORE PTE",
+   "bs": "BUY",
+   "qty": 599521,
+   "px": 417.0,
+   "val": 25.0,
+   "mine": true
+  },
+  {
+   "s": "IGIL",
+   "kind": "block",
+   "who": "SUSQUEHANNA PACIFIC PTY LTD",
+   "bs": "BUY",
+   "qty": 599521,
+   "px": 417.0,
+   "val": 25.0,
+   "mine": true
+  },
+  {
+   "s": "IGIL",
+   "kind": "block",
+   "who": "ASHOKA INDIA EQUITY INVESTMENT TRUST P",
+   "bs": "BUY",
+   "qty": 599521,
+   "px": 417.0,
+   "val": 25.0,
+   "mine": true
+  },
+  {
+   "s": "IGIL",
+   "kind": "block",
+   "who": "WHITEOAK CAPITAL MUTUAL FUND",
+   "bs": "BUY",
+   "qty": 599521,
+   "px": 417.0,
+   "val": 25.0,
+   "mine": true
+  },
+  {
+   "s": "SGMART",
    "kind": "bulk",
-   "who": "SBI MUTUAL FUND",
+   "who": "QE SECURITIES LLP",
    "bs": "SELL",
-   "qty": 2793669,
-   "px": 975.0,
-   "val": 272.38,
+   "qty": 685337,
+   "px": 918.47,
+   "val": 62.95,
    "mine": false
   },
   {
-   "s": "SCHAEFFLER",
-   "kind": "block",
-   "who": "SBI MUTUAL FUND",
-   "bs": "BUY",
-   "qty": 758660,
-   "px": 3493.0,
-   "val": 265.0,
-   "mine": false
-  },
-  {
-   "s": "AMAGI",
+   "s": "SGMART",
    "kind": "bulk",
-   "who": "NORWEST VENTURE PARTNERS X MAURITIUS",
-   "bs": "SELL",
-   "qty": 4737204,
-   "px": 554.0,
-   "val": 262.44,
+   "who": "QE SECURITIES LLP",
+   "bs": "BUY",
+   "qty": 680645,
+   "px": 919.41,
+   "val": 62.58,
    "mine": false
   },
   {
-   "s": "AMAGI",
-   "kind": "block",
-   "who": "NORWEST VENTURE PARTNERS X MAURITIUS",
-   "bs": "SELL",
-   "qty": 4737204,
-   "px": 554.0,
-   "val": 262.44,
-   "mine": false
-  },
-  {
-   "s": "IIFL",
+   "s": "WAAREERTL",
    "kind": "bulk",
-   "who": "UBS AG",
+   "who": "QE SECURITIES LLP",
    "bs": "BUY",
-   "qty": 4320402,
-   "px": 600.0,
-   "val": 259.22,
+   "qty": 756095,
+   "px": 774.17,
+   "val": 58.53,
    "mine": false
   },
   {
-   "s": "SCHAEFFLER",
-   "kind": "block",
-   "who": "ICICI PRUDENTIAL MUTUAL  FUND",
-   "bs": "BUY",
-   "qty": 644046,
-   "px": 3493.0,
-   "val": 224.97,
-   "mine": false
-  },
-  {
-   "s": "SCHAEFFLER",
-   "kind": "block",
-   "who": "ICICI PRUDENTIAL MUTUAL FUND",
-   "bs": "BUY",
-   "qty": 644046,
-   "px": 3493.0,
-   "val": 224.97,
-   "mine": false
-  },
-  {
-   "s": "AMAGI",
+   "s": "WAAREERTL",
    "kind": "bulk",
-   "who": "ADITYA BIRLA SUN LIFE MUTUAL FUND",
-   "bs": "BUY",
-   "qty": 3327204,
-   "px": 554.0,
-   "val": 184.33,
-   "mine": false
-  },
-  {
-   "s": "AMAGI",
-   "kind": "block",
-   "who": "ADITYA BIRLA SUN LIFE MUTUAL FUND",
-   "bs": "BUY",
-   "qty": 3327204,
-   "px": 554.0,
-   "val": 184.33,
-   "mine": false
-  },
-  {
-   "s": "ALKEM",
-   "kind": "block",
-   "who": "SEEMA SINGH",
+   "who": "QE SECURITIES LLP",
    "bs": "SELL",
-   "qty": 358695,
-   "px": 5075.0,
-   "val": 182.04,
+   "qty": 759232,
+   "px": 768.77,
+   "val": 58.37,
    "mine": false
   },
   {
-   "s": "SCHAEFFLER",
-   "kind": "block",
-   "who": "MIRAE ASSET MUTUAL FUND",
-   "bs": "BUY",
-   "qty": 491804,
-   "px": 3493.0,
-   "val": 171.79,
+   "s": "WAAREERTL",
+   "kind": "bulk",
+   "who": "ALPHAGREP SECURITIES PRIVATE LIMITED",
+   "bs": "SELL",
+   "qty": 737975,
+   "px": 775.12,
+   "val": 57.2,
    "mine": false
   },
   {
-   "s": "SCHAEFFLER",
-   "kind": "block",
-   "who": "SBI MUTUAL FUND",
+   "s": "WAAREERTL",
+   "kind": "bulk",
+   "who": "ALPHAGREP SECURITIES PRIVATE LIMITED",
    "bs": "BUY",
-   "qty": 452311,
-   "px": 3493.0,
-   "val": 157.99,
+   "qty": 737852,
+   "px": 774.86,
+   "val": 57.17,
    "mine": false
   },
   {
-   "s": "SCHAEFFLER",
-   "kind": "block",
-   "who": "NIPPON INDIA MUTUAL FUND",
+   "s": "WAAREERTL",
+   "kind": "bulk",
+   "who": "MICROCURVES TRADING PRIVATE LIMITED",
+   "bs": "SELL",
+   "qty": 645395,
+   "px": 781.89,
+   "val": 50.46,
+   "mine": false
+  },
+  {
+   "s": "WAAREERTL",
+   "kind": "bulk",
+   "who": "MICROCURVES TRADING PRIVATE LIMITED",
    "bs": "BUY",
-   "qty": 347000,
-   "px": 3493.0,
-   "val": 121.21,
+   "qty": 644965,
+   "px": 781.31,
+   "val": 50.39,
    "mine": false
   }
  ]
